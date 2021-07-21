@@ -1,0 +1,1115 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - ColorSwatch
+    - DDexEvoSplit
+    - DDexEvolution
+    - DDexFButtonType
+    - DDexFInDecrease
+    - DDexFManager
+    - DDexFRange
+    - DDexFSearchbox
+    - DDexFToggle
+    - DDexMarkUpdater
+    - DDexMoveSpawner
+    - DDexMoveUpdater
+    - DDexPopUp
+    - DDexStats
+    - DDexWeakness
+    - DSidebar
+    - EvoSplit
+    - IndexManager
+    - LoadScene
+    - MovedexEntry
+    - Pokedex.FilterManager
+    - Pokedex.NumberRange
+    - Pokedex.NumberRangeManager
+    - Pokedex.PokedexAbilities
+    - Pokedex.PokedexEntryHide
+    - Pokedex.PokedexEntryUpdater
+    - Pokedex.PokedexEvolution
+    - Pokedex.PokedexFolder
+    - Pokedex.PokedexFolderHandler
+    - Pokedex.PokedexFolderStyle
+    - Pokedex.PokedexHealth
+    - Pokedex.PokedexHeight
+    - Pokedex.PokedexName
+    - Pokedex.PokedexNumber
+    - Pokedex.PokedexPortrait
+    - Pokedex.PokedexPreviewSpawner
+    - Pokedex.PokedexPreviewUpdater
+    - Pokedex.PokedexRank
+    - Pokedex.PokedexSpecies
+    - Pokedex.PokedexTypes
+    - Pokedex.PokedexWeight
+    - Pokedex.PreviewRename
+    - PokedexEntry
+    - PokedexIndex
+    - RegionIndex
+    - ScrollIndexCallback1
+    - ScrollIndexCallback2
+    - ScrollIndexCallback3
+    - Scrolling
+    - TitleBar
+    - Type
+    LeanPool.dll:
+    - Lean.Pool.LeanGameObjectPool
+    Unity.2D.Tilemap.Editor.dll:
+    - UnityEditor.Tilemaps.GridPaintingState
+    - UnityEditor.Tilemaps.GridPaletteBrushes
+    - UnityEditor.Tilemaps.GridPalettes
+    - UnityEditor.Tilemaps.SceneViewGridManager
+    - UnityEditor.Tilemaps.SceneViewOpenTilePaletteHelper
+    - UnityEditor.Tilemaps.TileDragAndDropManager
+    - UnityEditor.Tilemaps.TilemapPrefabStageHelper
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.TextMeshPro.dll:
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_InputField
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
+    - TMPro.TextMeshProUGUI
+    UnityEditor.TestRunner.dll:
+    - TestRunner.Callbacks.WindowResultUpdaterDataHolder
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    - UnityEditor.TestTools.TestRunner.TestRunnerWindow
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.EventTrigger
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.ContentSizeFitter
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.GridLayoutGroup
+    - UnityEngine.UI.Image
+    - UnityEngine.UI.LayoutElement
+    - UnityEngine.UI.Mask
+    - UnityEngine.UI.RectMask2D
+    - UnityEngine.UI.ScrollRect
+    - UnityEngine.UI.Scrollbar
+    - UnityEngine.UI.Text
+    - UnityEngine.UI.VerticalLayoutGroup
+  sceneClasses:
+    Assets/Scenes/Dashboard.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1484}
+    - Class: 114
+      Script: {instanceID: 1542}
+    - Class: 114
+      Script: {instanceID: 1622}
+    - Class: 114
+      Script: {instanceID: 1738}
+    - Class: 114
+      Script: {instanceID: 1788}
+    - Class: 114
+      Script: {instanceID: 1792}
+    - Class: 114
+      Script: {instanceID: 1798}
+    - Class: 114
+      Script: {instanceID: 1808}
+    - Class: 114
+      Script: {instanceID: 1866}
+    - Class: 114
+      Script: {instanceID: 1868}
+    - Class: 114
+      Script: {instanceID: 1972}
+    - Class: 114
+      Script: {instanceID: 2020}
+    - Class: 114
+      Script: {instanceID: 2030}
+    - Class: 114
+      Script: {instanceID: 2068}
+    - Class: 114
+      Script: {instanceID: 2112}
+    - Class: 114
+      Script: {instanceID: 2126}
+    - Class: 114
+      Script: {instanceID: 2334}
+    - Class: 114
+      Script: {instanceID: 2358}
+    - Class: 114
+      Script: {instanceID: 2392}
+    - Class: 114
+      Script: {instanceID: 2394}
+    - Class: 114
+      Script: {instanceID: 2416}
+    - Class: 114
+      Script: {instanceID: 2450}
+    - Class: 114
+      Script: {instanceID: 2490}
+    - Class: 114
+      Script: {instanceID: 2540}
+    - Class: 114
+      Script: {instanceID: 2544}
+    - Class: 114
+      Script: {instanceID: 2570}
+    - Class: 114
+      Script: {instanceID: 2610}
+    - Class: 114
+      Script: {instanceID: 2618}
+    - Class: 114
+      Script: {instanceID: 2656}
+    - Class: 114
+      Script: {instanceID: 2692}
+    - Class: 114
+      Script: {instanceID: 2722}
+    - Class: 114
+      Script: {instanceID: 2808}
+    - Class: 114
+      Script: {instanceID: 2816}
+    - Class: 114
+      Script: {instanceID: 2818}
+    - Class: 114
+      Script: {instanceID: 2820}
+    - Class: 114
+      Script: {instanceID: 2856}
+    - Class: 114
+      Script: {instanceID: 2896}
+    - Class: 114
+      Script: {instanceID: 2912}
+    - Class: 114
+      Script: {instanceID: 3034}
+    - Class: 114
+      Script: {instanceID: 3050}
+    - Class: 114
+      Script: {instanceID: 3058}
+    - Class: 114
+      Script: {instanceID: 3120}
+    - Class: 114
+      Script: {instanceID: 3166}
+    - Class: 114
+      Script: {instanceID: 3208}
+    - Class: 114
+      Script: {instanceID: 3222}
+    - Class: 114
+      Script: {instanceID: 3246}
+    - Class: 114
+      Script: {instanceID: 3258}
+    - Class: 114
+      Script: {instanceID: 3272}
+    - Class: 114
+      Script: {instanceID: 3286}
+    - Class: 114
+      Script: {instanceID: 3352}
+    - Class: 114
+      Script: {instanceID: 3430}
+    - Class: 114
+      Script: {instanceID: 3602}
+    - Class: 114
+      Script: {instanceID: 3604}
+    - Class: 114
+      Script: {instanceID: 3610}
+    - Class: 114
+      Script: {instanceID: 3622}
+    - Class: 114
+      Script: {instanceID: 3742}
+    - Class: 114
+      Script: {instanceID: 3760}
+    - Class: 114
+      Script: {instanceID: 3764}
+    - Class: 114
+      Script: {instanceID: 3812}
+    - Class: 114
+      Script: {instanceID: 3850}
+    - Class: 114
+      Script: {instanceID: 3868}
+    - Class: 114
+      Script: {instanceID: 3870}
+    - Class: 114
+      Script: {instanceID: 3974}
+    - Class: 114
+      Script: {instanceID: 3996}
+    - Class: 114
+      Script: {instanceID: 4042}
+    - Class: 114
+      Script: {instanceID: 4062}
+    - Class: 114
+      Script: {instanceID: 4104}
+    - Class: 114
+      Script: {instanceID: 4120}
+    - Class: 114
+      Script: {instanceID: 4128}
+    - Class: 114
+      Script: {instanceID: 4130}
+    - Class: 114
+      Script: {instanceID: 4138}
+    - Class: 114
+      Script: {instanceID: 4282}
+    - Class: 114
+      Script: {instanceID: 4500}
+    - Class: 114
+      Script: {instanceID: 4514}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: a6e561615949734e9f12f9b61661f43e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 77aaaaa51f7a8d8ff333a879741e47d2
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: bcaee4c2a83047257b5f47d6ed264b75
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 6bc76e17f0d5e93f3eea7f5a2fe227f3
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: 21a9c6dbf300fc1f6dc15ca7e2c39a37
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: 300fd99066f8c288e85f5e81ce65fe34
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 949001aac667d14307905051e087a20a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SG
+    className: InitOnStart
+  - hash:
+      serializedVersion: 2
+      Hash: 3bdac9a9b901fd2d46be5a886e4851b9
+    assemblyName: LeanPool.dll
+    namespaceName: Lean.Pool
+    className: LeanGameObjectPool
+  - hash:
+      serializedVersion: 2
+      Hash: aa1811d3e72bed133d07113c2d25c5a6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DDexEvolution
+  - hash:
+      serializedVersion: 2
+      Hash: cc8585dcd45f829804a7114a56b5ab75
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PokedexWeight
+  - hash:
+      serializedVersion: 2
+      Hash: 706076799e862ac033cdc15981db5dc5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DDexMarkUpdater
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb8f50881182becb5b666518aae489d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DDexEvoSplit
+  - hash:
+      serializedVersion: 2
+      Hash: 3622e0095af11b9d324ffe26f769493e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: NumberRange
+  - hash:
+      serializedVersion: 2
+      Hash: 4e951c05b011685e2917d2a28a840c07
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PokedexIndex
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 800c50acba124432abb4cf0d47202e06
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: 699619b86d9359741a4f58540298c80b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: db40996bc1c970cdc928b9b76aec0008
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PokedexSpecies
+  - hash:
+      serializedVersion: 2
+      Hash: f1d735cc1a21c3704ab52568f4fbfcf8
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PokedexFolder
+  - hash:
+      serializedVersion: 2
+      Hash: df40ab8498d2a02c317f47ac27e01f07
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PokedexAbilities
+  - hash:
+      serializedVersion: 2
+      Hash: c1d728126ff1918728036c59106d32b2
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 5f170942ee57c7a568f5bcfc7521adea
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: EnumerableTestState
+  - hash:
+      serializedVersion: 2
+      Hash: a1aa98c78061c6f03a8c124cda576e67
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LoadScene
+  - hash:
+      serializedVersion: 2
+      Hash: 0a7497643b20880ee05b833eb8c722d8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: IndexManager
+  - hash:
+      serializedVersion: 2
+      Hash: 827b746f23807f916c143794f44a4e71
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PokedexEntryUpdater
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: SG
+    className: ResourceManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PreviewRename
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: fe64a45214940b510a0ec79c96d43498
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: a74405a4829a834d107a0c6e072719ed
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 760787567e1b60d64a3e421ab83ee14a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: fef3138431d75b7bd7f7192443d5187d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DDexWeakness
+  - hash:
+      serializedVersion: 2
+      Hash: 5871e0107642b748d5f882ccf7a22d84
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PokedexEvolution
+  - hash:
+      serializedVersion: 2
+      Hash: 0f8a7e510edb8996396d40df73d75e38
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PokedexNumber
+  - hash:
+      serializedVersion: 2
+      Hash: 1ea55d7abe2307363a713249b70fc2ed
+    assemblyName: LeanCommon.dll
+    namespaceName: Lean.Common.Examples
+    className: LeanGuide
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestRunner.Utils
+    className: TestRunCallbackListener
+  - hash:
+      serializedVersion: 2
+      Hash: a54937ca31038eacaae12eda2e662ce1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ColorSwatch
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: f40fedccd4adbc76605bea6d67537e4b
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: 9286b1bf2263cb4ca29fcf2c48408f0b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PokedexFolderStyle
+  - hash:
+      serializedVersion: 2
+      Hash: a306e12d896ddcca949923c805691027
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: dc084d6e454511ec5d3dc511b697a7b2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DSidebar
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 466c5102f3bc4b106556f82629e6fe91
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ScrollIndexCallback2
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 4c4e37a94e12a6c07030b65fd02a6f1f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DDexMoveSpawner
+  - hash:
+      serializedVersion: 2
+      Hash: 05705c92a79702b4627ce097d0ba6d3c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: EvoSplit
+  - hash:
+      serializedVersion: 2
+      Hash: f7858108331b563fb41b80b729297acd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: 5dea360fb0b147724ac344e6f399c2f3
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: LeanPool.dll
+    namespaceName: Lean.Pool.Extras
+    className: LeanPooledRigidbody2D
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: f61f5aecb7d5bad1310aa4c2844b4510
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PokedexPreviewSpawner
+  - hash:
+      serializedVersion: 2
+      Hash: 8e6ceabfd38a184413d69b7db56c89cc
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 69415240821be7986b27e72bf9609a30
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: a4f7c3d412bba4e7cceba018c3e6b7fd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DDexFRange
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 4ce15e99c635d2567873d27549d1f16f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ScrollIndexCallback3
+  - hash:
+      serializedVersion: 2
+      Hash: 2f5b2ea61ed637457754416d91e23eee
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: NumberRangeManager
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PokedexPreviewUpdater
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 3164bc883ff663a5cdb32d1ef7e7c0c5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayerQuitHandler
+  - hash:
+      serializedVersion: 2
+      Hash: e346e1f2a8edad2379ea59573f9e6335
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PokedexEntryHide
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 64bbb2659cde62ac57cb32052412ac2a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PokedexPortrait
+  - hash:
+      serializedVersion: 2
+      Hash: 66aed95191940cb77eb91e6e28480239
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PokedexRank
+  - hash:
+      serializedVersion: 2
+      Hash: 3fd38b80bd5fd3f46397d9838cc5fc36
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PokedexTypes
+  - hash:
+      serializedVersion: 2
+      Hash: 82243b12f3586f93ee32ec4f9b524fe0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PokedexName
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 5fa5db3f2956941fcdd282137aa31e5e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RegionIndex
+  - hash:
+      serializedVersion: 2
+      Hash: da4cc51a02ce84afe2cecd27cfe6997a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 718609b437b3152f549e857f2cba3c91
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DDexFManager
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: 134322c9293c1896357cce271b819ce4
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: a81d4c2c1cf3ad164d277d927a193679
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PokedexRegionFolder
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 7f21c0b8c02fe27e5af5010b5f2bfc7a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DDexFSearchbox
+  - hash:
+      serializedVersion: 2
+      Hash: 9ee9e9eb502245283cc236a9deec123c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ScrollIndexCallback1
+  - hash:
+      serializedVersion: 2
+      Hash: f8e74b65d27a3bb22896c52fdffcb6e3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PokedexEntry
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: dcdfe1d9faf4d200c5749f6f5c817e5e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.UI
+    className: LoopVerticalScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: 31d4dbe18a181e40c86d619563caf313
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DDexFInDecrease
+  - hash:
+      serializedVersion: 2
+      Hash: 908b3077da284d11de0450423ca1808e
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: dcdfe1d9faf4d200c5749f6f5c817e5e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: UnityEngine.UI
+    className: LoopHorizontalScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: 040dd48e3a027d5424519a5fa2009df4
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: d53fc86898caeee074f163456f9b947c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DDexFToggle
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: c7aeaa60f57bc2125855be6e3dc75f14
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MovedexEntry
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: ef5c43f921427d03730f6ea4c848f07d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 87ad3705a58f19c47136728d4a6e9c47
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 63f9ba6dbea6e8eaf4195f0ec17da489
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PokedexHeight
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TitleBar
+  - hash:
+      serializedVersion: 2
+      Hash: 893e30ee7484e68f8dc8016ee688bf2a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DDexPopUp
+  - hash:
+      serializedVersion: 2
+      Hash: 6980e81ddc615a861309d2d659cc3760
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: eb35663a25a4676d28ad92c52e34c6e4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DDexMoveUpdater
+  - hash:
+      serializedVersion: 2
+      Hash: dfa77f4d3ca1798c9896b7244085e368
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Type
+  - hash:
+      serializedVersion: 2
+      Hash: ee15c53fb90c7281469eb227bfc99f79
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DDexStats
+  - hash:
+      serializedVersion: 2
+      Hash: dba95f73aacafe49e557ad5a53afb059
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Scrolling
+  - hash:
+      serializedVersion: 2
+      Hash: 7ccbde72ca5a13d08a275c06b50f6158
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PokedexFolderHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 4b8e8780c0620fdf95b5e3277ebd1403
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: PokedexHealth
+  - hash:
+      serializedVersion: 2
+      Hash: fd68d84f33fad85aac38f2739c0ee270
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: LeanPool.dll
+    namespaceName: Lean.Pool.Extras
+    className: LeanPooledRigidbody
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: dc2243e087e9e8fe005d19593704ffa9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DDexFButtonType
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 0b6c3e7b6d27f447eb6562b3a650960d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Pokedex
+    className: FilterManager
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: e137911c0bf8a3220f2dbbc5adb5116f
+    assemblyName: RotaryHeart.SerializableDictionary.dll
+    namespaceName: RotaryHeart.Lib.SerializableDictionaryPro
+    className: BehaviourExample
+  - hash:
+      serializedVersion: 2
+      Hash: 16549ee051e95942197601156e5a883e
+    assemblyName: RotaryHeart.SerializableDictionary.dll
+    namespaceName: RotaryHeart.Lib.SerializableDictionaryPro
+    className: RequiredReferences
+  - hash:
+      serializedVersion: 2
+      Hash: 85c189403ae3915d2dac88b009f36d2c
+    assemblyName: RotaryHeart.SerializableDictionary.dll
+    namespaceName: RotaryHeart.Lib.SerializableDictionaryPro
+    className: SortedExample
+  - hash:
+      serializedVersion: 2
+      Hash: 30b08d33cb683a32376db6b9dbea6335
+    assemblyName: RotaryHeart.SerializableDictionary.dll
+    namespaceName: RotaryHeart.Lib.SerializableDictionaryPro
+    className: DataBaseExample
+  - hash:
+      serializedVersion: 2
+      Hash: d4dbeb2347e65a2e7acbea676429df91
+    assemblyName: RotaryHeart.SerializableDictionary.dll
+    namespaceName: RotaryHeart.Lib.SerializableDictionaryPro
+    className: HashSetExample
+  - hash:
+      serializedVersion: 2
+      Hash: bc346834313b6073bd10ff9be0be74f6
+    assemblyName: RotaryHeart.SerializableDictionary.dll
+    namespaceName: RotaryHeart.Lib.SerializableDictionaryPro
+    className: NestedDB
+  - hash:
+      serializedVersion: 2
+      Hash: 5a26b51aa4b95c49233337febaf990f4
+    assemblyName: RotaryHeart.SerializableDictionary.dll
+    namespaceName: RotaryHeart.Lib.SerializableDictionaryPro
+    className: OrderedExample
+  platform: 19
+  scenePathNames:
+  - Assets/Scenes/Dashboard.unity
+  playerPath: D:/Git/PRCompanion/Pokerole Companion/Build/Pokerole Companion.exe
