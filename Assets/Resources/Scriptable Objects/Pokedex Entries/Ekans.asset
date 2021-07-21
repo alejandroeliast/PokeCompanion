@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Ekans
+  m_EditorClassIdentifier: 
+  pkID: 25
+  pkNumber: 23
+  pkName: Ekans
+  pkSpecies: Snake
+  pkType1: 3
+  pkType2: 18
+  pkHeight: 2
+  pkWeight: 6.9
+  pkAbility1: Intimidate
+  pkAbility2: Shed Skin
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Ekans
+  pkEvoName2: Arbok
+  pkEvoName3: None
+  pkEvoMethod: 1
+  pkMinStrength: 2
+  pkMaxStrength: 5
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 2
+  pkMaxVitality: 4
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 3
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Ekans
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 7cce6a1db301fc045885c130a6954781, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 33da7a454607ec84a915fb5e6d7e1cd9, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: c5a4fb88e9125db41b1a98d8bd0e6d7e, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 20dc567a6affb014b8337354aca0efdc, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 575183ca51407244890ad2d9e68d971e, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 7460e2f2d06b7cc4997f80de844a385a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 186eb618288254c4b973cbec482d43f3, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d6caf5cca45073441aa59e8c12b21c49, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: cccab00df37e2c045936cea154c88c03, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: dcd1003db704e4745a16322816247634, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 5b888514daf512148af2dc9f79a3178b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: c9cecbb4320791e4f996e7c2095b0c72, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: f079f39b5e4cb4b4f9a33944fded4136, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: bbc17ccf8ca075948a2009bb940acf3c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: a810e2479d8eee8498107c840882686c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 7def9e51c66271b49b91b4c77e84a2c2, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: c61a2943868aaaa46b2df982303ac90e, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: ed691e5b2f8ceeb42a51630b062eee6e, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 4f09c4db73a6799429e9dac57e9dc238, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 834277cc18bbd684ca02ce3d4092ae73, type: 2}
+    moveRank: 4

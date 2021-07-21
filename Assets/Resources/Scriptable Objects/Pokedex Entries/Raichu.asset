@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Raichu
+  m_EditorClassIdentifier: 
+  pkID: 28
+  pkNumber: 26
+  pkName: Raichu
+  pkSpecies: Mouse
+  pkType1: 12
+  pkType2: 18
+  pkHeight: 0.8
+  pkWeight: 30
+  pkAbility1: Static
+  pkAbility2: Lightningrod
+  pkEvoStage: Final
+  pkEvoQty: 3
+  pkEvoName1: Pichu
+  pkEvoName2: Pikachu
+  pkEvoName3: Raichu
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 4
+  pkMaxDexterity: 8
+  pkMinVitality: 2
+  pkMaxVitality: 4
+  pkMinSpecial: 3
+  pkMaxSpecial: 6
+  pkMinInsight: 3
+  pkMaxInsight: 6
+  pkBaseHP: 4
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 2
+  pkVariantNames:
+  - Raichu
+  - Raichu Alola
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: a72c3d87e28c3854e8c4388361b4d26e, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: d637a18ecf6045144a0877b1d4d8c3dc, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 698b6929e48271d42bf90ae90787caad, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 426616ff4f6433746b259ea6ea7a892e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 47fc7ea0cdb903246a1b4585e0bf906c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: a5377609f80a3334bb17a642f70e3ff2, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 71f3d848140ca724ea82665cefd910b6, type: 2}
+    moveRank: 4

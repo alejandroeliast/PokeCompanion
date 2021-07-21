@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Psyduck
+  m_EditorClassIdentifier: 
+  pkID: 65
+  pkNumber: 54
+  pkName: Psyduck
+  pkSpecies: Duck
+  pkType1: 10
+  pkType2: 18
+  pkHeight: 0.8
+  pkWeight: 19.6
+  pkAbility1: Damp
+  pkAbility2: Cloud Nine
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Psyduck
+  pkEvoName2: Golduck
+  pkEvoName3: None
+  pkEvoMethod: 1
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 2
+  pkMaxDexterity: 4
+  pkMinVitality: 2
+  pkMaxVitality: 4
+  pkMinSpecial: 2
+  pkMaxSpecial: 5
+  pkMinInsight: 2
+  pkMaxInsight: 4
+  pkBaseHP: 4
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Psyduck
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: fc3af2d8ff495a64aa6303f1ed33e6d9, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 20ea0ac91148d334bb7220bd466dfe0f, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: d637a18ecf6045144a0877b1d4d8c3dc, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: c54b1d3699417e949b44d642065e3133, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 834277cc18bbd684ca02ce3d4092ae73, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: cd21557d34f92f445a44c123257b0009, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d5b1eca039b41ea4c958e3a07f66e508, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b0c076efb992b3e419e17e8c0759cd3c, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 7460e2f2d06b7cc4997f80de844a385a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 30fe3456bf3fe094a89406d82f3adefa, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ed691e5b2f8ceeb42a51630b062eee6e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e52638bdc8e57744286839fc82a7f719, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: dc0b468041649724b9bcd0007a04027e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 435aabe344b10ca438e4249d764fd064, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 2878940fbe10ad34292665e873e2b868, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: cad01a87ffeac374bacb397a059271ea, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: cee8efddafbce0e49944653f02171c08, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: b1557acea6195eb4083897ebde916172, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: cffe314c3af2a9544a7e2eeb15a6095c, type: 2}
+    moveRank: 4

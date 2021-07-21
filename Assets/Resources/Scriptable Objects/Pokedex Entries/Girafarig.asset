@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Girafarig
+  m_EditorClassIdentifier: 
+  pkID: 221
+  pkNumber: 203
+  pkName: Girafarig
+  pkSpecies: Long Neck
+  pkType1: 0
+  pkType2: 13
+  pkHeight: 1.5
+  pkWeight: 41.5
+  pkAbility1: Early Bird
+  pkAbility2: Inner Focus
+  pkEvoStage: Final
+  pkEvoQty: 1
+  pkEvoName1: Girafarig
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 3
+  pkMaxDexterity: 6
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 3
+  pkMaxSpecial: 6
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 5
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Girafarig
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 560f6b10b32022a42a03d157a01f99cb, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: cd21557d34f92f445a44c123257b0009, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 6a85edb63ba95fa42bd2d825c9755aa8, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: e98fe90fb08cbe34e9c23b4ef03d5046, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 64de0afee0b2f704cb38cbaa4d4ac785, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: effa0e92dd8914546bdd58c0a5c27e6b, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 6439c74176289344baf6c548310eb393, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0c2741ddf4b24904894cb5569f4dd1c6, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 8b7a85bc17480d6428ad056c753d5de8, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 1323313e417b5df479227dd27902707b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 90002f3c330376640a0db3694ea461be, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 64d1aa77f9a5e5847884fe3583aa1de5, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 30fe3456bf3fe094a89406d82f3adefa, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 20a8a7f701ae9174d9c32c5aa2d1ae31, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 1f6ad188b11a75a4982f3519210c4d30, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: cffe314c3af2a9544a7e2eeb15a6095c, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 024fd576ef2e17f4cb5da3d366b7e684, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 61d099b15cd88884995d4e23aace86f5, type: 2}
+    moveRank: 4

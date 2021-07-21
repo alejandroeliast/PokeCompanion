@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Eevee
+  m_EditorClassIdentifier: 
+  pkID: 151
+  pkNumber: 133
+  pkName: Eevee
+  pkSpecies: Evolution
+  pkType1: 0
+  pkType2: 18
+  pkHeight: 0.3
+  pkWeight: 6.5
+  pkAbility1: Run Away
+  pkAbility2: Adaptability
+  pkEvoStage: First
+  pkEvoQty: 8
+  pkEvoName1: Eevee
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 14
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 2
+  pkMaxDexterity: 4
+  pkMinVitality: 2
+  pkMaxVitality: 4
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 4
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Eevee
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 680de47a7aec6454c8110b6a35e96f95, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 6a85edb63ba95fa42bd2d825c9755aa8, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: d637a18ecf6045144a0877b1d4d8c3dc, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 286cda9e847db1b438176b3192c73694, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 917f1549983cc054f9bc60a5f504fafc, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e1493b16215c91f4d826ffbdcbd9562d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 698b6929e48271d42bf90ae90787caad, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 20dc567a6affb014b8337354aca0efdc, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: eb80562393aeb4749aa03b1d310701e3, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: c340eb70dda2de4409d33e8569285805, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6d35ef55d7f41614b9df91e981f03649, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 51a57a5f158b76b47b360697729bf929, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 8b7a85bc17480d6428ad056c753d5de8, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 48bdb4d194f7e04449bbb416e69487dd, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 9265be4186d791b499e1acf51082cd17, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 20433990f8d42f14593c6f7f67377bf9, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: a5377609f80a3334bb17a642f70e3ff2, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 763f32aa935039e4f922c6bbbd887adb, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 895593bc103b21e48835a95fb691263f, type: 2}
+    moveRank: 4

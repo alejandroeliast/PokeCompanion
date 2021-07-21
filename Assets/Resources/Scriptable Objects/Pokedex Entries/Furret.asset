@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Furret
+  m_EditorClassIdentifier: 
+  pkID: 180
+  pkNumber: 162
+  pkName: Furret
+  pkSpecies: Long Body
+  pkType1: 0
+  pkType2: 18
+  pkHeight: 1.8
+  pkWeight: 32.5
+  pkAbility1: Run Away
+  pkAbility2: Keen Eye
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Sentret
+  pkEvoName2: Furret
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 5
+  pkMinDexterity: 3
+  pkMaxDexterity: 6
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 2
+  pkMaxInsight: 4
+  pkBaseHP: 6
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Furret
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 20ea0ac91148d334bb7220bd466dfe0f, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 2cafb772a4d284a47ac4a727f4287e0b, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 591891e3c095ab14498a863e1ba53fce, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 698b6929e48271d42bf90ae90787caad, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 7def9e51c66271b49b91b4c77e84a2c2, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b0c076efb992b3e419e17e8c0759cd3c, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 680de47a7aec6454c8110b6a35e96f95, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 930e1eeb129bdff48a61a8d31712466b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a280b9fc1e0566541b137c3311f67ffc, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6ea62291b868ef84aa1eda2ee83d5b42, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 61d099b15cd88884995d4e23aace86f5, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: dc0b468041649724b9bcd0007a04027e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 8b7a85bc17480d6428ad056c753d5de8, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 395153e1b0446b740b5874b2b18a981e, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 024fd576ef2e17f4cb5da3d366b7e684, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e41f6b66c24c8894aa34c774ddf8c3e6, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: e30c2c73e0d26d243bca6925106b8f5c, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 32bc1a57751f012458a7e55e59a50642, type: 2}
+    moveRank: 4

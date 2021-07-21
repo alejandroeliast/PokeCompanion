@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Magmar
+  m_EditorClassIdentifier: 
+  pkID: 144
+  pkNumber: 126
+  pkName: Magmar
+  pkSpecies: Spitfire
+  pkType1: 9
+  pkType2: 18
+  pkHeight: 1.3
+  pkWeight: 44.5
+  pkAbility1: Flame Body
+  pkAbility2: '-'
+  pkEvoStage: Second
+  pkEvoQty: 3
+  pkEvoName1: Magby
+  pkEvoName2: Magmar
+  pkEvoName3: Magmortar
+  pkEvoMethod: 13
+  pkMinStrength: 3
+  pkMaxStrength: 7
+  pkMinDexterity: 3
+  pkMaxDexterity: 7
+  pkMinVitality: 2
+  pkMaxVitality: 4
+  pkMinSpecial: 3
+  pkMaxSpecial: 7
+  pkMinInsight: 3
+  pkMaxInsight: 6
+  pkBaseHP: 5
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Magmar
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 0a87d3b3fae4f9f4c83c24820d6e77c8, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 33da7a454607ec84a915fb5e6d7e1cd9, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3ffcd02cad762984a97ab38f37b4709e, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 2e62b50783bb7e64dace18442cefdc20, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 76039cfdcba18084f979b66575a1e3c3, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 9c491cd6c4318cf4a8802dd712a69bab, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: cee8efddafbce0e49944653f02171c08, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: c253aad7223590748bf0bb01b6a792ff, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b1557acea6195eb4083897ebde916172, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 2c826b6b727f9e5479ce16143c16363f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 7f141cb75e261924f91cb94cfe0d9aa1, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 2e7bf1797d8ce59488dd9efd57041108, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: ceb1f93f89737a74c8ba671f409808a3, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: ec9725def7f40fc47a155354ccd28da5, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 97c397666da9e6c428ea493ef51f0be7, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: b5a87d6f6fbc1db44bc65eccd87789e4, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 0b8fbb8916b69e94da21b6073144b032, type: 2}
+    moveRank: 4

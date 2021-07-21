@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Wartortle
+  m_EditorClassIdentifier: 
+  pkID: 8
+  pkNumber: 8
+  pkName: Wartortle
+  pkSpecies: Turtle
+  pkType1: 10
+  pkType2: 18
+  pkHeight: 1
+  pkWeight: 22.5
+  pkAbility1: Torrent
+  pkAbility2: '-'
+  pkEvoStage: Second
+  pkEvoQty: 3
+  pkEvoName1: Squirtle
+  pkEvoName2: Wartortle
+  pkEvoName3: Blastoise
+  pkEvoMethod: 1
+  pkMinStrength: 2
+  pkMaxStrength: 5
+  pkMinDexterity: 2
+  pkMaxDexterity: 4
+  pkMinVitality: 3
+  pkMaxVitality: 6
+  pkMinSpecial: 2
+  pkMaxSpecial: 5
+  pkMinInsight: 3
+  pkMaxInsight: 6
+  pkBaseHP: 4
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Wartortle
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: d637a18ecf6045144a0877b1d4d8c3dc, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: c54b1d3699417e949b44d642065e3133, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 773e610c14a276c4da438758ca47814d, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 2c3e7e234dc9c0343b5f62d6ed82991e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 20dc567a6affb014b8337354aca0efdc, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: c4ca14624e5cffb48b317997319ea343, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: f53c3da49d967c34299d9db48f146a70, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d5b1eca039b41ea4c958e3a07f66e508, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ed691e5b2f8ceeb42a51630b062eee6e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: cf814d3f2d92cf04d93040c97b2d3185, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: a567a4649ed41ac499d0c04db94a467f, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 0272d8b4b90630a499f2a3f7f69c1bb7, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 2878940fbe10ad34292665e873e2b868, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: a10122757e3696949b8eb954cd6c6aef, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: f4a77533b97909848a64df728b5c633e, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 73685a6d6fe9c6a45b785bda3db35444, type: 2}
+    moveRank: 4

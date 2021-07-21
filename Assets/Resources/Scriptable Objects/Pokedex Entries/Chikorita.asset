@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Chikorita
+  m_EditorClassIdentifier: 
+  pkID: 170
+  pkNumber: 152
+  pkName: Chikorita
+  pkSpecies: Leaf
+  pkType1: 11
+  pkType2: 18
+  pkHeight: 0.9
+  pkWeight: 6.4
+  pkAbility1: Overgrow
+  pkAbility2: '-'
+  pkEvoStage: First
+  pkEvoQty: 3
+  pkEvoName1: Chikorita
+  pkEvoName2: Bayleef
+  pkEvoName3: Meganium
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 1
+  pkMaxDexterity: 3
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 2
+  pkMaxSpecial: 4
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 3
+  pkRank: 0
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Chikorita
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 6a85edb63ba95fa42bd2d825c9755aa8, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 02691526886452345b9bde9ec554a7d4, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 03376c7e74b07354698049ba5931768a, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 90e7540be4428bc458152d9b761bf469, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 82f76788651e3404f9b13035a3508ac9, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 9b6dd3a8aeebf2e4bab9e71ddb0cf068, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: eb133de4495530247944f80028a6c1d5, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 4ca92eb393975a444ada374966c9045a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 17f58db7249b0bd4da511315d786dc7d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 9685227198b57c0468c72689c5ec3a89, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 41eb9ed7b8333f34b8ffb40ed654e21a, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: c4f252b0f7c9665479909385d061ed2f, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e3e60eeec2779d146abfb4e1814f50f6, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 44556dc182000ed47abd01f28c8050fd, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 3b0ccb59c879c964bb7aae78fb64943e, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: ace2f41621733394e9aa47e5feac433b, type: 2}
+    moveRank: 4

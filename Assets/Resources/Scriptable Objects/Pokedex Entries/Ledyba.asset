@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Ledyba
+  m_EditorClassIdentifier: 
+  pkID: 183
+  pkNumber: 165
+  pkName: Ledyba
+  pkSpecies: Five Star
+  pkType1: 6
+  pkType2: 2
+  pkHeight: 1
+  pkWeight: 10.8
+  pkAbility1: Swarm
+  pkAbility2: Early Bird
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Ledyba
+  pkEvoName2: Ledian
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 1
+  pkMaxStrength: 2
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 1
+  pkMaxVitality: 3
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 3
+  pkMaxInsight: 7
+  pkBaseHP: 3
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Ledyba
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 5d8689e0bbda3e74a812e07c5ce276cd, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 18cd9c62d77c44d499c7b4459ab028b1, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 17f58db7249b0bd4da511315d786dc7d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 82f76788651e3404f9b13035a3508ac9, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 41eb9ed7b8333f34b8ffb40ed654e21a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: df35275c1ab82fd4eab235c379e3ebd2, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 8b7a85bc17480d6428ad056c753d5de8, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a80f9619cf37200458afd7dfdef45e7c, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d56ae5509e06df842834196c58f42119, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e1493b16215c91f4d826ffbdcbd9562d, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 48bdb4d194f7e04449bbb416e69487dd, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 2740374f2ade341449ff04081104d706, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 0f4848adab446884aa439e098b920736, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 7460e2f2d06b7cc4997f80de844a385a, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 0667e8b6220320b448f27578722312da, type: 2}
+    moveRank: 4

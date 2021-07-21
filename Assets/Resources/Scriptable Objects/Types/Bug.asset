@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64d515584a903084eb28e81ab4112026, type: 3}
+  m_Name: Bug
+  m_EditorClassIdentifier: 
+  typeName: Bug
+  typeNormal: 0000000000000000
+  typeFighting: ffffffffffffffff
+  typeFlying: ffffffff01000000
+  typePoison: ffffffff00000000
+  typeGround: 00000000ffffffff
+  typeRock: 0000000001000000
+  typeBug: 0000000000000000
+  typeGhost: ffffffff00000000
+  typeSteel: ffffffff00000000
+  typeFire: ffffffff01000000
+  typeWater: 0000000000000000
+  typeGrass: 01000000ffffffff
+  typeElectric: 0000000000000000
+  typePsychic: 0100000000000000
+  typeIce: 0000000000000000
+  typeDragon: 0000000000000000
+  typeDark: 0100000000000000
+  typeFairy: ffffffff00000000

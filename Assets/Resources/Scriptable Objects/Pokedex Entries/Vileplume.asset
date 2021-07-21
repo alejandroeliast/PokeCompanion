@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Vileplume
+  m_EditorClassIdentifier: 
+  pkID: 52
+  pkNumber: 45
+  pkName: Vileplume
+  pkSpecies: Flower
+  pkType1: 11
+  pkType2: 3
+  pkHeight: 1.2
+  pkWeight: 18.6
+  pkAbility1: Chlorophyll
+  pkAbility2: '-'
+  pkEvoStage: Final
+  pkEvoQty: 4
+  pkEvoName1: Oddish
+  pkEvoName2: Gloom
+  pkEvoName3: Vileplume
+  pkEvoMethod: 6
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 2
+  pkMaxDexterity: 4
+  pkMinVitality: 3
+  pkMaxVitality: 6
+  pkMinSpecial: 4
+  pkMaxSpecial: 8
+  pkMinInsight: 3
+  pkMaxInsight: 6
+  pkBaseHP: 5
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Vileplume
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 4393dbb7825531a4ca4348f00b2c7ba6, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: c4f252b0f7c9665479909385d061ed2f, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 03376c7e74b07354698049ba5931768a, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: b42e9aa93cf641547acd48f719217be0, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: bfb1841dc7605684dbc63c3cbc3d21e1, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 816c78222c613af48a67bc4cde861503, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e3e60eeec2779d146abfb4e1814f50f6, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 07ee6958ba9870741a0f482f2e394545, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 56f996ccbdd69f4428afa05151f35707, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: bffffb81d94a0a941a6a1c0554face7f, type: 2}
+    moveRank: 4

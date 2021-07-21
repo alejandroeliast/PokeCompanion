@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Hitmonlee
+  m_EditorClassIdentifier: 
+  pkID: 124
+  pkNumber: 106
+  pkName: Hitmonlee
+  pkSpecies: Kicking
+  pkType1: 1
+  pkType2: 18
+  pkHeight: 1.5
+  pkWeight: 49.8
+  pkAbility1: Limber
+  pkAbility2: Reckless
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Tyrogue
+  pkEvoName2: Hitmonlee
+  pkEvoName3: None
+  pkEvoMethod: 10
+  pkMinStrength: 4
+  pkMaxStrength: 9
+  pkMinDexterity: 3
+  pkMaxDexterity: 6
+  pkMinVitality: 2
+  pkMaxVitality: 4
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 4
+  pkMaxInsight: 8
+  pkBaseHP: 4
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Hitmonlee
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 4e637a6ed2081814cb6ccb6ea57e9041, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 79cffd3a4eed17e4eacdd229831348f3, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 19bebde7d3b7d5c47b5fa02c0b7e2fc8, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 55e7d288c96ccf84cabd97787f45b500, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 55baed50a194ed54fa05846c298a1c14, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: e601d6e3d8f443541b24a268a66f5651, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 7b3c226f2cebdea41b6ee0f3e6d17918, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 1c5888dd3464a3140991bdcabace0e74, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 8fa35e6f679ed2d4aa462e176d9f665d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6644d9df912c6e244b580f7a53038e04, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 2cafb772a4d284a47ac4a727f4287e0b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: cf414c6d9f3f51f4caaf509f6a37a469, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ecedcdf40f5b673489d01d3fd39517d9, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: af12b969ca81b9d4387bbbffbac59690, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 7164829d6a1163640a1cc25e9f79b8f2, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 78963af5a66168746b739e22206859d1, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e30c2c73e0d26d243bca6925106b8f5c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 9721d3641ebfeeb41803d3b44a428fca, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: c4ca14624e5cffb48b317997319ea343, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: df35275c1ab82fd4eab235c379e3ebd2, type: 2}
+    moveRank: 4

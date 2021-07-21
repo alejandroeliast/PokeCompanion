@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Aipom
+  m_EditorClassIdentifier: 
+  pkID: 208
+  pkNumber: 190
+  pkName: Aipom
+  pkSpecies: Long Tail
+  pkType1: 0
+  pkType2: 18
+  pkHeight: 0.8
+  pkWeight: 11.5
+  pkAbility1: Run Away
+  pkAbility2: Pickup
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Aipom
+  pkEvoName2: Mismagius
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 5
+  pkMinDexterity: 3
+  pkMaxDexterity: 7
+  pkMinVitality: 2
+  pkMaxVitality: 4
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 2
+  pkMaxInsight: 4
+  pkBaseHP: 4
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Aipom
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: d637a18ecf6045144a0877b1d4d8c3dc, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 286cda9e847db1b438176b3192c73694, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 560f6b10b32022a42a03d157a01f99cb, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 8b7a85bc17480d6428ad056c753d5de8, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 763f32aa935039e4f922c6bbbd887adb, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b0c076efb992b3e419e17e8c0759cd3c, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e1493b16215c91f4d826ffbdcbd9562d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 7460e2f2d06b7cc4997f80de844a385a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 336c0e1ed4f55084791243e6775f036e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 90002f3c330376640a0db3694ea461be, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 1f6ad188b11a75a4982f3519210c4d30, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 9265be4186d791b499e1acf51082cd17, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 47fc7ea0cdb903246a1b4585e0bf906c, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 98c2b7f342412504ea2e93733aab2b6e, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: aa19b41f92ab2bd4d8744c0dfff5702a, type: 2}
+    moveRank: 4

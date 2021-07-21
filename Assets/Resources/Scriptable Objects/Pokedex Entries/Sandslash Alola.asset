@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Sandslash Alola
+  m_EditorClassIdentifier: 
+  pkID: 33
+  pkNumber: 28
+  pkName: Sandslash Alola
+  pkSpecies: Mouse
+  pkType1: 14
+  pkType2: 8
+  pkHeight: 1.2
+  pkWeight: 55
+  pkAbility1: Snow Cloak
+  pkAbility2: Slush Rish
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Sandshrew Alola
+  pkEvoName2: Sandslash Alola
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 7
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 4
+  pkMaxVitality: 8
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 2
+  pkMaxInsight: 4
+  pkBaseHP: 5
+  pkRank: 2
+  pkOrigin: Alolan
+  pkVariantAmount: 2
+  pkVariantNames:
+  - Sandslash
+  - Sandslash Alola
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 94ffa35fbfe6cd74bb185fdcba03c624, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: db9f4d1d92987a646a2928602b2d92e9, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 606dd87cec85f6346b90979b50e0897c, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e41f6b66c24c8894aa34c774ddf8c3e6, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 591891e3c095ab14498a863e1ba53fce, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a47c9657c1080c044a4162ee3f4ed220, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d8f98cc9012fc7448bd82d17cb523f40, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: af5f97c08d6b6e2499e21af9fc074a1f, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e141e6efd8dd5ee4ba011be0625efb1a, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 065766f167c504c40ae83c779d3071ba, type: 2}
+    moveRank: 4

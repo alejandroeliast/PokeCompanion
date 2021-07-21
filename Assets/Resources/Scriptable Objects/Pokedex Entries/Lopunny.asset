@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Lopunny
+  m_EditorClassIdentifier: 
+  pkID: 446
+  pkNumber: 428
+  pkName: Lopunny
+  pkSpecies: Rabbit
+  pkType1: 0
+  pkType2: 18
+  pkHeight: 1.2
+  pkWeight: 33.3
+  pkAbility1: Cute Charm
+  pkAbility2: Klutz
+  pkEvoStage: First
+  pkEvoQty: 1
+  pkEvoName1: None
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 5
+  pkMinDexterity: 4
+  pkMaxDexterity: 8
+  pkMinVitality: 3
+  pkMaxVitality: 6
+  pkMinSpecial: 2
+  pkMaxSpecial: 4
+  pkMinInsight: 3
+  pkMaxInsight: 7
+  pkBaseHP: 5
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Lopunny
+  pkMoves: []

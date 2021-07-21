@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71e1a6fa9cdf5c443b91caf772d9f4da, type: 3}
+  m_Name: Sky Attack
+  m_EditorClassIdentifier: 
+  moveID: 253
+  moveName: Sky Attack
+  moveType: 2
+  movePower: 6
+  moveCategory: 0
+  moveRange: 0
+  moveAccuracy1: 0
+  moveAccuracy2: 10
+  moveDamage: 0
+  moveEff1: 6
+  moveMod1: 16
+  moveEff2: 55
+  moveMod2: 8
+  moveEff3: 38
+  moveMod3: 30
+  moveEff4: 37
+  moveMod4: 30
+  moveEff5: 31
+  moveMod5: 30
+  moveEff6: 1
+  moveMod6: 0

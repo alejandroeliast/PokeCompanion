@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71e1a6fa9cdf5c443b91caf772d9f4da, type: 3}
+  m_Name: Sweet Scent
+  m_EditorClassIdentifier: 
+  moveID: 526
+  moveName: Sweet Scent
+  moveType: 0
+  movePower: 0
+  moveCategory: 2
+  moveRange: 1
+  moveAccuracy1: 23
+  moveAccuracy2: 23
+  moveDamage: 23
+  moveEff1: 63
+  moveMod1: 30
+  moveEff2: 63
+  moveMod2: 30
+  moveEff3: 63
+  moveMod3: 30
+  moveEff4: 63
+  moveMod4: 30
+  moveEff5: 63
+  moveMod5: 30
+  moveEff6: 63
+  moveMod6: 30

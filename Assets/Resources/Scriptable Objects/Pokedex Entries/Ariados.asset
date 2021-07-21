@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Ariados
+  m_EditorClassIdentifier: 
+  pkID: 186
+  pkNumber: 168
+  pkName: Ariados
+  pkSpecies: Long Leg
+  pkType1: 6
+  pkType2: 3
+  pkHeight: 1.1
+  pkWeight: 33.5
+  pkAbility1: Swarm
+  pkAbility2: Insomnia
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Spinarak
+  pkEvoName2: Ariados
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 1
+  pkMaxDexterity: 3
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 2
+  pkMaxSpecial: 4
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 5
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Ariados
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: a88fb6f03e937314393ceb14d1d8887c, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: c5a4fb88e9125db41b1a98d8bd0e6d7e, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 491bea9eb3960f94e838c0c4f475671c, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 7b3c226f2cebdea41b6ee0f3e6d17918, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 985f81211a3b4a145976bfadc08fb78a, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 4f09c4db73a6799429e9dac57e9dc238, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 3485fefcb57a20f4090c17b4711bfdf8, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 08e627264b4704b4da23a1950534258e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 9bb17c0c8a8f28f4fbacf11a8196ed3d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 781ed9ea057daac4fbc5c1915e0b4bdf, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 5741bfc90435c3d4d906e470a942bb71, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 25af051100f9a444987085ca45a0bdbc, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b0c076efb992b3e419e17e8c0759cd3c, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0412847b9b71f1542a3ee0f4f8dd1660, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: effdc155a7e28404bbf023a96bd1a1af, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 61d099b15cd88884995d4e23aace86f5, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: df1a91e151faace4d8c11967bad0db22, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 980db6b5f7d8d104a8304c462bdaf936, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 64d1aa77f9a5e5847884fe3583aa1de5, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 07ee6958ba9870741a0f482f2e394545, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: aaaf9b375f2e29c41b0ac323e278f8ea, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: afa783eb1c6dd3d4ebcff582e9b163ce, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: d1d6b4dff54d130409ccac74ca8162f6, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 5802b78130a7ab34783284bc9004ee0f, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 9721d3641ebfeeb41803d3b44a428fca, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 1fabd1cb3be704047aa43172d3c362e5, type: 2}
+    moveRank: 4

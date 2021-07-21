@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Avalugg
+  m_EditorClassIdentifier: 
+  pkID: 731
+  pkNumber: 713
+  pkName: Avalugg
+  pkSpecies: Iceberg
+  pkType1: 14
+  pkType2: 18
+  pkHeight: 2
+  pkWeight: 505
+  pkAbility1: Own Tempo
+  pkAbility2: Ice Body
+  pkEvoStage: First
+  pkEvoQty: 1
+  pkEvoName1: None
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 4
+  pkMaxStrength: 8
+  pkMinDexterity: 1
+  pkMaxDexterity: 2
+  pkMinVitality: 5
+  pkMaxVitality: 10
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 1
+  pkMaxInsight: 3
+  pkBaseHP: 6
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Avalugg
+  pkMoves: []

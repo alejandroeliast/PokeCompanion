@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Qwilfish
+  m_EditorClassIdentifier: 
+  pkID: 229
+  pkNumber: 211
+  pkName: Qwilfish
+  pkSpecies: Balloon
+  pkType1: 10
+  pkType2: 3
+  pkHeight: 0.5
+  pkWeight: 3.9
+  pkAbility1: Poison Point
+  pkAbility2: Swift Swim
+  pkEvoStage: Final
+  pkEvoQty: 1
+  pkEvoName1: Qwilfish
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 7
+  pkMinDexterity: 3
+  pkMaxDexterity: 6
+  pkMinVitality: 3
+  pkMaxVitality: 6
+  pkMinSpecial: 2
+  pkMaxSpecial: 4
+  pkMinInsight: 2
+  pkMaxInsight: 4
+  pkBaseHP: 5
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Qwilfish
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 5d8689e0bbda3e74a812e07c5ce276cd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 9bb17c0c8a8f28f4fbacf11a8196ed3d, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 0979d35266821a64da78c34cad2afd9c, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: c5a4fb88e9125db41b1a98d8bd0e6d7e, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: c54b1d3699417e949b44d642065e3133, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 5861dc646ad44b14c9c93f06abde738d, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 84269899583a55848916403959f53cb7, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 0dc6055d89718964e93a1086fb47dbc9, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 2c3e7e234dc9c0343b5f62d6ed82991e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a086dccb2d7e07f47ad0eb3f8ea9649b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 56423e53a607fc344b2cac02f8c2b8cb, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d6caf5cca45073441aa59e8c12b21c49, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: cccab00df37e2c045936cea154c88c03, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 79cffd3a4eed17e4eacdd229831348f3, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6b6578af842e865479f8b03bff3ccf3e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: df1a91e151faace4d8c11967bad0db22, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6d35ef55d7f41614b9df91e981f03649, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ed691e5b2f8ceeb42a51630b062eee6e, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 980db6b5f7d8d104a8304c462bdaf936, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 2878940fbe10ad34292665e873e2b868, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 0580131751a08c84bb5a8aa02ff4fd57, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 4a65ae7e1be98d6498d86dc4e2187553, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 07ee6958ba9870741a0f482f2e394545, type: 2}
+    moveRank: 4

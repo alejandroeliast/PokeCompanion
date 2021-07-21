@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Kadabra
+  m_EditorClassIdentifier: 
+  pkID: 75
+  pkNumber: 64
+  pkName: Kadabra
+  pkSpecies: Psi
+  pkType1: 13
+  pkType2: 18
+  pkHeight: 1.3
+  pkWeight: 56.5
+  pkAbility1: Synchronize
+  pkAbility2: Inner Focus
+  pkEvoStage: Second
+  pkEvoQty: 3
+  pkEvoName1: Abra
+  pkEvoName2: Kadabra
+  pkEvoName3: Alakazam
+  pkEvoMethod: 12
+  pkMinStrength: 1
+  pkMaxStrength: 3
+  pkMinDexterity: 4
+  pkMaxDexterity: 8
+  pkMinVitality: 1
+  pkMaxVitality: 2
+  pkMinSpecial: 4
+  pkMaxSpecial: 9
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 3
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Kadabra
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 4443dc5d5c5f5e44e84b02f7c02feb79, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 0142e887f885cf947bdd3c762c838802, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: cd21557d34f92f445a44c123257b0009, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 834277cc18bbd684ca02ce3d4092ae73, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: b2c6316a6c3c35d4e9ccd082f4e2ed95, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: d371efcf2d78ca64aa71bc6af71bab8e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0c2741ddf4b24904894cb5569f4dd1c6, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 82f76788651e3404f9b13035a3508ac9, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 85a94e5a9f79e0944bbfe6cd5381e53f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a393c22cb6509294ea0653bcb96b6839, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 05043df5191415d45befb1306ae7f2c4, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 8bdffe5b8f3c89e4fa88049761b5c712, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 64d1aa77f9a5e5847884fe3583aa1de5, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: cffe314c3af2a9544a7e2eeb15a6095c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: a563c010037429549b1547781651604f, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 5963a4b0b78d1894fa86d12ba4a04793, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 92ceefae7c70d044eb3ce752aaf7375d, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: cad01a87ffeac374bacb397a059271ea, type: 2}
+    moveRank: 4

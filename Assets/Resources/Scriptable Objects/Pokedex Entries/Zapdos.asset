@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Zapdos
+  m_EditorClassIdentifier: 
+  pkID: 163
+  pkNumber: 145
+  pkName: Zapdos
+  pkSpecies: Electric
+  pkType1: 12
+  pkType2: 2
+  pkHeight: 1.6
+  pkWeight: 52.6
+  pkAbility1: Pressure
+  pkAbility2: Static
+  pkEvoStage: Unknown
+  pkEvoQty: 1
+  pkEvoName1: Zapdos
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 6
+  pkMaxStrength: 6
+  pkMinDexterity: 7
+  pkMaxDexterity: 7
+  pkMinVitality: 6
+  pkMaxVitality: 6
+  pkMinSpecial: 8
+  pkMaxSpecial: 8
+  pkMinInsight: 6
+  pkMaxInsight: 6
+  pkBaseHP: 6
+  pkRank: 5
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Zapdos
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: fbc3af7ec8d9c8a44a20e7670bf0df9f, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: a72c3d87e28c3854e8c4388361b4d26e, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: e5d1c6bbda008ad4592dbdb45e6f315d, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 212e8156ce43b25499b5c8b1005100d4, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: c40714501410db34c99be3281667d49d, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 0bc1cb0c6a735604f8af2cfa6d975259, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 0ce65b1c57b5d97498119d399004b47f, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 98dfdd60158fd524c89854877f5f0a17, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 0272d8b4b90630a499f2a3f7f69c1bb7, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 17f58db7249b0bd4da511315d786dc7d, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: aca303e9eed43ee4487e1689d90c0849, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 7ca369aac6580e14395801ced84e041f, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 227f069f7ae201a46bf4356f2a161110, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: cff788650528c094388bc78f66e8a58b, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: af474387e9efc2c458a5451eb334c39f, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 97c397666da9e6c428ea493ef51f0be7, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 688910edba2cd3a48aae5e3f80df0f8c, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 43a4e2e737e7081479e1fdabf113f8be, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 4abfe0b695c724344b7e101cabfc31e0, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 37dd58ad68e55444ab077c5e6692acb0, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 9c1fb3b1e91c82e458d9ca4fa3a438fb, type: 2}
+    moveRank: 5

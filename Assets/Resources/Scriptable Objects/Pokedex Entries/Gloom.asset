@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Gloom
+  m_EditorClassIdentifier: 
+  pkID: 51
+  pkNumber: 44
+  pkName: Gloom
+  pkSpecies: Weed
+  pkType1: 11
+  pkType2: 3
+  pkHeight: 0.8
+  pkWeight: 8.6
+  pkAbility1: Chlorophyll
+  pkAbility2: '-'
+  pkEvoStage: Second
+  pkEvoQty: 4
+  pkEvoName1: Oddish
+  pkEvoName2: Gloom
+  pkEvoName3: Split
+  pkEvoMethod: 14
+  pkMinStrength: 2
+  pkMaxStrength: 5
+  pkMinDexterity: 1
+  pkMaxDexterity: 3
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 3
+  pkMaxSpecial: 7
+  pkMinInsight: 3
+  pkMaxInsight: 6
+  pkBaseHP: 5
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Gloom
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 29464b8859174df4cb979e37bdd8329f, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 491bea9eb3960f94e838c0c4f475671c, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 90e7540be4428bc458152d9b761bf469, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 186eb618288254c4b973cbec482d43f3, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 03376c7e74b07354698049ba5931768a, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: b42e9aa93cf641547acd48f719217be0, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 1539b32332c77554e8495455dad9fb6a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 4393dbb7825531a4ca4348f00b2c7ba6, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6f16de714754fb04193beb6794e1e216, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: eb133de4495530247944f80028a6c1d5, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 9b068ce4e835e2d448fc604b91e832cf, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d22b9ba4697b7934b840be378c09dd88, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0f4848adab446884aa439e098b920736, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 816c78222c613af48a67bc4cde861503, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: bfb1841dc7605684dbc63c3cbc3d21e1, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: ace2f41621733394e9aa47e5feac433b, type: 2}
+    moveRank: 3

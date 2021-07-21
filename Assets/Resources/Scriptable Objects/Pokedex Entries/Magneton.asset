@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Magneton
+  m_EditorClassIdentifier: 
+  pkID: 96
+  pkNumber: 82
+  pkName: Magneton
+  pkSpecies: Magnet
+  pkType1: 12
+  pkType2: 8
+  pkHeight: 1
+  pkWeight: 60
+  pkAbility1: Magnet Pull
+  pkAbility2: Sturdy
+  pkEvoStage: Second
+  pkEvoQty: 3
+  pkEvoName1: Magnemite
+  pkEvoName2: Magneton
+  pkEvoName3: Magnezone
+  pkEvoMethod: 2
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 3
+  pkMaxVitality: 7
+  pkMinSpecial: 4
+  pkMaxSpecial: 9
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 4
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Magneton
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 5d8689e0bbda3e74a812e07c5ce276cd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: db29782718449694b93265ef781934a1, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: a72c3d87e28c3854e8c4388361b4d26e, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 23182ddc0fb18aa4ea0a553470bcaf0c, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 5eefac1aef0bd004ab74a79122f4ee68, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 17f58db7249b0bd4da511315d786dc7d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e5d1c6bbda008ad4592dbdb45e6f315d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: fd8589498fe8d744e99567e83374e1ed, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 46c11514cfde0214f8c3fe441d7359c2, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a3cb0f347d7674341a0c6bcabedf4530, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: f9c7299d8be89ab43ba6e834ba1e044b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 43a7b887dcd8a494e94b3ccc913d6aaa, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 64bc3dd02f34e2b43aa34061961b1fa3, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 7460e2f2d06b7cc4997f80de844a385a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 77b7605bb1498244bac4d86a1bbe2285, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a65e82d41b2918c4f82bb42f49bf3d9d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 98dfdd60158fd524c89854877f5f0a17, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: db4f318a50393c545b6bb947df168cd7, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: af474387e9efc2c458a5451eb334c39f, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 49dd544f938590d45bb9f3ed6dcb81b2, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: a567a4649ed41ac499d0c04db94a467f, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: aa58b7144c9917741b196b0f0c0da787, type: 2}
+    moveRank: 4

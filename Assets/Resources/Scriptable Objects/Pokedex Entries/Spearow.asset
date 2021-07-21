@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Spearow
+  m_EditorClassIdentifier: 
+  pkID: 23
+  pkNumber: 21
+  pkName: Spearow
+  pkSpecies: Tiny Bird
+  pkType1: 0
+  pkType2: 2
+  pkHeight: 0.3
+  pkWeight: 2
+  pkAbility1: Keen Eye
+  pkAbility2: '-'
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Spearow
+  pkEvoName2: Fearow
+  pkEvoName3: None
+  pkEvoMethod: 1
+  pkMinStrength: 2
+  pkMaxStrength: 5
+  pkMinDexterity: 3
+  pkMaxDexterity: 6
+  pkMinVitality: 1
+  pkMaxVitality: 3
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 1
+  pkMaxInsight: 3
+  pkBaseHP: 3
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Spearow
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: fbc3af7ec8d9c8a44a20e7670bf0df9f, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 6a85edb63ba95fa42bd2d825c9755aa8, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 33da7a454607ec84a915fb5e6d7e1cd9, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: f6a3208b9e594564db2a2a56435b18d1, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 5a2d470e4ecbea14fa5546ff48903705, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 555bd4f0043a5324a8807c9a758c3816, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 1323313e417b5df479227dd27902707b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 7b3c226f2cebdea41b6ee0f3e6d17918, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b509bc00c1bd66d45ab0bb811281b81d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 227f069f7ae201a46bf4356f2a161110, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: aca303e9eed43ee4487e1689d90c0849, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 0667e8b6220320b448f27578722312da, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 4f09c4db73a6799429e9dac57e9dc238, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 98b8f5ccba05e644f8510563d39b99f5, type: 2}
+    moveRank: 4

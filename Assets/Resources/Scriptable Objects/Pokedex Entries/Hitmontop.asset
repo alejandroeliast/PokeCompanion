@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Hitmontop
+  m_EditorClassIdentifier: 
+  pkID: 255
+  pkNumber: 237
+  pkName: Hitmontop
+  pkSpecies: Handstand
+  pkType1: 1
+  pkType2: 18
+  pkHeight: 1.4
+  pkWeight: 48
+  pkAbility1: Intimidate
+  pkAbility2: Technician
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Tyrogue
+  pkEvoName2: Hitmontop
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 7
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 3
+  pkMaxVitality: 7
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 4
+  pkMaxInsight: 8
+  pkBaseHP: 4
+  pkRank: 3
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Hitmontop
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 79cffd3a4eed17e4eacdd229831348f3, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 55e7d288c96ccf84cabd97787f45b500, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 7b3c226f2cebdea41b6ee0f3e6d17918, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 698b6929e48271d42bf90ae90787caad, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 5a2d470e4ecbea14fa5546ff48903705, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d18bc9a29ddc3964eb4866d618dcfc8e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: c4ca14624e5cffb48b317997319ea343, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e141e6efd8dd5ee4ba011be0625efb1a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 1c5888dd3464a3140991bdcabace0e74, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: db4f318a50393c545b6bb947df168cd7, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: aa19b41f92ab2bd4d8744c0dfff5702a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: cf414c6d9f3f51f4caaf509f6a37a469, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 212e8156ce43b25499b5c8b1005100d4, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 78963af5a66168746b739e22206859d1, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: d1663496b67ac45408e8b92868a66465, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: df35275c1ab82fd4eab235c379e3ebd2, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 8fa35e6f679ed2d4aa462e176d9f665d, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 4abfe0b695c724344b7e101cabfc31e0, type: 2}
+    moveRank: 4

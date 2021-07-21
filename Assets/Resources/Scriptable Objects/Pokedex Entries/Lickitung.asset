@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Lickitung
+  m_EditorClassIdentifier: 
+  pkID: 126
+  pkNumber: 108
+  pkName: Lickitung
+  pkSpecies: Licking
+  pkType1: 0
+  pkType2: 18
+  pkHeight: 1.2
+  pkWeight: 65.5
+  pkAbility1: Own Tempo
+  pkAbility2: Oblivious
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Lickitung
+  pkEvoName2: Lickilicky
+  pkEvoName3: None
+  pkEvoMethod: 2
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 1
+  pkMaxDexterity: 2
+  pkMinVitality: 3
+  pkMaxVitality: 6
+  pkMinSpecial: 2
+  pkMaxSpecial: 5
+  pkMinInsight: 3
+  pkMaxInsight: 6
+  pkBaseHP: 7
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Lickitung
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 415a05bab71fdd94d94dbdcc37038b06, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 5d8689e0bbda3e74a812e07c5ce276cd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 591891e3c095ab14498a863e1ba53fce, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: e210c010bb5d3c944b5c6dbaf31ee2d5, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 7cce6a1db301fc045885c130a6954781, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6439c74176289344baf6c548310eb393, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 834277cc18bbd684ca02ce3d4092ae73, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a280b9fc1e0566541b137c3311f67ffc, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a086dccb2d7e07f47ad0eb3f8ea9649b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: af5f97c08d6b6e2499e21af9fc074a1f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 395153e1b0446b740b5874b2b18a981e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: eb80562393aeb4749aa03b1d310701e3, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 7460e2f2d06b7cc4997f80de844a385a, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 9524e11af663cd24a872464ebb8060db, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: fac41e1b4f8e90442ba9edfd7e18bd03, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 6509d870e4152bd4c9e7ce78105b39a0, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: ed691e5b2f8ceeb42a51630b062eee6e, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 30fe3456bf3fe094a89406d82f3adefa, type: 2}
+    moveRank: 4

@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Snubbull
+  m_EditorClassIdentifier: 
+  pkID: 227
+  pkNumber: 209
+  pkName: Snubbull
+  pkSpecies: Fairy
+  pkType1: 17
+  pkType2: 18
+  pkHeight: 0.6
+  pkWeight: 7.8
+  pkAbility1: Intimidate
+  pkAbility2: Run Away
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Snubbull
+  pkEvoName2: Granbull
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 1
+  pkMaxDexterity: 2
+  pkMinVitality: 2
+  pkMaxVitality: 4
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 1
+  pkMaxInsight: 3
+  pkBaseHP: 5
+  pkRank: 0
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Snubbull
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: d637a18ecf6045144a0877b1d4d8c3dc, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 51a57a5f158b76b47b360697729bf929, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 4f09c4db73a6799429e9dac57e9dc238, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 6023dcdce65b8c1458499f0c36f9e8f5, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: de4a75d0d2a8d9f4ab676dbe9600292f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e64eb43f8b26a414eb00fd616f5e57cc, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 20dc567a6affb014b8337354aca0efdc, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 415a05bab71fdd94d94dbdcc37038b06, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 7384ea309dce0a04a99d63f251802e64, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d83bed34af1a9014da6277cd8b046256, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 3bbb183c43d79ec409b5db525494df64, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: c8d6a1464da58be448ee8a36d04c1329, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: ee27206e37f50c14095a362f43473c69, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 20a8a7f701ae9174d9c32c5aa2d1ae31, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 06503952d288f65498627706d6a499b3, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: dabe10f0792618641b293aeaa9a33634, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 895593bc103b21e48835a95fb691263f, type: 2}
+    moveRank: 4

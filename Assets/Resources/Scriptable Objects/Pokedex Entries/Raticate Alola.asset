@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Raticate Alola
+  m_EditorClassIdentifier: 
+  pkID: 22
+  pkNumber: 20
+  pkName: Raticate Alola
+  pkSpecies: Mouse
+  pkType1: 16
+  pkType2: 0
+  pkHeight: 0.7
+  pkWeight: 25
+  pkAbility1: Hustle
+  pkAbility2: Thick Fat
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Rattata Alola
+  pkEvoName2: Raticate Alola
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 3
+  pkMaxDexterity: 7
+  pkMinVitality: 2
+  pkMaxVitality: 4
+  pkMinSpecial: 2
+  pkMaxSpecial: 4
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 4
+  pkRank: 2
+  pkOrigin: Alolan
+  pkVariantAmount: 2
+  pkVariantNames:
+  - Raticate
+  - Raticate Alola
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: d637a18ecf6045144a0877b1d4d8c3dc, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 7b3c226f2cebdea41b6ee0f3e6d17918, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 698b6929e48271d42bf90ae90787caad, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 5a2d470e4ecbea14fa5546ff48903705, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 20dc567a6affb014b8337354aca0efdc, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 4f09c4db73a6799429e9dac57e9dc238, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 61d099b15cd88884995d4e23aace86f5, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 44367fc59765dec47974da4b8b72b028, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 1323313e417b5df479227dd27902707b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 20a8a7f701ae9174d9c32c5aa2d1ae31, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 48bdb4d194f7e04449bbb416e69487dd, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 02842364fe4eea841bf4b97813effbd3, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 07ee6958ba9870741a0f482f2e394545, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: d1663496b67ac45408e8b92868a66465, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: d6caf5cca45073441aa59e8c12b21c49, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: dcd1003db704e4745a16322816247634, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 395153e1b0446b740b5874b2b18a981e, type: 2}
+    moveRank: 4

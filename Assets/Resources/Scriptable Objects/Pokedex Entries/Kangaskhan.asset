@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Kangaskhan
+  m_EditorClassIdentifier: 
+  pkID: 133
+  pkNumber: 115
+  pkName: Kangaskhan
+  pkSpecies: Parent
+  pkType1: 0
+  pkType2: 18
+  pkHeight: 2.2
+  pkWeight: 80
+  pkAbility1: Early Bird
+  pkAbility2: Scrappy
+  pkEvoStage: Final
+  pkEvoQty: 1
+  pkEvoName1: Kangaskhan
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 3
+  pkMaxDexterity: 6
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 2
+  pkMaxSpecial: 5
+  pkMinInsight: 3
+  pkMaxInsight: 6
+  pkBaseHP: 7
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 2
+  pkVariantNames:
+  - Kangaskhan
+  - Mega Kangaskhan
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 18cd9c62d77c44d499c7b4459ab028b1, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 33da7a454607ec84a915fb5e6d7e1cd9, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 47fc7ea0cdb903246a1b4585e0bf906c, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: d637a18ecf6045144a0877b1d4d8c3dc, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 20dc567a6affb014b8337354aca0efdc, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 90002f3c330376640a0db3694ea461be, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d83bed34af1a9014da6277cd8b046256, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ff5a20b2c1aa52b4c82d3309055cf2ac, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: af5f97c08d6b6e2499e21af9fc074a1f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 222346feca871ec4aad82124269302d3, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 20a8a7f701ae9174d9c32c5aa2d1ae31, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: af12b969ca81b9d4387bbbffbac59690, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 5395f840ebde6ff49bd3e4148a91c6e2, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 61d099b15cd88884995d4e23aace86f5, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e30c2c73e0d26d243bca6925106b8f5c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: ed691e5b2f8ceeb42a51630b062eee6e, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 49e83567a686da14eb55c628d072952d, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: e141e6efd8dd5ee4ba011be0625efb1a, type: 2}
+    moveRank: 4

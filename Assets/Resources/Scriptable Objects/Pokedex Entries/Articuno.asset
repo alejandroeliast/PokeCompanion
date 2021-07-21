@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Articuno
+  m_EditorClassIdentifier: 
+  pkID: 162
+  pkNumber: 144
+  pkName: Articuno
+  pkSpecies: Freeze
+  pkType1: 14
+  pkType2: 2
+  pkHeight: 1.7
+  pkWeight: 55.4
+  pkAbility1: Pressure
+  pkAbility2: Snow Cloak
+  pkEvoStage: Unknown
+  pkEvoQty: 1
+  pkEvoName1: Articuno
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 6
+  pkMaxStrength: 6
+  pkMinDexterity: 6
+  pkMaxDexterity: 6
+  pkMinVitality: 7
+  pkMaxVitality: 7
+  pkMinSpecial: 6
+  pkMaxSpecial: 6
+  pkMinInsight: 8
+  pkMaxInsight: 8
+  pkBaseHP: 6
+  pkRank: 5
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Articuno
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 47e5ce46eab53b94887272800b8d7b32, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 06f6f5ed8aef3274180d9dfcfe0097dd, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: fdb17e29d73f20344bc1d82520fad42f, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: b1ba6288b1e20b741b355b4b598ff6e3, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 6644d9df912c6e244b580f7a53038e04, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 0bc1cb0c6a735604f8af2cfa6d975259, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: cb4f59de7cfb1604b91a2fe769e1cdff, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 82f76788651e3404f9b13035a3508ac9, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: e19bf60a58ba1f14088bce7255b1c0ea, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 0667e8b6220320b448f27578722312da, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 2688213d04130c54aa7781b7c0bf61a4, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: d301af88ff5f1cf4dba2af0671cbd55c, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 227f069f7ae201a46bf4356f2a161110, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 19df87e44fe6177408d155a02c1325d7, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: b7b5d2f22f78fc042910bdbbc6784ecc, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 73685a6d6fe9c6a45b785bda3db35444, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: d5b1eca039b41ea4c958e3a07f66e508, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: b8849468f2066d04abdde962659ac9b1, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 688910edba2cd3a48aae5e3f80df0f8c, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 43a4e2e737e7081479e1fdabf113f8be, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 9c1fb3b1e91c82e458d9ca4fa3a438fb, type: 2}
+    moveRank: 5

@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Drowzee
+  m_EditorClassIdentifier: 
+  pkID: 112
+  pkNumber: 96
+  pkName: Drowzee
+  pkSpecies: Hypnosis
+  pkType1: 13
+  pkType2: 18
+  pkHeight: 1
+  pkWeight: 32.4
+  pkAbility1: Insomnia
+  pkAbility2: Forewarn
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Drowzee
+  pkEvoName2: Hypno
+  pkEvoName3: None
+  pkEvoMethod: 2
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 1
+  pkMaxDexterity: 3
+  pkMinVitality: 1
+  pkMaxVitality: 3
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 3
+  pkMaxInsight: 7
+  pkBaseHP: 5
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Drowzee
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: a623d679affd08c46b16a82d2f9bd23e, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3d6cce0b34ecef245b3dddaa15f363be, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 834277cc18bbd684ca02ce3d4092ae73, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 18eefa294452240499c483a76cd5037f, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 19bebde7d3b7d5c47b5fa02c0b7e2fc8, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 0c2741ddf4b24904894cb5569f4dd1c6, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 7384ea309dce0a04a99d63f251802e64, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 435aabe344b10ca438e4249d764fd064, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 2f9de14db1ece2141b863ced3a817bda, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 30fe3456bf3fe094a89406d82f3adefa, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 492485de95594db4eb2a5d13aeafc622, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 64d1aa77f9a5e5847884fe3583aa1de5, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 1f6ad188b11a75a4982f3519210c4d30, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 8a229cb8de8acee47bcf6bcce154872a, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: cffe314c3af2a9544a7e2eeb15a6095c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: a393c22cb6509294ea0653bcb96b6839, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: e5d1c6bbda008ad4592dbdb45e6f315d, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 8820458deb059f34b91a25e458eb1bf9, type: 2}
+    moveRank: 4

@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Pidgeot
+  m_EditorClassIdentifier: 
+  pkID: 18
+  pkNumber: 18
+  pkName: Pidgeot
+  pkSpecies: Bird
+  pkType1: 0
+  pkType2: 2
+  pkHeight: 1.5
+  pkWeight: 39.5
+  pkAbility1: Keen Eye
+  pkAbility2: Tangled Feet
+  pkEvoStage: Final
+  pkEvoQty: 3
+  pkEvoName1: Pidgey
+  pkEvoName2: Pidgeotto
+  pkEvoName3: Pidgeot
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 3
+  pkMaxDexterity: 7
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 2
+  pkMaxSpecial: 5
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 6
+  pkRank: 3
+  pkOrigin: Original
+  pkVariantAmount: 2
+  pkVariantNames:
+  - Pidgeot
+  - Mega Pidgeot
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 286cda9e847db1b438176b3192c73694, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 4abfe0b695c724344b7e101cabfc31e0, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 47e5ce46eab53b94887272800b8d7b32, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 698b6929e48271d42bf90ae90787caad, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 688910edba2cd3a48aae5e3f80df0f8c, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b8849468f2066d04abdde962659ac9b1, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 98b8f5ccba05e644f8510563d39b99f5, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 5b1fdbe6eb4349d43a756031960b8bc4, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b509bc00c1bd66d45ab0bb811281b81d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 227f069f7ae201a46bf4356f2a161110, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 0667e8b6220320b448f27578722312da, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 97c397666da9e6c428ea493ef51f0be7, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 19df87e44fe6177408d155a02c1325d7, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 82f76788651e3404f9b13035a3508ac9, type: 2}
+    moveRank: 4

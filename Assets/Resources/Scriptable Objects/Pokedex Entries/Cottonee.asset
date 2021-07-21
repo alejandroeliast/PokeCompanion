@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Cottonee
+  m_EditorClassIdentifier: 
+  pkID: 564
+  pkNumber: 546
+  pkName: Cottonee
+  pkSpecies: Cotton Puff
+  pkType1: 11
+  pkType2: 17
+  pkHeight: 0.3
+  pkWeight: 0.6
+  pkAbility1: Prankster
+  pkAbility2: Infiltrator
+  pkEvoStage: First
+  pkEvoQty: 1
+  pkEvoName1: None
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 1
+  pkMaxStrength: 2
+  pkMinDexterity: 3
+  pkMaxDexterity: 6
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 2
+  pkMaxInsight: 4
+  pkBaseHP: 3
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Cottonee
+  pkMoves: []

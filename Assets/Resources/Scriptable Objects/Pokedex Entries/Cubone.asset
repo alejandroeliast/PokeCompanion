@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Cubone
+  m_EditorClassIdentifier: 
+  pkID: 121
+  pkNumber: 104
+  pkName: Cubone
+  pkSpecies: Lonely
+  pkType1: 4
+  pkType2: 18
+  pkHeight: 0.4
+  pkWeight: 6.5
+  pkAbility1: Rock Head
+  pkAbility2: Lightningrod
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Cubone
+  pkEvoName2: Split
+  pkEvoName3: None
+  pkEvoMethod: 2
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 1
+  pkMaxDexterity: 3
+  pkMinVitality: 3
+  pkMaxVitality: 7
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 2
+  pkMaxInsight: 4
+  pkBaseHP: 4
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Cubone
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 6a85edb63ba95fa42bd2d825c9755aa8, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: d637a18ecf6045144a0877b1d4d8c3dc, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: c36f89a8513d38c418eafb2826883ac9, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 7b3c226f2cebdea41b6ee0f3e6d17918, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 33da7a454607ec84a915fb5e6d7e1cd9, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 7384ea309dce0a04a99d63f251802e64, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 97017fa6703c42548afe1a61fa5b55cc, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d83bed34af1a9014da6277cd8b046256, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 68e316cdc26e122459d6b19692dca82f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d1663496b67ac45408e8b92868a66465, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 336c0e1ed4f55084791243e6775f036e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 4447d91de4a379e4e82c532065dc4ad0, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: ef21b5cd938c060488865a0f703d5747, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 90b9a8eabc1b7c74aa4d87fca91c0e37, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 48bdb4d194f7e04449bbb416e69487dd, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 1a85cdc058b6c884891dc0f067372ddf, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: a567a4649ed41ac499d0c04db94a467f, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 4e637a6ed2081814cb6ccb6ea57e9041, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 212e8156ce43b25499b5c8b1005100d4, type: 2}
+    moveRank: 4

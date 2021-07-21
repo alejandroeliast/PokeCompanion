@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Dugtrio Alola
+  m_EditorClassIdentifier: 
+  pkID: 60
+  pkNumber: 51
+  pkName: Dugtrio Alola
+  pkSpecies: Mole
+  pkType1: 4
+  pkType2: 8
+  pkHeight: 0.7
+  pkWeight: 66
+  pkAbility1: Sand Veil
+  pkAbility2: Tangling Hair
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Diglett Alola
+  pkEvoName2: Dugtrio Alola
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 4
+  pkMaxDexterity: 9
+  pkMinVitality: 2
+  pkMaxVitality: 4
+  pkMinSpecial: 2
+  pkMaxSpecial: 4
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 3
+  pkRank: 2
+  pkOrigin: Alolan
+  pkVariantAmount: 2
+  pkVariantNames:
+  - Dugtrio
+  - Dugtrio Alola
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 286cda9e847db1b438176b3192c73694, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: d8f98cc9012fc7448bd82d17cb523f40, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 6a85edb63ba95fa42bd2d825c9755aa8, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 560f6b10b32022a42a03d157a01f99cb, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 9dd784726b8f4a245bb90a65248f024b, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: ab85d7384633e634eb5d6523fa0729da, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 4705914059c1f8248a1fb7ae10e689ec, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: db29782718449694b93265ef781934a1, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d67a402d4cb0c6343a1a03c01f978675, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 945986583d379164faf765b74c3e6e56, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ea96f3c35a0d84049b55e54132ab45f1, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e061db0e6a7c6ca4797ce3e01d97e523, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: c9cecbb4320791e4f996e7c2095b0c72, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 5802b78130a7ab34783284bc9004ee0f, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 61d099b15cd88884995d4e23aace86f5, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 9a41cd9e751919340a3ac49e710b2b71, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 4e767ec14f830b24ea602595f2bc628d, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 92ede98fe8d4016499aee8c1b7ac8968, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 0bc1cb0c6a735604f8af2cfa6d975259, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 90b9a8eabc1b7c74aa4d87fca91c0e37, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 8397ea42c11b50f47b27b5b31d909247, type: 2}
+    moveRank: 4

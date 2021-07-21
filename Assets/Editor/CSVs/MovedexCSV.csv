@@ -1,0 +1,720 @@
+1,Attack Order,Bug,3,Physical,Ranged,Tough,Nature,Strength,Target,Foe,HighCrit,None,None,None,None,None,None,None,None,None
+2,Bug Bite,Bug,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+3,Bug Buzz,Bug,3,Special,Ranged,Special,Perform,Special,Target,Foe,SpDefenseFoeDown,Value1,ChanceDice,Value1,Sound,None,None,None,None,None
+4,Defend Order,Bug,0,Support,Ranged,Tough,Nature,None,Target,User,DefenseAllyUp,Value1,SpDefenseAllyUp,Value1,None,None,None,None,None,None
+5,Fell Stinger,Bug,1,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,StrengthAllyUp,Value2,None,None,None,None,None,None,None,None
+6,First Impression,Bug,3,Physical,Melee,Strength,Intimidate,Strength,Target,Foe,Priority,Value2,None,None,None,None,None,None,None,None
+7,Fury Cutter,Bug,1,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Succesive,Attack5,None,None,None,None,None,None,None,None
+8,Heal Order,Bug,0,Support,Ranged,Tough,Nature,None,Target,User,HealBasic,None,None,None,None,None,None,None,None,None
+9,Infestation,Bug,1,Special,Ranged,Dexterity,Channel,Special,Target,Foe,Block,None,None,None,None,None,None,None,None,None
+10,Leech Life,Bug,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+11,Lunge,Bug,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,StrengthFoeDown,None,None,None,None,None,None,None,None,None
+12,Megahorn,Bug,5,Physical,Melee,Strength,Brawl,Strength,Target,Foe,Lethal,None,AccuracyLow,Value2,None,None,None,None,None,None
+13,Pin Missile,Bug,1,Physical,Ranged,Dexterity,Brawl,Strength,Target,Foe,Succesive,Attack5,None,None,None,None,None,None,None,None
+14,Pollen Pluff,Bug,3,Special,Ranged,Special,Channel,Special,Target,Foe,Target,Ally,HealFixedBasic,Value1,None,None,None,None,None,None
+15,Powder,Bug,0,Support,Ranged,Insight,Nature,None,Target,Foe,None,None,None,None,None,None,None,None,None,None
+16,Quiver Dance,Bug,0,Support,Ranged,Beauty,Perform,None,Target,User,DexterityAllyUp,Value1,SpecialAllyUp,Value1,SpDefenseAllyUp,Value1,None,None,None,None
+17,Rage Powder,Bug,0,Support,Ranged,Insight,Intimidate,None,Target,User,Priority,Value2,None,None,None,None,None,None,None,None
+18,Signal Beam,Bug,3,Special,Ranged,Special,Channel,Special,Target,Foe,Confuse,CD1,None,None,None,None,None,None,None,None
+19,Silver Wind,Bug,2,Special,Ranged,Dexterity,Channel,Special,Target,Foe,StrengthAllyUp,Value1,DexterityAllyUp,Value1,SpecialAllyUp,Value1,DefenseAllyUp,Value1,SpDefenseAllyUp,Value1
+20,Spider Web,Bug,0,Support,Ranged,Insight,Stealth,None,Target,Battlefield,Block,None,None,None,None,None,None,None,None,None
+21,Steamroller,Bug,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Flinch,CD3,None,None,None,None,None,None,None,None
+22,Sticky Web,Bug,0,Support,Ranged,Insight,Nature,None,Target,Battlefield,DexterityFoeDown,Value1,None,None,None,None,None,None,None,None
+23,String Shot,Bug,0,Support,Ranged,Insight,Nature,None,Target,FoeAll,DexterityFoeDown,Value1,None,None,None,None,None,None,None,None
+24,Struggle Bug,Bug,1,Special,Ranged,Dexterity,Channel,Special,Target,Foe,SpecialFoeDown,Value1,None,None,None,None,None,None,None,None
+25,Tail Glow,Bug,0,Support,Ranged,Insight,Nature,None,Target,User,SpecialAllyUp,Value3,None,None,None,None,None,None,None,None
+26,Twineedle,Bug,1,Physical,Ranged,Dexterity,Brawl,Strength,Target,Foe,Poison,CD2,Succesive,Attack2,None,None,None,None,None,None
+27,U-Turn,Bug,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Switch,None,None,None,None,None,None,None,None,None
+28,X-Scissor,Bug,3,Physical,Melee,Strength,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+29,Assurance,Dark,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+30,Baddy Bad,Dark,3,Special,Ranged,Dexterity,Channel,Special,Target,Foe,None,None,None,None,None,None,None,None,None,None
+31,Beat Up,Dark,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+32,Bite,Dark,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Flinch,CD3,None,None,None,None,None,None,None,None
+33,Brutal Swing,Dark,2,Physical,Melee,Dexterity,Brawl,Strength,Target,FoeAll,Lethal,None,None,None,None,None,None,None,None,None
+34,Crunch,Dark,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,DefenseFoeDown,Value1,ChanceDice,Value1,Lethal,None,None,None,None,None
+35,Dark Pulse,Dark,3,Special,Ranged,Insight,Channel,Special,Target,FoeRandom,Flinch,CD2,None,None,None,None,None,None,None,None
+36,Dark Void,Dark,0,Support,Ranged,Insight,Channel,None,Target,FoeAll,Sleep,Always,AccuracyLow,Value3,None,None,None,None,None,None
+37,Darkest Lariat,Dark,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+38,Embargo,Dark,0,Support,Ranged,Tough,Intimidate,None,Target,Foe,None,None,None,None,None,None,None,None,None,None
+39,Fake Tears,Dark,0,Support,Ranged,Cute,Perform,None,Target,Foe,SpDefenseFoeDown,Value2,None,None,None,None,None,None,None,None
+40,False surrender,Dark,3,Physical,Melee,Insight,Allure,Strength,Target,Foe,NeverFail,None,None,None,None,None,None,None,None,None
+41,Feint Attack,Dark,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,NeverFail,None,None,None,None,None,None,None,None,None
+42,Flatter,Dark,0,Support,Ranged,Cool,Allure,None,Target,Foe,SpecialFoeUp,Value1,Confuse,Always,None,None,None,None,None,None
+43,Fling,Dark,1,Physical,Ranged,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+44,Foul Play,Dark,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+45,Hone Claws,Dark,0,Support,Ranged,Insight,Nature,None,Target,User,StrengthAllyUp,Value1,AccuracyAllyUp,Value1,None,None,None,None,None,None
+46,Hyperspace Fury,Dark,4,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,NeverFail,None,DefenseAllyDown,Value1,None,None,None,None,None,None
+47,Jaw Lock,Dark,3,Physical,Melee,Strength,Brawl,Strength,Target,Foe,Block,None,None,None,None,None,None,None,None,None
+48,Knock Off,Dark,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+49,Memento,Dark,0,Support,Ranged,Will,Channel,None,Target,Foe,StrengthFoeDown,Value2,DexterityFoeDown,Value2,SpecialFoeDown,Value2,DefenseFoeDown,Value2,SpDefenseFoeDown,Value2
+50,Nasty Plot,Dark,0,Support,Ranged,Clever,Alert,None,Target,User,SpecialAllyUp,Value2,None,None,None,None,None,None,None,None
+51,Night Daze,Dark,3,Special,Ranged,Dexterity,Channel,Special,Target,Foe,AccuracyFoeDown,Value1,ChanceDice,Value4,None,None,None,None,None,None
+52,Night Slash,Dark,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,HighCrit,None,Lethal,None,None,None,None,None,None,None
+53,Obstruct,Dark,0,Support,Ranged,Dexterity,Intimidate,None,Target,User,Priority,Value4,Shield,None,DefenseFoeDown,Value2,None,None,None,None
+54,Parting Shot,Dark,0,Support,Ranged,Tough,Intimidate,None,Target,Foe,StrengthFoeDown,Value1,SpecialFoeDown,Value1,Switch,None,None,None,None,None
+55,Payback,Dark,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+56,Power Trip,Dark,1,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+57,Punishment,Dark,1,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Priority,Value1,None,None,None,None,None,None,None,None
+58,Pursuit,Dark,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+59,Quash,Dark,0,Support,Ranged,Tough,Intimidate,None,Target,Foe,SpecialFoeDown,Value1,Sound,None,None,None,None,None,None,None
+60,Snarl,Dark,2,Special,Ranged,Insight,Perform,Special,Target,Foe,Priority,Value1,None,None,None,None,None,None,None,None
+61,Snatch,Dark,0,Support,Ranged,Clever,Stealth,None,Target,Foe,None,None,None,None,None,None,None,None,None,None
+62,Sucker Punch,Dark,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+63,Switcheroo,Dark,0,Support,Ranged,Insight,Stealth,None,Target,Foe,None,None,None,None,None,None,None,None,None,None
+64,Taunt,Dark,0,Support,Ranged,Tough,Intimidate,None,Target,Foe,None,None,None,None,None,None,None,None,None,None
+65,Thief,Dark,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+66,Throat Chop,Dark,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+67,Topsy-Turvy,Dark,0,Support,Ranged,Tough,Intimidate,None,Target,Foe,None,None,None,None,None,None,None,None,None,None
+68,Torment,Dark,0,Support,Ranged,Tough,Intimidate,None,Target,Foe,None,None,None,None,None,None,None,None,None,None
+69,Breaking Swipe,Dragon,2,Physical,Melee,Dexterity,Brawl,Strength,Target,FoeAll,StrengthFoeDown,Value1,None,None,None,None,None,None,None,None
+70,Clanging Scales,Dragon,4,Special,Ranged,Dexterity,Perform,Special,Target,FoeAll,DefenseAllyDown,Value1,Sound,None,None,None,None,None,None,None
+71,Clangorous Soul,Dragon,0,Support,Ranged,Tough,Perform,None,Target,User,StrengthAllyUp,Value1,DexterityAllyUp,Value1,SpecialAllyUp,Value1,DefenseAllyUp,Value1,SpDefenseAllyUp,Value1
+72,Core Enforcer,Dragon,4,Special,Ranged,Special,Channel,Special,Target,Foe,None,None,None,None,None,None,None,None,None,None
+73,Draco Meteor,Dragon,6,Special,Ranged,Special,Channel,Special,Target,Foe,SpecialAllyDown,Value2,AccuracyLow,Value1,Lethal,None,None,None,None,None
+74,Dragon Breath,Dragon,2,Special,Ranged,Dexterity,Channel,Special,Target,Foe,Paralysis,CD3,None,None,None,None,None,None,None,None
+75,Dragon Claw,Dragon,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+76,Dragon Dance,Dragon,0,Support,Ranged,Tough,Perform,None,Target,User,StrengthAllyUp,Value1,DexterityAllyUp,Value1,None,None,None,None,None,None
+77,Dragon Darts,Dragon,2,Physical,Ranged,Dexterity,Channel,Strength,Target,Foe,Succesive,Attack2,None,None,None,None,None,None,None,None
+78,Dragon Hammer,Dragon,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+79,Dragon Pulse,Dragon,3,Special,Ranged,Dexterity,Channel,Dexterity,Target,Foe,None,None,None,None,None,None,None,None,None,None
+80,Dragon Rage,Dragon,0,Special,Ranged,Dexterity,Channel,None,Target,Foe,DamageInflict,Value2,None,None,None,None,None,None,None,None
+81,Dragon Rush,Dragon,4,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Flinch,CD2,AccuracyLow,Value2,None,None,None,None,None,None
+82,Dragon Tail,Dragon,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Priority,Value1,AccuracyLow,Value1,Switch,None,None,None,None,None
+83,Dual Chop,Dragon,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Succesive,Attack2,AccuracyLow,Value1,None,None,None,None,None,None
+84,Dynamax Cannon,Dragon,4,Special,Ranged,Special,Channel,Special,Target,Foe,Lethal,None,None,None,None,None,None,None,None,None
+85,Eternabeam,Dragon,7,Special,Ranged,Special,Channel,Special,Target,Foe,Recharge,None,Lethal,None,AccuracyLow,Value1,None,None,None,None
+86,Outrage,Dragon,5,Physical,Melee,Strength,Brawl,Strength,Target,FoeRandom,Rampage,None,None,None,None,None,None,None,None,None
+87,Roar of Time,Dragon,6,Special,Ranged,Special,Channel,Special,Target,Foe,Lethal,None,AccuracyLow,Value1,None,None,None,None,None,None
+88,Spacial Reng,Dragon,4,Special,Ranged,Special,Channel,Special,Target,Foe,Lethal,None,HighCrit,None,None,None,None,None,None,None
+89,Twister,Dragon,2,Special,Ranged,Dexterity,Channel,Special,Target,FoeAll,Flinch,CD2,None,None,None,None,None,None,None,None
+90,Aura Wheel,Electric,4,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,DexterityAllyUp,Value1,None,None,None,None,None,None,None,None
+91,Bolt Beak,Electric,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+92,Bolt Strike,Electric,6,Physical,Melee,Strength,Brawl,Strength,Target,Foe,Paralysis,CD2,AccuracyLow,Value2,None,None,None,None,None,None
+93,Buzzy Buzz,Electric,3,Special,Ranged,Dexterity,Channel,Special,Target,Foe,Paralysis,Always,None,None,None,None,None,None,None,None
+94,Charge,Electric,0,Support,Ranged,Insight,Nature,None,Target,User,None,None,None,None,None,None,None,None,None,None
+95,Charge Beam,Electric,2,Special,Ranged,Dexterity,Channel,Special,Target,Foe,SpecialAllyUp,Value1,ChanceDice,Value5,AccuracyLow,Value1,None,None,None,None
+96,Discharge,Electric,3,Special,Ranged,Dexterity,Channel,Special,Target,Area,Paralysis,CD3,None,None,None,None,None,None,None,None
+97,Eerie Impulse,Electric,0,Support,Ranged,Insight,Nature,None,Target,Foe,SpecialFoeDown,Value2,None,None,None,None,None,None,None,None
+98,Electric Terrain,Electric,0,Support,Ranged,Insight,Nature,None,Target,Battlefield,None,None,None,None,None,None,None,None,None,None
+99,Electrify,Electric,0,Support,Ranged,Insight,Nature,None,Target,Foe,None,None,None,None,None,None,None,None,None,None
+100,Electro Ball,Electric,2,Special,Ranged,Dexterity,Channel,Special,Target,Foe,None,None,None,None,None,None,None,None,None,None
+101,Electroweb,Electric,2,Special,Ranged,Dexterity,Channel,Special,Target,FoeAll,DexterityFoeDown,Value1,None,None,None,None,None,None,None,None
+102,Fusion Bolt,Electric,4,Physical,Melee,Strength,Channel,Strength,Target,Foe,Lethal,None,None,None,None,None,None,None,None,None
+103,Ion Deluge,Electric,0,Support,Ranged,Insight,Nature,None,Target,Battlefield,None,None,None,None,None,None,None,None,None,None
+104,Magnet Rise,Electric,0,Support,Ranged,Insight,Nature,None,Target,User,None,None,None,None,None,None,None,None,None,None
+105,Magnetic Flux,Electric,0,Support,Ranged,Insight,Nature,None,Target,AllyAll,DefenseAllyUp,Value1,SpDefenseAllyUp,Value1,None,None,None,None,None,None
+106,Nuzzle,Electric,1,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Paralysis,Always,None,None,None,None,None,None,None,None
+107,Overdrive,Electric,3,Special,Ranged,Dexterity,Perform,Special,Target,FoeAll,Sound,None,None,None,None,None,None,None,None,None
+108,Parabolic Charge,Electric,2,Special,Ranged,Dexterity,Channel,Special,Target,Area,None,None,None,None,None,None,None,None,None,None
+109,Pika Papow,Electric,0,Special,Ranged,Dexterity,Channel,Special,Target,Foe,None,None,None,None,None,None,None,None,None,None
+110,Plasma Fists,Electric,4,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,FistBased,None,None,None,None,None,None,None,None,None
+111,Shock Wave,Electric,2,Special,Ranged,Dexterity,Channel,Special,Target,Foe,NeverFail,None,None,None,None,None,None,None,None,None
+112,Spark,Electric,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Paralysis,CD3,None,None,None,None,None,None,None,None
+113,Thunder,Electric,5,Special,Ranged,Special,Channel,Special,Target,Foe,Paralysis,CD3,Lethal,None,AccuracyLow,Value2,None,None,None,None
+114,Thunder Fang,Electric,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Paralysis,CD2,Flinch,CD2,None,None,None,None,None,None
+115,Thunder Punch,Electric,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Paralysis,CD1,FistBased,None,None,None,None,None,None,None
+116,Thunder Shock,Electric,2,Special,Ranged,Dexterity,Channel,Special,Target,Foe,Paralysis,CD1,None,None,None,None,None,None,None,None
+117,Thunder Wave,Electric,0,Support,Ranged,Insight,Nature,None,Target,Foe,Paralysis,Always,AccuracyLow,Value1,None,None,None,None,None,None
+118,Thunderbolt,Electric,3,Special,Ranged,Dexterity,Channel,Special,Target,Foe,Paralysis,CD1,None,None,None,None,None,None,None,None
+119,Volt Switch,Electric,2,Special,Ranged,Dexterity,Channel,Special,Target,Foe,Switch,None,None,None,None,None,None,None,None,None
+120,Volt Tackle,Electric,5,Physical,Melee,Strength,Brawl,Strength,Target,Foe,Paralysis,CD1,Recoil,None,None,None,None,None,None,None
+121,Wild Charge,Electric,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Recoil,None,None,None,None,None,None,None,None,None
+122,Zap Cannon,Electric,5,Special,Ranged,Dexterity,Channel,Special,Target,Foe,Paralysis,Always,Lethal,None,AccuracyLow,Value3,None,None,None,None
+123,Zing Zap,Electric,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Flinch,CD3,None,None,None,None,None,None,None,None
+124,Zippy Zap,Electric,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Priority,Value2,None,None,None,None,None,None,None,None
+125,Aromatic Mist,Fairy,0,Support,Ranged,Insight,Nature,None,Target,Ally,DefenseAllyUp,Value1,SpDefenseAllyUp,Value1,None,None,None,None,None,None
+126,Baby-Doll Eyes,Fairy,0,Support,Ranged,Cute,Allure,None,Target,Foe,StrengthFoeDown,Value1,Priority,None,None,None,None,None,None,None
+127,Charm,Fairy,0,Support,Ranged,Cute,Allure,None,Target,Foe,StrengthFoeDown,Value2,None,None,None,None,None,None,None,None
+128,Crafty Shield,Fairy,0,Support,Ranged,Insight,Nature,None,Target,AllyAll,Priority,Value3,Shield,None,None,None,None,None,None,None
+129,Dazzling Gleam,Fairy,3,Special,Ranged,Dexterity,Channel,Special,Target,FoeAll,None,None,None,None,None,None,None,None,None,None
+130,Decorate,Fairy,0,Support,Ranged,Beauty,Nature,None,Target,Ally,StrengthAllyUp,Value2,SpecialAllyUp,Value2,None,None,None,None,None,None
+131,Disarming Voice,Fairy,2,Special,Ranged,Insight,Perform,Special,Target,FoeAll,NeverFail,None,Sound,None,None,None,None,None,None,None
+132,Draining Kiss,Fairy,2,Special,Ranged,Dexterity,Channel,Special,Target,Foe,None,None,None,None,None,None,None,None,None,None
+133,Fairy Lock,Fairy,0,Support,Ranged,Insight,Nature,None,Target,Battlefield,Block,None,None,None,None,None,None,None,None,None
+134,Fairy Wind,Fairy,2,Special,Ranged,Dexterity,Channel,Special,Target,Foe,None,None,None,None,None,None,None,None,None,None
+135,Fleur Cannon,Fairy,6,Special,Ranged,Special,Channel,Special,Target,Foe,SpecialAllyDown,Value2,Lethal,None,AccuracyLow,Value1,None,None,None,None
+136,Floral Healing,Fairy,0,Support,Ranged,Insight,Nature,None,Target,Ally,HealBasic,None,None,None,None,None,None,None,None,None
+137,Flower Shield,Fairy,0,Support,Ranged,Insight,Nature,None,Target,Battlefield,DefenseAllyUp,Value1,DefenseFoeUp,Value1,None,None,None,None,None,None
+138,Geomancy,Fairy,0,Support,Ranged,Insight,Nature,None,Target,User,DexterityAllyUp,Value2,SpecialAllyUp,Value2,SpDefenseAllyUp,Value2,Charge,None,None,None
+139,Light of Ruin,Fairy,6,Special,Ranged,Special,Channel,Special,Target,Foe,Recoil,None,Lethal,None,AccuracyLow,Value1,None,None,None,None
+140,Misty Terrain,Fairy,0,Support,Ranged,Insight,Nature,None,Target,Battlefield,None,None,None,None,None,None,None,None,None,None
+141,Moonblast,Fairy,3,Special,Ranged,Special,Channel,Special,Target,Foe,SpecialFoeDown,Value1,ChanceDice,Value3,None,None,None,None,None,None
+142,Moonlight,Fairy,0,Support,Ranged,Insight,Nature,None,Target,User,HealBasic,None,None,None,None,None,None,None,None,None
+143,Nature’s Madness,Fairy,0,Special,Ranged,Insight,Nature,None,Target,Foe,AccuracyLow,Value1,None,None,None,None,None,None,None,None
+144,Play Rough,Fairy,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,StrengthFoeDown,Value1,ChanceDice,Value1,AccuracyLow,Value1,None,None,None,None
+145,Sparkly Swirl,Fairy,3,Special,Ranged,Dexterity,Channel,Special,Target,Foe,Target,AllyAll,CureStatus,Always,AccuracyLow,Value1,None,None,None,None
+146,Spirit Break,Fairy,2,Physical,Melee,Insight,Brawl,Strength,Target,Foe,SpecialFoeDown,Value1,None,None,None,None,None,None,None,None
+147,Strange Steam,Fairy,3,Special,Ranged,Special,Channel,Special,Target,Foe,Confuse,CD2,None,None,None,None,None,None,None,None
+148,Sweet Kiss,Fairy,0,Support,Ranged,Cute,Allure,None,Target,Foe,Confuse,Always,AccuracyLow,Value2,None,None,None,None,None,None
+149,Arm Thrust,Fighting,1,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Succesive,Attack5,None,None,None,None,None,None,None,None
+150,Aura Sphere,Fighting,3,Special,Ranged,Dexterity,Channel,Special,Target,Foe,NeverFail,None,None,None,None,None,None,None,None,None
+151,Body Press,Fighting,3,Physical,Melee,Strength,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+152,Brick Break,Fighting,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+153,Bulk Up,Fighting,0,Support,Ranged,Vitality,Athletic,None,Target,User,StrengthAllyUp,Value1,DefenseAllyUp,Value1,None,None,None,None,None,None
+154,Circle Throw,Fighting,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,PriorityLow,Value1,AccuracyLow,Value1,Switch,None,None,None,None,None
+155,Close Combat,Fighting,5,Physical,Melee,Strength,Brawl,Strength,Target,Foe,DefenseAllyDown,Value1,SpDefenseAllyDown,Value1,None,None,None,None,None,None
+156,Counter,Fighting,0,Physical,Melee,Insight,Brawl,None,Target,Foe,None,None,None,None,None,None,None,None,None,None
+157,Cross Chop,Fighting,4,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,HighCrit,None,AccuracyLow,Value2,None,None,None,None,None,None
+158,Detect,Fighting,0,Support,Ranged,Insight,Alert,None,Target,User,Priority,Value5,Shield,None,None,None,None,None,None,None
+159,Double Kick,Fighting,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Succesive,Attack2,None,None,None,None,None,None,None,None
+160,Drain Punch,Fighting,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,FistBased,None,None,None,None,None,None,None,None,None
+161,Dynamic Punch,Fighting,4,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Confuse,Always,AccuracyLow,Value3,FistBased,None,None,None,None,None
+162,Final Gambit,Fighting,0,Special,Ranged,Will,Athletic,None,Target,Foe,None,None,None,None,None,None,None,None,None,None
+163,Flying Press,Fighting,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+164,Focus Blast,Fighting,5,Special,Ranged,Special,Channel,Special,Target,Foe,SpDefenseFoeDown,Value1,ChanceDice,Value1,AccuracyLow,Value2,None,None,None,None
+165,Focus Punch,Fighting,6,Physical,Melee,Strength,Brawl,Strength,Target,Foe,Charge,None,FistBased,None,None,None,None,None,None,None
+166,Force Palm,Fighting,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Paralysis,CD3,None,None,None,None,None,None,None,None
+167,Hammer Arm,Fighting,4,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,DexterityAllyDown,Value1,AccuracyLow,Value1,None,None,None,None,None,None
+168,High Jump Kick,Fighting,5,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,AccuracyLow,Value1,None,None,None,None,None,None,None,None
+169,Jump Kick,Fighting,4,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+170,Karate Chop,Fighting,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,HighCrit,None,None,None,None,None,None,None,None,None
+171,Low Kick,Fighting,1,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+172,Low Sweep,Fighting,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,DexterityFoeDown,Value2,None,None,None,None,None,None,None,None
+173,Mach Punch,Fighting,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Priority,Value1,FistBased,None,None,None,None,None,None,None
+174,Mat Block,Fighting,0,Support,Ranged,Dexterity,Athletic,None,Target,AllyAll,Shield,None,None,None,None,None,None,None,None,None
+175,Meteor Assault,Fighting,6,Physical,Melee,Strength,Brawl,Strength,Target,Foe,Recharge,None,AccuracyLow,Value1,Lethal,None,None,None,None,None
+176,No Retreat,Fighting,0,Support,Ranged,Insight,Nature,None,Target,User,StrengthAllyUp,Value1,DexterityAllyUp,Value1,SpecialAllyUp,Value1,DefenseAllyUp,Value1,SpDefenseAllyUp,Value1
+177,Octolock,Fighting,0,Support,Ranged,Strength,Brawl,None,Target,Foe,Block,None,DefenseFoeDown,Value1,SpDefenseFoeDown,Value1,None,None,None,None
+178,Power-up Punch,Fighting,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,StrengthAllyUp,Value1,FistBased,None,None,None,None,None,None,None
+179,Quick Guard,Fighting,0,Support,Ranged,Dexterity,Athletic,None,Target,AllyAll,Priority,Value3,Shield,None,None,None,None,None,None,None
+180,Revenge,Fighting,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+181,Reversal,Fighting,1,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+182,Rock Smash,Fighting,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,DefenseFoeDown,Value1,ChanceDice,Value5,None,None,None,None,None,None
+183,Rolling Kick,Fighting,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Flinch,CD3,AccuracyLow,Value2,None,None,None,None,None,None
+184,Sacred Sword,Fighting,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+185,Secret Sword,Fighting,3,Special,Ranged,Dexterity,Channel,Special,Target,Foe,None,None,None,None,None,None,None,None,None,None
+186,Seismic Toss,Fighting,0,Physical,Melee,Strength,Athletic,None,Target,Foe,None,None,None,None,None,None,None,None,None,None
+187,Sky Uppercut,Fighting,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,AccuracyLow,Value1,None,None,None,None,None,None,None,None
+188,Storm Throw,Fighting,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+189,Submission,Fighting,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Recoil,None,AccuracyLow,Value2,None,None,None,None,None,None
+190,Superpower,Fighting,5,Physical,Melee,Strength,Brawl,Strength,Target,Foe,StrengthAllyUp,Value1,DefenseAllyUp,Value1,Lethal,None,None,None,None,None
+191,Triple Kick,Fighting,1,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Succesive,Attack5,AccuracyLow,Value1,None,None,None,None,None,None
+192,Vacuum Wave,Fighting,2,Special,Ranged,Dexterity,Channel,Special,Target,Foe,Priority,Value1,None,None,None,None,None,None,None,None
+193,Vital Throw,Fighting,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,NeverFail,None,PriorityLow,Value1,None,None,None,None,None,None
+194,Wake-up Slap,Fighting,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+195,Blast Burn,Fire,6,Special,Ranged,Special,Channel,Special,Target,Foe,Recharge,None,Lethal,None,AccuracyLow,Value1,None,None,None,None
+196,Blaze Kick,Fire,3,Physical,Melee,Dexterity,Brawl,None,Target,Foe,Burn2,CD2,HighCrit,None,AccuracyLow,Value1,None,None,None,None
+197,Blue Flare,Fire,6,Special,Ranged,Special,Channel,Special,Target,Foe,Burn3,CD2,AccuracyLow,Value2,None,None,None,None,None,None
+198,Burn Up,Fire,7,Special,Ranged,Will,Channel,Special,Target,Foe,Lethal,None,None,None,None,None,None,None,None,None
+199,Ember,Fire,2,Special,Ranged,Dexterity,Channel,Special,Target,Foe,Burn1,CD1,None,None,None,None,None,None,None,None
+200,Eruption,Fire,6,Special,Ranged,Special,Channel,Special,Target,FoeAll,Lethal,None,None,None,None,None,None,None,None,None
+201,Fiery Dance,Fire,3,Special,Ranged,Dexterity,Perform,Special,Target,Foe,SpecialAllyUp,Value1,ChanceDice,Value5,None,None,None,None,None,None
+202,Fire Blast,Fire,5,Special,Ranged,Special,Channel,Special,Target,Foe,Burn3,CD3,Lethal,None,AccuracyLow,Value2,None,None,None,None
+203,Fire Fang,Fire,2,Physical,Melee,Dexterity,Brawl,None,Target,Foe,Flinch,CD2,Burn1,CD2,AccuracyLow,Value1,None,None,None,None
+204,Fire Lash,Fire,3,Physical,Melee,Dexterity,Brawl,None,Target,Foe,DefenseFoeDown,Value1,None,None,None,None,None,None,None,None
+205,Fire Pledge,Fire,2,Special,Ranged,Dexterity,Channel,Special,Target,Area,Target,Battlefield,None,None,None,None,None,None,None,None
+206,Fire Punch,Fire,3,Physical,Melee,Dexterity,Brawl,None,Target,Foe,Burn2,CD1,FistBased,None,None,None,None,None,None,None
+207,Fire Spin,Fire,2,Special,Ranged,Dexterity,Channel,Special,Target,Foe,Block,None,AccuracyLow,Value2,None,None,None,None,None,None
+208,Flame Burst,Fire,3,Special,Ranged,Dexterity,Channel,Special,Target,Foe,None,None,None,None,None,None,None,None,None,None
+209,Flame Charge,Fire,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,DexterityAllyUp,Value1,None,None,None,None,None,None,None,None
+210,Flame Wheel,Fire,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Burn1,CD1,None,None,None,None,None,None,None,None
+211,Flamethrower,Fire,3,Special,Ranged,Dexterity,Channel,Special,Target,Foe,Burn2,CD1,None,None,None,None,None,None,None,None
+212,Flare Blitz,Fire,5,Physical,Melee,Strength,Brawl,Strength,Target,Foe,Recoil,None,Burn3,CD3,None,None,None,None,None,None
+213,Fusion Flare,Fire,4,Special,Ranged,Special,Channel,Special,Target,Foe,Lethal,None,None,None,None,None,None,None,None,None
+214,Heat Crash,Fire,2,Physical,Melee,Strength,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+215,Heat Wave,Fire,3,Special,Ranged,Dexterity,Channel,Special,Target,FoeAll,Burn1,CD1,AccuracyLow,Value1,None,None,None,None,None,None
+216,Incinerate,Fire,2,Special,Ranged,Dexterity,Channel,Special,Target,FoeAll,None,None,None,None,None,None,None,None,None,None
+217,Inferno,Fire,4,Special,Ranged,Dexterity,Channel,Special,Target,Foe,Burn3,Always,Lethal,None,AccuracyLow,Value3,None,None,None,None
+218,Lava Plume,Fire,3,Special,Ranged,Dexterity,Channel,Special,Target,Area,Burn1,CD3,None,None,None,None,None,None,None,None
+219,Magma Storm,Fire,4,Special,Ranged,Special,Channel,Special,Target,Foe,Block,None,AccuracyLow,Value2,None,None,None,None,None,None
+220,Mind Blown,Fire,6,Special,Ranged,Insight,Channel,Special,Target,Area,Recoil,None,None,None,None,None,None,None,None,None
+221,Mystical Fire,Fire,2,Special,Ranged,Dexterity,Channel,Special,Target,Foe,SpecialFoeDown,Value1,None,None,None,None,None,None,None,None
+222,Overheat,Fire,6,Special,Ranged,Special,Channel,Special,Target,Foe,SpecialAllyUp,Value2,Lethal,None,AccuracyLow,Value1,None,None,None,None
+223,Pyro Ball,Fire,5,Physical,Melee,Strength,Channel,Strength,Target,Foe,Burn2,CD1,AccuracyLow,Value1,None,None,None,None,None,None
+224,Sacred Fire,Fire,4,Physical,Melee,Dexterity,Channel,Strength,Target,Foe,Burn3,CD5,Lethal,None,None,None,None,None,None,None
+225,Searing Shot,Fire,5,Special,Ranged,Special,Channel,Special,Target,FoeAll,Burn2,CD3,Lethal,None,None,None,None,None,None,None
+226,Shell Trap,Fire,6,Special,Ranged,Dexterity,Stealth,Special,Target,Foe,PriorityLow,Value3,Lethal,None,None,None,None,None,None,None
+227,Sizzly Slide,Fire,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Burn1,Always,None,None,None,None,None,None,None,None
+228,Sunny Day,Fire,0,Support,Ranged,Special,Nature,None,Target,Battlefield,Weather,Sunny,None,None,None,None,None,None,None,None
+229,V-Create,Fire,7,Physical,Melee,Strength,Brawl,Strength,Target,Foe,DexterityAllyDown,Value1,DefenseAllyDown,Value1,SpDefenseAllyDown,Value1,None,None,None,None
+230,Will-o-Wisp,Fire,0,Support,Ranged,Dexterity,Channel,None,Target,Foe,Burn1,Always,AccuracyLow,Value2,None,None,None,None,None,None
+231,Acrobatics,Flying,4,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+232,Aerial Ace,Flying,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,NeverFail,None,None,None,None,None,None,None,None,None
+233,Aeroblast,Flying,4,Special,Ranged,Special,Channel,Special,Target,Foe,HighCrit,None,Lethal,None,None,None,None,None,None,None
+234,Air Cutter,Flying,2,Special,Ranged,Dexterity,Channel,Special,Target,FoeAll,HighCrit,None,None,None,None,None,None,None,None,None
+235,Air Slash,Flying,3,Special,Ranged,Dexterity,Channel,Special,Target,Foe,Flinch,CD3,None,None,None,None,None,None,None,None
+236,Beak Blast,Flying,4,Physical,Ranged,Dexterity,Brawl,Strength,Target,Foe,Charge,None,Burn2,Always,PriorityLow,Value3,None,None,None,None
+237,Bounce,Flying,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Charge,None,Paralysis,CD3,None,None,None,None,None,None
+238,Brave Bird,Flying,5,Physical,Melee,Strength,Brawl,Strength,Target,Foe,Recoil,None,None,None,None,None,None,None,None,None
+239,Chatter,Flying,2,Special,Ranged,Insight,Perform,Special,Target,Foe,Confuse,CD3,Sound,None,None,None,None,None,None,None
+240,Defog,Flying,0,Support,Ranged,Insight,Nature,None,Target,Battlefield,None,None,None,None,None,None,None,None,None,None
+241,Dragon Ascent,Flying,5,Physical,Melee,Strength,Brawl,Strength,Target,Foe,Lethal,None,DefenseAllyDown,Value1,SpDefenseAllyDown,Value1,None,None,None,None
+242,Drill Peck,Flying,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+243,Feather Dance,Flying,0,Support,Ranged,Beauty,Perform,None,Target,Foe,StrengthFoeDown,Value2,None,None,None,None,None,None,None,None
+244,Floaty Fall,Flying,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Flinch,CD3,None,None,None,None,None,None,None,None
+245,Fly,Flying,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Charge,None,None,None,None,None,None,None,None,None
+246,Gust,Flying,2,Special,Ranged,Dexterity,Channel,Special,Target,Foe,None,None,None,None,None,None,None,None,None,None
+247,Hurricane,Flying,5,Special,Ranged,Special,Channel,Special,Target,Foe,Confuse,CD3,Lethal,None,AccuracyLow,Value2,None,None,None,None
+248,Mirror Move,Flying,0,Support,Ranged,Will,Channel,None,Target,Foe,None,None,None,None,None,None,None,None,None,None
+249,Oblivion Wing,Flying,4,Special,Ranged,Special,Channel,Special,Target,Foe,HighCrit,None,Lethal,None,None,None,None,None,None,None
+250,Peck,Flying,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+251,Pluck,Flying,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+252,Roost,Flying,0,Support,Ranged,Insight,Nature,None,Target,User,HealBasic,None,None,None,None,None,None,None,None,None
+253,Sky Attack,Flying,6,Physical,Melee,Strength,Brawl,Strength,Target,Foe,Flinch,CD3,Lethal,None,HighCrit,None,Charge,None,AccuracyLow,Value1
+254,Sky Drop,Flying,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Charge,None,Flinch,Always,None,None,None,None,None,None
+255,Tailwind,Flying,0,Support,Ranged,Insight,Nature,None,Target,Battlefield,DexterityAllyUp,Value2,None,None,None,None,None,None,None,None
+256,Wing Attack,Flying,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+257,Astonish,Ghost,1,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Flinch,CD3,None,None,None,None,None,None,None,None
+258,Confuse Ray,Ghost,0,Support,Ranged,Insight,Nature,None,Target,Foe,Confuse,Always,None,None,None,None,None,None,None,None
+259,Curse,Ghost,0,Support,Ranged,Will,Channel,None,Target,Foe,None,None,None,None,None,None,None,None,None,None
+260,Curse (Non-Ghost User),Ghost,0,Support,Ranged,Will,Channel,None,Target,User,StrengthAllyUp,Value1,DexterityAllyUp,Value1,DefenseAllyUp,Value1,None,None,None,None
+261,Destiny Bond,Ghost,0,Support,Ranged,Will,Channel,None,Target,User,None,None,None,None,None,None,None,None,None,None
+262,Grudge,Ghost,0,Support,Ranged,Will,Channel,None,Target,Foe,None,None,None,None,None,None,None,None,None,None
+263,Hex,Ghost,2,Special,Ranged,Dexterity,Channel,Special,Target,Foe,None,None,None,None,None,None,None,None,None,None
+264,Lick,Ghost,1,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Paralysis,CD3,None,None,None,None,None,None,None,None
+265,Moongeist Beam,Ghost,4,Special,Ranged,Special,Channel,Special,Target,Foe,Lethal,None,None,None,None,None,None,None,None,None
+266,Night Shade,Ghost,0,Special,Ranged,Insight,Channel,None,Target,Foe,None,None,None,None,None,None,None,None,None,None
+267,Nightmare,Ghost,0,Support,Melee,Will,Channel,None,Target,Foe,DamageInflict,Value1,None,None,None,None,None,None,None,None
+268,Ominous Wind,Ghost,2,Special,Ranged,Dexterity,Channel,Special,Target,Foe,StrengthAllyUp,Value1,DexterityAllyUp,Value1,SpecialAllyUp,Value1,DefenseAllyUp,Value1,SpDefenseAllyUp,Value1
+269,Phantom Force,Ghost,3,Physical,Melee,Strength,Brawl,Strength,Target,Foe,Charge,None,None,None,None,None,None,None,None,None
+270,Shadow Ball,Ghost,3,Special,Ranged,Dexterity,Channel,Special,Target,Foe,SpDefenseFoeDown,Value1,ChanceDice,Value1,None,None,None,None,None,None
+271,Shadow Bone,Ghost,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,DefenseFoeDown,Value1,ChanceDice,Value2,None,None,None,None,None,None
+272,Shadow Claw,Ghost,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,HighCrit,None,None,None,None,None,None,None,None,None
+273,Shadow Force,Ghost,5,Physical,Melee,Strength,Brawl,Strength,Target,Foe,Charge,None,Lethal,None,None,None,None,None,None,None
+274,Shadow Punch,Ghost,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,NeverFail,None,FistBased,None,None,None,None,None,None,None
+275,Shadow Sneak,Ghost,2,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Priority,Value1,None,None,None,None,None,None,None,None
+276,Spectral Thief,Ghost,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,None,None,None,None,None,None,None,None,None,None
+277,Spirit Shackle,Ghost,3,Physical,Melee,Dexterity,Brawl,Strength,Target,Foe,Block,None,None,None,None,None,None,None,None,None
+278,Spite,Ghost,0,Support,Ranged,Will,Intimidate,None,Target,Foe,None,None,None,None,None,None,None,None,None,None
+279,Trick-or-Treat,Ghost,0,Support,Ranged,Will,Allure,None,Target,Foe,None,None,None,None,None,None,None,None,None,None
+280,Absorb,Grass,1,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+281,Apple Acid,Grass,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+282,Aromatherapy,Grass,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+283,Branch Poke,Grass,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+284,Bullet Seed,Grass,1,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+285,Cotton Guard,Grass,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+286,Cotton Spore,Grass,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+287,Drum Beating,Grass,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+288,Energy Ball,Grass,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+289,Forest’s Curse,Grass,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+290,Frenzy Plant,Grass,6,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+291,Giga Drain,Grass,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+292,Grass Knot,Grass,1,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+293,Grass Pledge,Grass,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+294,Grass Whistle,Grass,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+295,Grassy Terrain,Grass,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+296,Grav Apple,Grass,3,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+297,Horn Leech,Grass,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+298,Ingrain,Grass,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+299,Leaf Blade,Grass,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+300,Leaf Storm,Grass,6,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+301,Leaf Tornado,Grass,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+302,Leafage,Grass,2,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+303,Leech Seed,Grass,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+304,Magical Leaf,Grass,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+305,Mega Drain,Grass,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+306,Needle Arm,Grass,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+307,Petal Blizzard,Grass,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+308,Petal Dance,Grass,5,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+309,Power Whip,Grass,5,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+310,Razor Leaf,Grass,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+311,Sappy Seed,Grass,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+312,Seed Bomb,Grass,3,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+313,Seed Flare,Grass,5,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+314,Sleep Powder,Grass,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+315,Snap Trap,Grass,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+316,Solar Beam,Grass,5,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+317,Solar Blade,Grass,5,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+318,Spiky Shield,Grass,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+319,Spore,Grass,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+320,Strength Sap,Grass,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+321,Stun Spore,Grass,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+322,Synthesis,Grass,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+323,Trop Kick,Grass,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+324,Vine Whip,Grass,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+325,Wood Hammer,Grass,5,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+326,Worry Seed,Grass,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+327,Bone Club,Ground,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+328,Bone Rush,Ground,1,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+329,Bonemerang,Ground,2,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+330,Bulldoze,Ground,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+331,Dig,Ground,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+332,Drill Run,Ground,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+333,Earth Power,Ground,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+334,Earthquake,Ground,4,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+335,Fissure,Ground,0,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+336,High Horsepower,Ground,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+337,Land’s Wrath,Ground,3,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+338,Magnitude,Ground,0,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+339,Mud Bomb,Ground,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+340,Mud Shot,Ground,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+341,Mud Slap,Ground,1,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+342,Mud Sport,Ground,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+343,Precipice Blades,Ground,5,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+344,Rototiller,Ground,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+345,Sand Attack,Ground,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+346,Sand Tomb,Ground,2,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+347,Shore Up,Ground,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+348,Spikes,Ground,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+349,Stomping Tantrum,Ground,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+350,Thousand Arrows,Ground,3,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+351,Thousand Waves,Ground,3,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+352,Aurora Beam,Ice,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+353,Aurora Veil,Ice,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+354,Avalanche,Ice,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+355,Blizzard,Ice,5,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+356,Freeze Dry,Ice,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+357,Freeze Shock,Ice,6,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+358,Freezy Frost,Ice,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+359,Frost Breath,Ice,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+360,Glaciate,Ice,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+361,Hail,Ice,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+362,Haze,Ice,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+363,Ice Ball,Ice,1,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+364,Ice Beam,Ice,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+365,Ice Burn,Ice,6,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+366,Ice Fang,Ice,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+367,Ice Hammer,Ice,4,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+368,Ice Punch,Ice,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+369,Ice Shard,Ice,2,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+370,Icicle Crash,Ice,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+371,Icicle Spear,Ice,1,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+372,Icy Wind,Ice,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+373,Mist,Ice,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+374,Powder Snow,Ice,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+375,Sheer Cold,Ice,0,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+376,Accupressure,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+377,After You,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+378,Assist,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+379,Attract,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+380,Barrage,Normal,1,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+381,Baton Pass,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+382,Belly Drum,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+383,Bestow,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+384,Bide,Normal,0,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+385,Bind,Normal,1,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+386,Block,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+387,Body Slam,Normal,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+388,Boomburst,Normal,6,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+389,Camouflage,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+390,Captivate,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+391,Chip Away,Normal,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+392,Comet Punch,Normal,1,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+393,Confide,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+394,Constrict,Normal,1,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+395,Conversion,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+396,Conversion 2,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+397,Copycat,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+398,Court Change,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+399,Covet,Normal,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+400,Crush Claw,Normal,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+401,Crush Grip,Normal,1,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+402,Cut,Normal,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+403,Defense Curl,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+404,Disable,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+405,Dizzy Punch,Normal,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+406,Double Hit,Normal,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+407,Double Slap,Normal,1,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+408,Double Team,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+409,Double-Edge,Normal,5,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+410,Echoed Voice,Normal,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+411,Egg Bomb,Normal,4,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+412,Encore,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+413,Endeavor,Normal,0,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+414,Endure,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+415,Entrainment,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+416,Explosion,Normal,10,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+417,Extreme Speed,Normal,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+418,Facade,Normal,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+419,Fake Out,Normal,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+420,False Swipe,Normal,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+421,Feint,Normal,1,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+422,Flail,Normal,1,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+423,Flash,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+424,Focus Energy,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+425,Follow Me,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+426,Foresight,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+427,Frustration,Normal,0,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+428,Fury Attack,Normal,1,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+429,Fury Swipes,Normal,1,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+430,Giga Impact,Normal,6,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+431,Glare,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+432,Growl,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+433,Growth,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+434,Guillotine,Normal,0,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+435,Harden,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+436,Head Charge,Normal,5,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+437,Headbutt,Normal,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+438,Heal Bell,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+439,Helping Hand,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+440,Hidden Power,Normal,0,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+441,Horn Attack,Normal,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+442,Horn Drill,Normal,0,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+443,Howl,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+444,Hyper Beam,Normal,6,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+445,Hyper Fang,Normal,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+446,Hyper Voice,Normal,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+447,Judgment,Normal,0,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+448,Laser Focus,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+449,Last Resort,Normal,6,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+450,Leer,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+451,Lock-On,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+452,Lovely Kiss,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+453,Lucky Chant,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+454,Me First,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+455,Mean Look,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+456,Mega Kick,Normal,5,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+457,Mega Punch,Normal,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+458,Metronome,Normal,0,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+459,Milk Drink,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+460,Mimic,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+461,Mind Reader,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+462,Minimize,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+463,Morning Sun,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+464,Multi-Attack,Normal,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+465,Natural Gift,Normal,3,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+466,Nature Power,Normal,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+467,Noble Roar,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+468,Odor Sleuth,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+469,Pain Split,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+470,Pay Day,Normal,2,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+471,Perish Song,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+472,Play Nice,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+473,Pound,Normal,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+474,Present,Normal,0,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+475,Protect,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+476,Psych Up,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+477,Quick Attack,Normal,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+478,Rage,Normal,1,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+479,Rapid Spin,Normal,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+480,Razor Wind,Normal,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+481,Recover,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+482,Recycle,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+483,Reflect Type,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+484,Refresh,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+485,Relic Song,Normal,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+486,Retaliate,Normal,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+487,Return,Normal,0,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+488,Revelation Dance,Normal,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+489,Roar,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+490,Rock Climb,Normal,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+491,Round,Normal,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+492,Safeguard,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+493,Scary Face,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+494,Scratch,Normal,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+495,Screech,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+496,Secret Power,Normal,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+497,Self Destruct,Normal,8,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+498,Sharpen,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+499,Shell Smash,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+500,Simple Beam,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+501,Sing,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+502,Sketch,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+503,Skull Bash,Normal,5,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+504,Slack Off,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+505,Slam,Normal,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+506,Slash,Normal,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+507,Sleep Talk,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+508,Smelling Salts,Normal,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+509,Smokescreen,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+510,Snore,Normal,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+511,Soft Boiled,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+512,Sonic Boom,Normal,0,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+513,Spike Cannon,Normal,1,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+514,Spit Up,Normal,4,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+515,Splash,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+516,Spotlight,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+517,Stockpile,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+518,Stomp,Normal,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+519,Strength,Normal,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+520,Stuff Cheeks,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+521,Substitute,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+522,Super Fang,Normal,0,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+523,Supersonic,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+524,Swagger,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+525,Swallow,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+526,Sweet Scent,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+527,Swift,Normal,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+528,Swords Dance,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+529,Tackle,Normal,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+530,Tail Slap,Normal,1,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+531,Tail Whip,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+532,Take Down,Normal,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+533,Tearful Look,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+534,Teatime,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+535,Techno Blast,Normal,5,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+536,Teeter Dance,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+537,Thrash,Normal,5,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+538,Tickle,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+539,Transform,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+540,Tri Attack,Normal,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+541,Trump Card,Normal,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+542,Uproar,Normal,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+543,Veevee Volley,Normal,0,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+544,Vice Grip,Normal,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+545,Weather Ball,Normal,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+546,Whirlwind,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+547,Wish,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+548,Work Up,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+549,Wrap,Normal,1,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+550,Wring Out,Normal,5,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+551,Yawn,Normal,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+552,Acid,Poison,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+553,Acid Armor,Poison,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+554,Acid Spray,Poison,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+555,Baneful Bunker,Poison,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+556,Belch,Poison,5,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+557,Clear Smog,Poison,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+558,Coil,Poison,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+559,Cross Poison,Poison,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+560,Gastro Acid,Poison,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+561,Gunk Shot,Poison,5,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+562,Poison Fang,Poison,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+563,Poison Gas,Poison,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+564,Poison Jab,Poison,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+565,Poison Powder,Poison,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+566,Poison Sting,Poison,1,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+567,Poison Tail,Poison,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+568,Purify,Poison,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+569,Sludge,Poison,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+570,Sludge Bomb,Poison,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+571,Sludge Wave,Poison,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+572,Smog,Poison,1,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+573,Toxic,Poison,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+574,Toxic Spikes,Poison,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+575,Toxic Thread,Poison,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+576,Venom Drench,Poison,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+577,Venoshock,Poison,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+578,Agility,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+579,Ally Switch,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+580,Amnesia,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+581,Barrier,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+582,Calm Mind,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+583,Confusion,Psychic,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+584,Cosmic Power,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+585,Dream Eater,Psychic,4,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+586,Extrasensory,Psychic,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+587,Future Sight,Psychic,5,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+588,Glitzy Glow,Psychic,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+589,Gravity,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+590,Guard Split,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+591,Guard Swap,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+592,Heal Block,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+593,Heal Pulse,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+594,Healing Wish,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+595,Heart Stamp,Psychic,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+596,Heart Swap,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+597,Hyperspace Hole,Psychic,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+598,Hypnosis,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+599,Imprison,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+600,Instruct,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+601,Kinesis,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+602,Light Screen,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+603,Lunar Dance,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+604,Luster Purge,Psychic,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+605,Magic Coat,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+606,Magic Powder,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+607,Magic Room,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+608,Meditate,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+609,Miracle Eye,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+610,Mirror Coat,Psychic,0,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+611,Mist Ball,Psychic,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+612,Photon Geyser,Psychic,4,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+613,Power Split,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+614,Power Swap,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+615,Power Trick,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+616,Prismatic Laser,Psychic,6,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+617,Psybeam,Psychic,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+618,Psychic,Psychic,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+619,Psychic Fangs,Psychic,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+620,Psychic Terrain,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+621,Psycho Boost,Psychic,6,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+622,Psycho Cut,Psychic,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+623,Psycho Shift,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+624,Psyshock,Psychic,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+625,Psystrike,Psychic,4,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+626,Psywave,Psychic,0,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+627,Reflect,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+628,Rest,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+629,Role Play,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+630,Skill Swap,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+631,Speed Swap,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+632,Stored Power,Psychic,1,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+633,Synchronoise,Psychic,5,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+634,Telekinesis,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+635,Teleport,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+636,Trick,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+637,Trick Room,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+638,Wonder Room,Psychic,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+639,Zen Headbutt,Psychic,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+640,Accelerock,Rock,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+641,Ancient Power,Rock,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+642,Diamond Storm,Rock,4,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+643,Head Smash,Rock,6,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+644,Power Gem,Rock,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+645,Rock Blast,Rock,1,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+646,Rock Polish,Rock,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+647,Rock Slide,Rock,3,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+648,Rock Throw,Rock,2,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+649,Rock Tomb,Rock,2,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+650,Rock Wrecker,Rock,6,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+651,Rollout,Rock,1,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+652,Sandstorm,Rock,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+653,Smack Down,Rock,2,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+654,Stealth Rock,Rock,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+655,Stone Edge,Rock,4,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+656,Tar Shot,Rock,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+657,Wide Guard,Rock,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+658,Anchor Shot,Steel,3,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+659,Autotomize,Steel,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+660,Behemot Bash,Steel,4,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+661,Behemot Blade,Steel,4,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+662,Bullet Punch,Steel,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+663,Doom Desire,Steel,6,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+664,Double Iron Bash,Steel,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+665,Flash Cannon,Steel,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+666,Gear Grind,Steel,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+667,Gear Up,Steel,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+668,Gyro Ball,Steel,1,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+669,Heavy Slam,Steel,1,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+670,Iron Defense,Steel,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+671,Iron Head,Steel,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+672,Iron Tail,Steel,4,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+673,King’s Shield,Steel,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+674,Magnet Bomb,Steel,2,Physical,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+675,Metal Burst,Steel,0,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+676,Metal Claw,Steel,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+677,Metal Sound,Steel,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+678,Meteor Mash,Steel,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+679,Mirror Shot,Steel,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+680,Shift Gear,Steel,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+681,Smart Strike,Steel,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+682,Steel Beam,Steel,6,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+683,Steel Wing,Steel,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+684,Sunsteel Strike,Steel,4,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+685,Aqua Jet,Water,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+686,Aqua Ring,Water,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+687,Aqua Tail,Water,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+688,Bouncy Bubble,Water,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+689,Brine,Water,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+690,Bubble,Water,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+691,Bubble Beam,Water,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+692,Clamp,Water,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+693,Crabhammer,Water,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+694,Dive,Water,2,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+695,Fishious Rend,Water,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+696,Hydro Cannon,Water,6,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+697,Hydro Pump,Water,5,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+698,Life Dew,Water,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+699,Liquidation,Water,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+700,Muddy Water,Water,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+701,Octazooka,Water,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+702,Origin Pulse,Water,4,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+703,Rain Dance,Water,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+704,Razor Shell,Water,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+705,Scald,Water,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+706,Snipe Shot,Water,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+707,Soak,Water,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+708,Sparkling Aria,Water,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+709,Splishy Splash,Water,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+710,Steam Eruption,Water,4,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+711,Surf,Water,3,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+712,Water Gun,Water,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+713,Water Pledge,Water,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+714,Water Pulse,Water,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+715,Water Shuriken,Water,1,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+716,Water Sport,Water,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+717,Water Spout,Water,6,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+718,Waterfall,Water,3,Physical,Melee,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+719,Whirlpool,Water,2,Special,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None
+720,Withdraw,Water,0,Support,Ranged,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None

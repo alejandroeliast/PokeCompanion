@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Jumpluff
+  m_EditorClassIdentifier: 
+  pkID: 207
+  pkNumber: 189
+  pkName: Jumpluff
+  pkSpecies: Cottonweed
+  pkType1: 11
+  pkType2: 2
+  pkHeight: 0.8
+  pkWeight: 3
+  pkAbility1: Chlorophyll
+  pkAbility2: Leaf Guard
+  pkEvoStage: Final
+  pkEvoQty: 3
+  pkEvoName1: Hoppip
+  pkEvoName2: Skiploom
+  pkEvoName3: Jumpluff
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 4
+  pkMaxDexterity: 8
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 2
+  pkMaxSpecial: 4
+  pkMinInsight: 3
+  pkMaxInsight: 7
+  pkBaseHP: 5
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Jumpluff
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: e69f87824d0164e448abd0a3a9aa3ed4, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 9b6dd3a8aeebf2e4bab9e71ddb0cf068, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: d637a18ecf6045144a0877b1d4d8c3dc, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 9465b86d7a5992b41aad0f4e71705a1b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 03376c7e74b07354698049ba5931768a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b42e9aa93cf641547acd48f719217be0, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 1539b32332c77554e8495455dad9fb6a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0b188c8a40d412b46bb6ec657b42610b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 3bfcd484e8bb01242bb5304597246b59, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 4393dbb7825531a4ca4348f00b2c7ba6, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 8b2ed46fe193a6d40aa5ae7719d80b8f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: c5e2372fa332c604ca7999afe84b876a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: aab15acfffbcbca40b449d1870df30bd, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: fc0e06603f9c0e246a731d995c3861fb, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 94fcd3a36e60ae14eaa83479c886fbbe, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 0f4848adab446884aa439e098b920736, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 9721d3641ebfeeb41803d3b44a428fca, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 7e7fd712d5bb89041bf427736a8a6efe, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: b3b2728842b82e54bab6bbbeffd235ee, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: ace2f41621733394e9aa47e5feac433b, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 07ee6958ba9870741a0f482f2e394545, type: 2}
+    moveRank: 4

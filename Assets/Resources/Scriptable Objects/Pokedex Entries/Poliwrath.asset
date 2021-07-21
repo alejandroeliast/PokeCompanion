@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Poliwrath
+  m_EditorClassIdentifier: 
+  pkID: 73
+  pkNumber: 62
+  pkName: Poliwrath
+  pkSpecies: Tadpole
+  pkType1: 10
+  pkType2: 1
+  pkHeight: 1.3
+  pkWeight: 54
+  pkAbility1: Water Absorb
+  pkAbility2: Damp
+  pkEvoStage: Final
+  pkEvoQty: 3
+  pkEvoName1: Poliwag
+  pkEvoName2: Poliwhirl
+  pkEvoName3: Poliwrath
+  pkEvoMethod: 8
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 3
+  pkMaxVitality: 6
+  pkMinSpecial: 2
+  pkMaxSpecial: 5
+  pkMinInsight: 3
+  pkMaxInsight: 6
+  pkBaseHP: 6
+  pkRank: 3
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Poliwrath
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 556e01a2caae2c24a9af5c42f20e787e, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 3d6cce0b34ecef245b3dddaa15f363be, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 82816cc0d1ab3a14db97ee8245de428d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e5c0c24fd84637845934917b8603e119, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: f910bef4d56dbe9428b9d986c3d50602, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ec13a98f93513e94f861063175ea2432, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 6644d9df912c6e244b580f7a53038e04, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 1eef5eb889f1c45479e669438ab30a21, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 413040ad798408d4baa96d11b61b4449, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: e141e6efd8dd5ee4ba011be0625efb1a, type: 2}
+    moveRank: 4

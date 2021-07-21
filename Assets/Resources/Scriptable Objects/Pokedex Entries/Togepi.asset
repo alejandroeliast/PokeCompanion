@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Togepi
+  m_EditorClassIdentifier: 
+  pkID: 193
+  pkNumber: 175
+  pkName: Togepi
+  pkSpecies: Spike Ball
+  pkType1: 17
+  pkType2: 18
+  pkHeight: 0.3
+  pkWeight: 1.5
+  pkAbility1: Hustle
+  pkAbility2: Serene Grace
+  pkEvoStage: First
+  pkEvoQty: 3
+  pkEvoName1: Togepi
+  pkEvoName2: Togetic
+  pkEvoName3: Togekiss
+  pkEvoMethod: 15
+  pkMinStrength: 1
+  pkMaxStrength: 2
+  pkMinDexterity: 1
+  pkMaxDexterity: 2
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 3
+  pkRank: 0
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Togepi
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 6a85edb63ba95fa42bd2d825c9755aa8, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 51a57a5f158b76b47b360697729bf929, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 7f10f96723cac3d449f14f0f9a62f3e2, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 70b14320f9dd7654c84d1341fa5a22d8, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 3c36c763e90ef8844a15435683ebf87d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: af8b1b2435c794b44ad546bc1b761574, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 930e1eeb129bdff48a61a8d31712466b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: bcb4d237db689b14aa85489e51f4b0a6, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 8b7a85bc17480d6428ad056c753d5de8, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0bc1cb0c6a735604f8af2cfa6d975259, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 41eb9ed7b8333f34b8ffb40ed654e21a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a5377609f80a3334bb17a642f70e3ff2, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 48bdb4d194f7e04449bbb416e69487dd, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 9265be4186d791b499e1acf51082cd17, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 3b0c050fcdd592845949ab472643698a, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 6f16de714754fb04193beb6794e1e216, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 1f6ad188b11a75a4982f3519210c4d30, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: a63ee1ca9e0a2384081ac517ccf91f72, type: 2}
+    moveRank: 4

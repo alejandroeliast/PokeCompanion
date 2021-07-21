@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Onix
+  m_EditorClassIdentifier: 
+  pkID: 111
+  pkNumber: 95
+  pkName: Onix
+  pkSpecies: Rock Snake
+  pkType1: 5
+  pkType2: 4
+  pkHeight: 8.8
+  pkWeight: 210
+  pkAbility1: Rock Head
+  pkAbility2: Sturdy
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Onix
+  pkEvoName2: Steelix
+  pkEvoName3: None
+  pkEvoMethod: 13
+  pkMinStrength: 1
+  pkMaxStrength: 3
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 5
+  pkMaxVitality: 10
+  pkMinSpecial: 1
+  pkMaxSpecial: 2
+  pkMinInsight: 1
+  pkMaxInsight: 3
+  pkBaseHP: 3
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Onix
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 84269899583a55848916403959f53cb7, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: a10122757e3696949b8eb954cd6c6aef, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 5aac1ec6f9d3c1644b28d298c86ed976, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 062a6d7a9f6c5e342abcfc40f9ef61b8, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 656f62c82951b2a46beb27e3c08bf34b, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: ef19675d5bb0edd48be02b76aff4bda5, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d83bed34af1a9014da6277cd8b046256, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 8faf3c25b9b36dd4f82cf229eee53c35, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 9eaec39ce1114c4408e98adfd7c364e0, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: cb25aa1d81629564eb8add717be753e7, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: f5455353adeee404aa5b9d85c33311ea, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a280b9fc1e0566541b137c3311f67ffc, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 7460e2f2d06b7cc4997f80de844a385a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 80aa3f7939bd3ed43bf835539585f356, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d67a402d4cb0c6343a1a03c01f978675, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 4705914059c1f8248a1fb7ae10e689ec, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 32bc1a57751f012458a7e55e59a50642, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 8397ea42c11b50f47b27b5b31d909247, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 48bdb4d194f7e04449bbb416e69487dd, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 4465911a5f7577a44a9d281acac3d825, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 0bc1cb0c6a735604f8af2cfa6d975259, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 4a65ae7e1be98d6498d86dc4e2187553, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: af12b969ca81b9d4387bbbffbac59690, type: 2}
+    moveRank: 4

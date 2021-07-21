@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Jigglypuff
+  m_EditorClassIdentifier: 
+  pkID: 46
+  pkNumber: 39
+  pkName: Jigglypuff
+  pkSpecies: Balloon
+  pkType1: 0
+  pkType2: 17
+  pkHeight: 0.5
+  pkWeight: 5.5
+  pkAbility1: Cute Charm
+  pkAbility2: Competitive
+  pkEvoStage: First
+  pkEvoQty: 3
+  pkEvoName1: Igglybuff
+  pkEvoName2: Jigglypuff
+  pkEvoName3: Wigglytuff
+  pkEvoMethod: 4
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 1
+  pkMaxDexterity: 2
+  pkMinVitality: 1
+  pkMaxVitality: 2
+  pkMinSpecial: 2
+  pkMaxSpecial: 4
+  pkMinInsight: 1
+  pkMaxInsight: 2
+  pkBaseHP: 10
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Jigglypuff
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: a9ffea4fd89c1b442be812ef73afc6e8, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: a623d679affd08c46b16a82d2f9bd23e, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 591891e3c095ab14498a863e1ba53fce, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 3dfec7a5d2fd8534fb9d3ae6a2f13966, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 4b842aff48aa9fe4981a3de4a020ad82, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 834277cc18bbd684ca02ce3d4092ae73, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a086dccb2d7e07f47ad0eb3f8ea9649b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e5c0c24fd84637845934917b8603e119, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d6caf5cca45073441aa59e8c12b21c49, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: cccab00df37e2c045936cea154c88c03, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: dcd1003db704e4745a16322816247634, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 2259fe738708df749b27d453847c6376, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 9685227198b57c0468c72689c5ec3a89, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: db4f318a50393c545b6bb947df168cd7, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: a720701353ae31148bccbb2d6d06f77b, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 6ea62291b868ef84aa1eda2ee83d5b42, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 024fd576ef2e17f4cb5da3d366b7e684, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: b899eeaf7e8b0f643b283e12818008cc, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 48bdb4d194f7e04449bbb416e69487dd, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 44556dc182000ed47abd01f28c8050fd, type: 2}
+    moveRank: 4

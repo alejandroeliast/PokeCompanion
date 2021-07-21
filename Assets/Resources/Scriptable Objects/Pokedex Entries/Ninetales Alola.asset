@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Ninetales Alola
+  m_EditorClassIdentifier: 
+  pkID: 45
+  pkNumber: 38
+  pkName: Ninetales Alola
+  pkSpecies: Fox
+  pkType1: 14
+  pkType2: 18
+  pkHeight: 1.1
+  pkWeight: 20
+  pkAbility1: Snow Cloak
+  pkAbility2: Snow Warning
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Vulpix Alola
+  pkEvoName2: Ninetales Alola
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 5
+  pkMinDexterity: 3
+  pkMaxDexterity: 7
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 2
+  pkMaxSpecial: 5
+  pkMinInsight: 3
+  pkMaxInsight: 7
+  pkBaseHP: 5
+  pkRank: 2
+  pkOrigin: Alolan
+  pkVariantAmount: 2
+  pkVariantNames:
+  - Ninetales
+  - Ninetales Alola
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 81da9ee9b7e86894991497cc79d9de03, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 3872264ca83cf9b48b001ca925d8a060, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 1f6ad188b11a75a4982f3519210c4d30, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 2688213d04130c54aa7781b7c0bf61a4, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b1ba6288b1e20b741b355b4b598ff6e3, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b1557acea6195eb4083897ebde916172, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 41eb9ed7b8333f34b8ffb40ed654e21a, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 9edbe364f64966143a79bfcc345822af, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 065766f167c504c40ae83c779d3071ba, type: 2}
+    moveRank: 4

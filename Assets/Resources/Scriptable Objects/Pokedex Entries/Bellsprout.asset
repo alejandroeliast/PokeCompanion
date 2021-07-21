@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Bellsprout
+  m_EditorClassIdentifier: 
+  pkID: 80
+  pkNumber: 69
+  pkName: Bellsprout
+  pkSpecies: Flower
+  pkType1: 11
+  pkType2: 3
+  pkHeight: 0.7
+  pkWeight: 4
+  pkAbility1: Chlorophyll
+  pkAbility2: '-'
+  pkEvoStage: First
+  pkEvoQty: 3
+  pkEvoName1: Bellsprout
+  pkEvoName2: Weepinbell
+  pkEvoName3: Victreebel
+  pkEvoMethod: 1
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 1
+  pkMaxDexterity: 3
+  pkMinVitality: 1
+  pkMaxVitality: 3
+  pkMinSpecial: 2
+  pkMaxSpecial: 5
+  pkMinInsight: 1
+  pkMaxInsight: 2
+  pkBaseHP: 4
+  pkRank: 0
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Bellsprout
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 705dba6e7f01be44c86e632821c38b2e, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 29464b8859174df4cb979e37bdd8329f, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 7cce6a1db301fc045885c130a6954781, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 1539b32332c77554e8495455dad9fb6a, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 03376c7e74b07354698049ba5931768a, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: b42e9aa93cf641547acd48f719217be0, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 186eb618288254c4b973cbec482d43f3, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e210c010bb5d3c944b5c6dbaf31ee2d5, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 90e7540be4428bc458152d9b761bf469, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: f079f39b5e4cb4b4f9a33944fded4136, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 02691526886452345b9bde9ec554a7d4, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a280b9fc1e0566541b137c3311f67ffc, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 980db6b5f7d8d104a8304c462bdaf936, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: fac41e1b4f8e90442ba9edfd7e18bd03, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 18517b848e606c34182f81758b3290f2, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 763f32aa935039e4f922c6bbbd887adb, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 01e6e2c4c2601c649b824ff736ad86b6, type: 2}
+    moveRank: 4

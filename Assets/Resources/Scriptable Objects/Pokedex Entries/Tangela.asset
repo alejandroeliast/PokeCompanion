@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Tangela
+  m_EditorClassIdentifier: 
+  pkID: 132
+  pkNumber: 114
+  pkName: Tangela
+  pkSpecies: Vine
+  pkType1: 11
+  pkType2: 18
+  pkHeight: 1
+  pkWeight: 35
+  pkAbility1: Chlorophyll
+  pkAbility2: Leaf Guard
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Tangela
+  pkEvoName2: Tangrowth
+  pkEvoName3: None
+  pkEvoMethod: 2
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 2
+  pkMaxDexterity: 4
+  pkMinVitality: 4
+  pkMaxVitality: 8
+  pkMinSpecial: 3
+  pkMaxSpecial: 7
+  pkMinInsight: 1
+  pkMaxInsight: 3
+  pkBaseHP: 5
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Tangela
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 985f81211a3b4a145976bfadc08fb78a, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 18517b848e606c34182f81758b3290f2, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 1539b32332c77554e8495455dad9fb6a, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 705dba6e7f01be44c86e632821c38b2e, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 491bea9eb3960f94e838c0c4f475671c, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 03376c7e74b07354698049ba5931768a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 5aac1ec6f9d3c1644b28d298c86ed976, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 29464b8859174df4cb979e37bdd8329f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 4393dbb7825531a4ca4348f00b2c7ba6, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e210c010bb5d3c944b5c6dbaf31ee2d5, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b42e9aa93cf641547acd48f719217be0, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: eb133de4495530247944f80028a6c1d5, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a280b9fc1e0566541b137c3311f67ffc, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0bc1cb0c6a735604f8af2cfa6d975259, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0f4848adab446884aa439e098b920736, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 763f32aa935039e4f922c6bbbd887adb, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: fac41e1b4f8e90442ba9edfd7e18bd03, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: ace2f41621733394e9aa47e5feac433b, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 9524e11af663cd24a872464ebb8060db, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: dc0b468041649724b9bcd0007a04027e, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: cd21557d34f92f445a44c123257b0009, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 8820458deb059f34b91a25e458eb1bf9, type: 2}
+    moveRank: 4

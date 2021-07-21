@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Vulpix Alola
+  m_EditorClassIdentifier: 
+  pkID: 43
+  pkNumber: 37
+  pkName: Vulpix Alola
+  pkSpecies: Fox
+  pkType1: 14
+  pkType2: 18
+  pkHeight: 0.6
+  pkWeight: 10
+  pkAbility1: Snow Cloak
+  pkAbility2: Snow Warning
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Vulpix Alola
+  pkEvoName2: Ninetales Alola
+  pkEvoName3: None
+  pkEvoMethod: 9
+  pkMinStrength: 1
+  pkMaxStrength: 3
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 1
+  pkMaxVitality: 3
+  pkMinSpecial: 2
+  pkMaxSpecial: 4
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 3
+  pkRank: 1
+  pkOrigin: Alolan
+  pkVariantAmount: 2
+  pkVariantNames:
+  - Vulpix
+  - Vulpix Alola
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 06f6f5ed8aef3274180d9dfcfe0097dd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: d637a18ecf6045144a0877b1d4d8c3dc, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3bbb183c43d79ec409b5db525494df64, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 917f1549983cc054f9bc60a5f504fafc, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: b1ba6288b1e20b741b355b4b598ff6e3, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: b1557acea6195eb4083897ebde916172, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 73685a6d6fe9c6a45b785bda3db35444, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ee27206e37f50c14095a362f43473c69, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: fdb17e29d73f20344bc1d82520fad42f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 76039cfdcba18084f979b66575a1e3c3, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 3872264ca83cf9b48b001ca925d8a060, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 70560ce0e9cfab64ebd8c316c764fdf9, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a63ee1ca9e0a2384081ac517ccf91f72, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 2688213d04130c54aa7781b7c0bf61a4, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 41eb9ed7b8333f34b8ffb40ed654e21a, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 49e83567a686da14eb55c628d072952d, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: a3cb206c5a149024bacc1d82f7205bc9, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: d301af88ff5f1cf4dba2af0671cbd55c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: b7b5d2f22f78fc042910bdbbc6784ecc, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 9edbe364f64966143a79bfcc345822af, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 4433ddfdcfa5bce4ba6f64d4a5fb1393, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: cb4f59de7cfb1604b91a2fe769e1cdff, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 6cd42546a79cf3144b08f50574cb224b, type: 2}
+    moveRank: 2

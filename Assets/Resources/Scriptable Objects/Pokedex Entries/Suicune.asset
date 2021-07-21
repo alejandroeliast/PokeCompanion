@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Suicune
+  m_EditorClassIdentifier: 
+  pkID: 263
+  pkNumber: 245
+  pkName: Suicune
+  pkSpecies: Aurora
+  pkType1: 10
+  pkType2: 18
+  pkHeight: 2
+  pkWeight: 187
+  pkAbility1: Pressure
+  pkAbility2: Inner Focus
+  pkEvoStage: Unknown
+  pkEvoQty: 1
+  pkEvoName1: Suicune
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 5
+  pkMinDexterity: 3
+  pkMaxDexterity: 6
+  pkMinVitality: 4
+  pkMaxVitality: 8
+  pkMinSpecial: 3
+  pkMaxSpecial: 6
+  pkMinInsight: 4
+  pkMaxInsight: 8
+  pkBaseHP: 7
+  pkRank: 5
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Suicune
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 20dc567a6affb014b8337354aca0efdc, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 33da7a454607ec84a915fb5e6d7e1cd9, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 82816cc0d1ab3a14db97ee8245de428d, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 0272d8b4b90630a499f2a3f7f69c1bb7, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 47e5ce46eab53b94887272800b8d7b32, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 70560ce0e9cfab64ebd8c316c764fdf9, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: fdb17e29d73f20344bc1d82520fad42f, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 85c883beb2672f8418e8a0f3f82d5764, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: de4a75d0d2a8d9f4ab676dbe9600292f, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 0667e8b6220320b448f27578722312da, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: a63ee1ca9e0a2384081ac517ccf91f72, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 2878940fbe10ad34292665e873e2b868, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: fb8e7c4a96bf5374b8b937c9a3900dda, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: d301af88ff5f1cf4dba2af0671cbd55c, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: e7e320988fe65b5478dccd115eb61032, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 8820458deb059f34b91a25e458eb1bf9, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 8acb48fa1f38d9449ab2242bdb74601d, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: b8849468f2066d04abdde962659ac9b1, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: b899eeaf7e8b0f643b283e12818008cc, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 062a6d7a9f6c5e342abcfc40f9ef61b8, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: b7b5d2f22f78fc042910bdbbc6784ecc, type: 2}
+    moveRank: 5

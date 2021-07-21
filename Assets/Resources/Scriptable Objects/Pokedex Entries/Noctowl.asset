@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Noctowl
+  m_EditorClassIdentifier: 
+  pkID: 182
+  pkNumber: 164
+  pkName: Noctowl
+  pkSpecies: Owl
+  pkType1: 0
+  pkType2: 2
+  pkHeight: 1.6
+  pkWeight: 40.8
+  pkAbility1: Insomnia
+  pkAbility2: Keen Eye
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Hoothoot
+  pkEvoName2: Noctowl
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 2
+  pkMaxVitality: 4
+  pkMinSpecial: 3
+  pkMaxSpecial: 6
+  pkMinInsight: 3
+  pkMaxInsight: 7
+  pkBaseHP: 7
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Noctowl
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 6a85edb63ba95fa42bd2d825c9755aa8, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 2cafb772a4d284a47ac4a727f4287e0b, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: fbc3af7ec8d9c8a44a20e7670bf0df9f, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 3d6cce0b34ecef245b3dddaa15f363be, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 60a7ee061a7a5aa4a9a014837aa26ac7, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a20691759f5176544b4155d44e5edfd8, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 82f76788651e3404f9b13035a3508ac9, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: cd21557d34f92f445a44c123257b0009, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 09cfdd07785a5cd4ab88aa9cade722ca, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6d35ef55d7f41614b9df91e981f03649, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d56ae5509e06df842834196c58f42119, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 30fe3456bf3fe094a89406d82f3adefa, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 9edbe364f64966143a79bfcc345822af, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 2f9de14db1ece2141b863ced3a817bda, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: a63ee1ca9e0a2384081ac517ccf91f72, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 43a4e2e737e7081479e1fdabf113f8be, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 227f069f7ae201a46bf4356f2a161110, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 6d7c0fafb8afcfd40b4346a2fd2c2783, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 5741bfc90435c3d4d906e470a942bb71, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 76039cfdcba18084f979b66575a1e3c3, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 4

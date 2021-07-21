@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Golduck
+  m_EditorClassIdentifier: 
+  pkID: 66
+  pkNumber: 55
+  pkName: Golduck
+  pkSpecies: Duck
+  pkType1: 10
+  pkType2: 18
+  pkHeight: 1.7
+  pkWeight: 76.6
+  pkAbility1: Damp
+  pkAbility2: Cloud Nine
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Psyduck
+  pkEvoName2: Golduck
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 5
+  pkMinDexterity: 3
+  pkMaxDexterity: 6
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 3
+  pkMaxSpecial: 6
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 5
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Golduck
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: fc3af2d8ff495a64aa6303f1ed33e6d9, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 20ea0ac91148d334bb7220bd466dfe0f, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: d637a18ecf6045144a0877b1d4d8c3dc, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: c54b1d3699417e949b44d642065e3133, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 834277cc18bbd684ca02ce3d4092ae73, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: cd21557d34f92f445a44c123257b0009, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: dc0b468041649724b9bcd0007a04027e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0580131751a08c84bb5a8aa02ff4fd57, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d5b1eca039b41ea4c958e3a07f66e508, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b0c076efb992b3e419e17e8c0759cd3c, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 7460e2f2d06b7cc4997f80de844a385a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e52638bdc8e57744286839fc82a7f719, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 30fe3456bf3fe094a89406d82f3adefa, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 435aabe344b10ca438e4249d764fd064, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 395153e1b0446b740b5874b2b18a981e, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 2878940fbe10ad34292665e873e2b868, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: cad01a87ffeac374bacb397a059271ea, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: db29782718449694b93265ef781934a1, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: b1557acea6195eb4083897ebde916172, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: cffe314c3af2a9544a7e2eeb15a6095c, type: 2}
+    moveRank: 4

@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Smoochum
+  m_EditorClassIdentifier: 
+  pkID: 256
+  pkNumber: 238
+  pkName: Smoochum
+  pkSpecies: Kiss
+  pkType1: 14
+  pkType2: 13
+  pkHeight: 0.4
+  pkWeight: 6
+  pkAbility1: Forewarn
+  pkAbility2: Oblivious
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Smoochum
+  pkEvoName2: Jynx
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 1
+  pkMaxStrength: 2
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 1
+  pkMaxVitality: 2
+  pkMinSpecial: 3
+  pkMaxSpecial: 7
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 3
+  pkRank: 0
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Smoochum
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: a623d679affd08c46b16a82d2f9bd23e, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 415a05bab71fdd94d94dbdcc37038b06, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 70b14320f9dd7654c84d1341fa5a22d8, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 06f6f5ed8aef3274180d9dfcfe0097dd, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: cd21557d34f92f445a44c123257b0009, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a9ffea4fd89c1b442be812ef73afc6e8, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 93196dd9d89334145a53cb53ad4e494f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: aeae733992b14c040b6e6214a49d9957, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 895593bc103b21e48835a95fb691263f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6f16de714754fb04193beb6794e1e216, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 51d5f5309d46caf46b3c96f873955d66, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 64d1aa77f9a5e5847884fe3583aa1de5, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 1f69974be8f5c2741b98b89ed3bdb676, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 100c35a8e6481024ea0240ecc687028d, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: d301af88ff5f1cf4dba2af0671cbd55c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 47fc7ea0cdb903246a1b4585e0bf906c, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 680de47a7aec6454c8110b6a35e96f95, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 9e73be0078beb6440a61ad11a84d7384, type: 2}
+    moveRank: 4

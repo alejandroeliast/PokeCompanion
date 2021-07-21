@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Piloswine
+  m_EditorClassIdentifier: 
+  pkID: 239
+  pkNumber: 221
+  pkName: Piloswine
+  pkSpecies: Swine
+  pkType1: 14
+  pkType2: 4
+  pkHeight: 1.1
+  pkWeight: 55.8
+  pkAbility1: Oblivious
+  pkAbility2: Snow Cloak
+  pkEvoStage: Second
+  pkEvoQty: 3
+  pkEvoName1: Swinub
+  pkEvoName2: Piloswine
+  pkEvoName3: Mamoswine
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 7
+  pkMinDexterity: 2
+  pkMaxDexterity: 4
+  pkMinVitality: 3
+  pkMaxVitality: 6
+  pkMinSpecial: 2
+  pkMaxSpecial: 4
+  pkMinInsight: 2
+  pkMaxInsight: 4
+  pkBaseHP: 7
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Piloswine
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: effa0e92dd8914546bdd58c0a5c27e6b, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: a10122757e3696949b8eb954cd6c6aef, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 9dd784726b8f4a245bb90a65248f024b, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: fbc3af7ec8d9c8a44a20e7670bf0df9f, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 06f6f5ed8aef3274180d9dfcfe0097dd, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 6d35ef55d7f41614b9df91e981f03649, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: af12b969ca81b9d4387bbbffbac59690, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: c9cecbb4320791e4f996e7c2095b0c72, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 73685a6d6fe9c6a45b785bda3db35444, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: de4a75d0d2a8d9f4ab676dbe9600292f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0bc1cb0c6a735604f8af2cfa6d975259, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: f6a3208b9e594564db2a2a56435b18d1, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: fdb17e29d73f20344bc1d82520fad42f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 90b9a8eabc1b7c74aa4d87fca91c0e37, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 4e767ec14f830b24ea602595f2bc628d, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: d301af88ff5f1cf4dba2af0671cbd55c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: dc0b468041649724b9bcd0007a04027e, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: cb4f59de7cfb1604b91a2fe769e1cdff, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 9685227198b57c0468c72689c5ec3a89, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 51d5f5309d46caf46b3c96f873955d66, type: 2}
+    moveRank: 4

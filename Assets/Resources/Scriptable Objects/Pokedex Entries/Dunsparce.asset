@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Dunsparce
+  m_EditorClassIdentifier: 
+  pkID: 224
+  pkNumber: 206
+  pkName: Dunsparce
+  pkSpecies: Land Snake
+  pkType1: 0
+  pkType2: 18
+  pkHeight: 1.5
+  pkWeight: 14
+  pkAbility1: Run Away
+  pkAbility2: Serene Grace
+  pkEvoStage: Final
+  pkEvoQty: 1
+  pkEvoName1: Dunsparce
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 5
+  pkMinDexterity: 1
+  pkMaxDexterity: 3
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 2
+  pkMaxSpecial: 5
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 7
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Dunsparce
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 591891e3c095ab14498a863e1ba53fce, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: d83bed34af1a9014da6277cd8b046256, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: a086dccb2d7e07f47ad0eb3f8ea9649b, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 4433ddfdcfa5bce4ba6f64d4a5fb1393, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 5a2d470e4ecbea14fa5546ff48903705, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 7460e2f2d06b7cc4997f80de844a385a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 3c36c763e90ef8844a15435683ebf87d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 9685227198b57c0468c72689c5ec3a89, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0bc1cb0c6a735604f8af2cfa6d975259, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6d35ef55d7f41614b9df91e981f03649, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 4705914059c1f8248a1fb7ae10e689ec, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 575183ca51407244890ad2d9e68d971e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 7def9e51c66271b49b91b4c77e84a2c2, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: af12b969ca81b9d4387bbbffbac59690, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d56ae5509e06df842834196c58f42119, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 55bb98b76c903af4d841a3b4c70bad08, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 2e9009005d74fba4ab2a30c7acb0f23f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 48bdb4d194f7e04449bbb416e69487dd, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 227f069f7ae201a46bf4356f2a161110, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: d1663496b67ac45408e8b92868a66465, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 404250e085458b74888e2f8eafc78604, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 9e73be0078beb6440a61ad11a84d7384, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 20433990f8d42f14593c6f7f67377bf9, type: 2}
+    moveRank: 4

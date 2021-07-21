@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Lanturn
+  m_EditorClassIdentifier: 
+  pkID: 189
+  pkNumber: 171
+  pkName: Lanturn
+  pkSpecies: Light
+  pkType1: 10
+  pkType2: 12
+  pkHeight: 1.2
+  pkWeight: 22.5
+  pkAbility1: Volt Absorb
+  pkAbility2: Illuminate
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Chinchou
+  pkEvoName2: Lanturn
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 2
+  pkMaxVitality: 4
+  pkMinSpecial: 2
+  pkMaxSpecial: 5
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 9
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Lanturn
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 5d8689e0bbda3e74a812e07c5ce276cd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: c54b1d3699417e949b44d642065e3133, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 404250e085458b74888e2f8eafc78604, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: e5d1c6bbda008ad4592dbdb45e6f315d, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: b1557acea6195eb4083897ebde916172, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 2c3e7e234dc9c0343b5f62d6ed82991e, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: e42485a80fb2ebd47aa584cab16345a3, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 46c11514cfde0214f8c3fe441d7359c2, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6d35ef55d7f41614b9df91e981f03649, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d6caf5cca45073441aa59e8c12b21c49, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: dcd1003db704e4745a16322816247634, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: cccab00df37e2c045936cea154c88c03, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 43a7b887dcd8a494e94b3ccc913d6aaa, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 82816cc0d1ab3a14db97ee8245de428d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: aa58b7144c9917741b196b0f0c0da787, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0ce65b1c57b5d97498119d399004b47f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: fa00c418465a000409b99112eff9bbbf, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 98dfdd60158fd524c89854877f5f0a17, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 09619403d3f19194c974cc8c84dc7eb0, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 2878940fbe10ad34292665e873e2b868, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: e52638bdc8e57744286839fc82a7f719, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 0c2741ddf4b24904894cb5569f4dd1c6, type: 2}
+    moveRank: 4

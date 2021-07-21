@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Crobat
+  m_EditorClassIdentifier: 
+  pkID: 187
+  pkNumber: 169
+  pkName: Crobat
+  pkSpecies: Bat
+  pkType1: 3
+  pkType2: 2
+  pkHeight: 1.8
+  pkWeight: 75
+  pkAbility1: Inner Focus
+  pkAbility2: '-'
+  pkEvoStage: Final
+  pkEvoQty: 3
+  pkEvoName1: Zubat
+  pkEvoName2: Golbat
+  pkEvoName3: Crobat
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 4
+  pkMaxDexterity: 9
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 2
+  pkMaxSpecial: 5
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 6
+  pkRank: 3
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Crobat
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 491bea9eb3960f94e838c0c4f475671c, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 7460e2f2d06b7cc4997f80de844a385a, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 560f6b10b32022a42a03d157a01f99cb, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 5d8689e0bbda3e74a812e07c5ce276cd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 5b1fdbe6eb4349d43a756031960b8bc4, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 20dc567a6affb014b8337354aca0efdc, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: e1493b16215c91f4d826ffbdcbd9562d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b1557acea6195eb4083897ebde916172, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 8b2ed46fe193a6d40aa5ae7719d80b8f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b2f90d2ca6fc14345bfe2f9309971065, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: aeae733992b14c040b6e6214a49d9957, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 25af051100f9a444987085ca45a0bdbc, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 18ac5c3652432d247b8cf597d65e3406, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: aaaf9b375f2e29c41b0ac323e278f8ea, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: a810e2479d8eee8498107c840882686c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: d56ae5509e06df842834196c58f42119, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: c0d2a65ed5af3494cb6cf48a8de786da, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 1f6ad188b11a75a4982f3519210c4d30, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 97c397666da9e6c428ea493ef51f0be7, type: 2}
+    moveRank: 4

@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Omanyte
+  m_EditorClassIdentifier: 
+  pkID: 156
+  pkNumber: 138
+  pkName: Omanyte
+  pkSpecies: Spiral
+  pkType1: 5
+  pkType2: 10
+  pkHeight: 0.4
+  pkWeight: 7.5
+  pkAbility1: Swift Swim
+  pkAbility2: Shell Armor
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Omanyte
+  pkEvoName2: Omastar
+  pkEvoName3: None
+  pkEvoMethod: 2
+  pkMinStrength: 1
+  pkMaxStrength: 3
+  pkMinDexterity: 1
+  pkMaxDexterity: 3
+  pkMinVitality: 4
+  pkMaxVitality: 8
+  pkMinSpecial: 3
+  pkMaxSpecial: 7
+  pkMinInsight: 2
+  pkMaxInsight: 4
+  pkBaseHP: 3
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Omanyte
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 985f81211a3b4a145976bfadc08fb78a, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 773e610c14a276c4da438758ca47814d, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 20dc567a6affb014b8337354aca0efdc, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: c54b1d3699417e949b44d642065e3133, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: a086dccb2d7e07f47ad0eb3f8ea9649b, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 33da7a454607ec84a915fb5e6d7e1cd9, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 496a038034af4464fb44ec14b592b7a2, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6b6578af842e865479f8b03bff3ccf3e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: f53c3da49d967c34299d9db48f146a70, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0bc1cb0c6a735604f8af2cfa6d975259, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 763f32aa935039e4f922c6bbbd887adb, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 585eee227c5f38546bfe21671fc87905, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: d3b8f31389d11d9449b8f7eaa97c42e6, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 2878940fbe10ad34292665e873e2b868, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 56423e53a607fc344b2cac02f8c2b8cb, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 0979d35266821a64da78c34cad2afd9c, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: a567a4649ed41ac499d0c04db94a467f, type: 2}
+    moveRank: 4

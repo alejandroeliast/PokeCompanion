@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Doduo
+  m_EditorClassIdentifier: 
+  pkID: 98
+  pkNumber: 84
+  pkName: Doduo
+  pkSpecies: Twin Bird
+  pkType1: 0
+  pkType2: 2
+  pkHeight: 1.4
+  pkWeight: 39.2
+  pkAbility1: Run Away
+  pkAbility2: Early Bird
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Doduo
+  pkEvoName2: Dodrio
+  pkEvoName3: None
+  pkEvoMethod: 2
+  pkMinStrength: 3
+  pkMaxStrength: 7
+  pkMinDexterity: 3
+  pkMaxDexterity: 6
+  pkMinVitality: 1
+  pkMaxVitality: 3
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 1
+  pkMaxInsight: 3
+  pkBaseHP: 3
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Doduo
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: fbc3af7ec8d9c8a44a20e7670bf0df9f, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 6a85edb63ba95fa42bd2d825c9755aa8, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 698b6929e48271d42bf90ae90787caad, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: d83bed34af1a9014da6277cd8b046256, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: f6a3208b9e594564db2a2a56435b18d1, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 5a2d470e4ecbea14fa5546ff48903705, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: c40714501410db34c99be3281667d49d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a20691759f5176544b4155d44e5edfd8, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 0}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 90002f3c330376640a0db3694ea461be, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 07ee6958ba9870741a0f482f2e394545, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 55baed50a194ed54fa05846c298a1c14, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: aca303e9eed43ee4487e1689d90c0849, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: d1663496b67ac45408e8b92868a66465, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 90b9a8eabc1b7c74aa4d87fca91c0e37, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: b509bc00c1bd66d45ab0bb811281b81d, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 76039cfdcba18084f979b66575a1e3c3, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: c0d2a65ed5af3494cb6cf48a8de786da, type: 2}
+    moveRank: 4

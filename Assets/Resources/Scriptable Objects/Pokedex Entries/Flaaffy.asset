@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Flaaffy
+  m_EditorClassIdentifier: 
+  pkID: 198
+  pkNumber: 180
+  pkName: Flaaffy
+  pkSpecies: Wool
+  pkType1: 12
+  pkType2: 18
+  pkHeight: 0.8
+  pkWeight: 13.3
+  pkAbility1: Static
+  pkAbility2: '-'
+  pkEvoStage: Second
+  pkEvoQty: 3
+  pkEvoName1: Mareep
+  pkEvoName2: Flaaffy
+  pkEvoName3: Ampharos
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 1
+  pkMaxDexterity: 3
+  pkMinVitality: 2
+  pkMaxVitality: 4
+  pkMinSpecial: 3
+  pkMaxSpecial: 6
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 5
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Flaaffy
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 6a85edb63ba95fa42bd2d825c9755aa8, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: e5d1c6bbda008ad4592dbdb45e6f315d, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: a72c3d87e28c3854e8c4388361b4d26e, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: aab15acfffbcbca40b449d1870df30bd, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0ce65b1c57b5d97498119d399004b47f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6d35ef55d7f41614b9df91e981f03649, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 43a7b887dcd8a494e94b3ccc913d6aaa, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b1557acea6195eb4083897ebde916172, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 10ebfc86b7f07f24e84ef64c6f60911a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: aa58b7144c9917741b196b0f0c0da787, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b3b2728842b82e54bab6bbbeffd235ee, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 98dfdd60158fd524c89854877f5f0a17, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 17f58db7249b0bd4da511315d786dc7d, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 7ca369aac6580e14395801ced84e041f, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 77b7605bb1498244bac4d86a1bbe2285, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 06503952d288f65498627706d6a499b3, type: 2}
+    moveRank: 4

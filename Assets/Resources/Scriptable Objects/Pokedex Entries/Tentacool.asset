@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Tentacool
+  m_EditorClassIdentifier: 
+  pkID: 83
+  pkNumber: 72
+  pkName: Tentacool
+  pkSpecies: Jellyfish
+  pkType1: 10
+  pkType2: 3
+  pkHeight: 0.9
+  pkWeight: 45.5
+  pkAbility1: Clear Body
+  pkAbility2: Liquid Ooze
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Tentacool
+  pkEvoName2: Tentacruel
+  pkEvoName3: None
+  pkEvoMethod: 2
+  pkMinStrength: 1
+  pkMaxStrength: 3
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 1
+  pkMaxVitality: 3
+  pkMinSpecial: 2
+  pkMaxSpecial: 4
+  pkMinInsight: 4
+  pkMaxInsight: 8
+  pkBaseHP: 3
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Tentacool
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: c5a4fb88e9125db41b1a98d8bd0e6d7e, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 5d8689e0bbda3e74a812e07c5ce276cd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 985f81211a3b4a145976bfadc08fb78a, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 186eb618288254c4b973cbec482d43f3, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 56423e53a607fc344b2cac02f8c2b8cb, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 82816cc0d1ab3a14db97ee8245de428d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 7cce6a1db301fc045885c130a6954781, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 5b888514daf512148af2dc9f79a3178b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 405fecd0ec137e240adb2961b27ccbac, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d5b1eca039b41ea4c958e3a07f66e508, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6b6578af842e865479f8b03bff3ccf3e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 980db6b5f7d8d104a8304c462bdaf936, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 7460e2f2d06b7cc4997f80de844a385a, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 6cd42546a79cf3144b08f50574cb224b, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 2878940fbe10ad34292665e873e2b868, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: ca692e0db5260d349a64f1898b75adb7, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: fac41e1b4f8e90442ba9edfd7e18bd03, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 70560ce0e9cfab64ebd8c316c764fdf9, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: b1557acea6195eb4083897ebde916172, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 9e73be0078beb6440a61ad11a84d7384, type: 2}
+    moveRank: 4

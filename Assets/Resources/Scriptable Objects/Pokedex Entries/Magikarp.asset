@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Magikarp
+  m_EditorClassIdentifier: 
+  pkID: 147
+  pkNumber: 129
+  pkName: Magikarp
+  pkSpecies: Fish
+  pkType1: 10
+  pkType2: 18
+  pkHeight: 0.9
+  pkWeight: 10
+  pkAbility1: Swift Swim
+  pkAbility2: '-'
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Magikarp
+  pkEvoName2: Gyarados
+  pkEvoName3: None
+  pkEvoMethod: 2
+  pkMinStrength: 1
+  pkMaxStrength: 2
+  pkMinDexterity: 3
+  pkMaxDexterity: 7
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 1
+  pkMaxSpecial: 2
+  pkMinInsight: 1
+  pkMaxInsight: 2
+  pkBaseHP: 3
+  pkRank: 0
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Magikarp
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: e69f87824d0164e448abd0a3a9aa3ed4, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 404250e085458b74888e2f8eafc78604, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 9721d3641ebfeeb41803d3b44a428fca, type: 2}
+    moveRank: 4

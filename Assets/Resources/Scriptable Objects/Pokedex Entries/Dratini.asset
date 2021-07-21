@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Dratini
+  m_EditorClassIdentifier: 
+  pkID: 165
+  pkNumber: 147
+  pkName: Dratini
+  pkSpecies: Dragon
+  pkType1: 15
+  pkType2: 18
+  pkHeight: 1.8
+  pkWeight: 3.3
+  pkAbility1: Shed Skin
+  pkAbility2: '-'
+  pkEvoStage: First
+  pkEvoQty: 3
+  pkEvoName1: Dratini
+  pkEvoName2: Dragonair
+  pkEvoName3: Dragonite
+  pkEvoMethod: 2
+  pkMinStrength: 2
+  pkMaxStrength: 5
+  pkMinDexterity: 2
+  pkMaxDexterity: 4
+  pkMinVitality: 1
+  pkMaxVitality: 3
+  pkMinSpecial: 2
+  pkMaxSpecial: 4
+  pkMinInsight: 2
+  pkMaxInsight: 4
+  pkBaseHP: 3
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Dratini
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 7cce6a1db301fc045885c130a6954781, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 33da7a454607ec84a915fb5e6d7e1cd9, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: e5d1c6bbda008ad4592dbdb45e6f315d, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 4abfe0b695c724344b7e101cabfc31e0, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 9f30d9d8ed1cc6445a5e5d73ea474c49, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a280b9fc1e0566541b137c3311f67ffc, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: f2ee3ed7438a8c44e935cf8ab7390e13, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ed691e5b2f8ceeb42a51630b062eee6e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 55bb98b76c903af4d841a3b4c70bad08, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 41eb9ed7b8333f34b8ffb40ed654e21a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: f4571d72e63e674458f0f3ead5bbc839, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 5395f840ebde6ff49bd3e4148a91c6e2, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: ae4e92c528be1de4eb80e9387eb22e69, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 0580131751a08c84bb5a8aa02ff4fd57, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: fe8708419a90db040b352b794787975b, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: fdb17e29d73f20344bc1d82520fad42f, type: 2}
+    moveRank: 4

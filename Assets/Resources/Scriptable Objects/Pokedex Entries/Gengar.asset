@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Gengar
+  m_EditorClassIdentifier: 
+  pkID: 110
+  pkNumber: 94
+  pkName: Gengar
+  pkSpecies: Shadow
+  pkType1: 7
+  pkType2: 3
+  pkHeight: 1.5
+  pkWeight: 40.5
+  pkAbility1: Levitate
+  pkAbility2: Cursed Body
+  pkEvoStage: Final
+  pkEvoQty: 3
+  pkEvoName1: Gastly
+  pkEvoName2: Haunter
+  pkEvoName3: Gengar
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 3
+  pkMaxDexterity: 7
+  pkMinVitality: 2
+  pkMaxVitality: 4
+  pkMinSpecial: 4
+  pkMaxSpecial: 9
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 4
+  pkRank: 3
+  pkOrigin: Original
+  pkVariantAmount: 2
+  pkVariantNames:
+  - Gengar
+  - Mega Gengar
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 4433ddfdcfa5bce4ba6f64d4a5fb1393, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 415a05bab71fdd94d94dbdcc37038b06, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 062a6d7a9f6c5e342abcfc40f9ef61b8, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: aeae733992b14c040b6e6214a49d9957, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 5741bfc90435c3d4d906e470a942bb71, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 3d6cce0b34ecef245b3dddaa15f363be, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b1557acea6195eb4083897ebde916172, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 61d099b15cd88884995d4e23aace86f5, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e7e01e277b83d0d4ab516ff46d967dc4, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ee27206e37f50c14095a362f43473c69, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6126add7a9eb7814ea94ef844e7fff29, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 3fa998c57b353be4fbb39480ec8d0605, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6d7c0fafb8afcfd40b4346a2fd2c2783, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 0dc6055d89718964e93a1086fb47dbc9, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 6cd42546a79cf3144b08f50574cb224b, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e9c410c21f35ef64988d2977c94ffdfb, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 100c35a8e6481024ea0240ecc687028d, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 73685a6d6fe9c6a45b785bda3db35444, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 0f4848adab446884aa439e098b920736, type: 2}
+    moveRank: 4

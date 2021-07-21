@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Charmander
+  m_EditorClassIdentifier: 
+  pkID: 4
+  pkNumber: 4
+  pkName: Charmander
+  pkSpecies: Lizard
+  pkType1: 9
+  pkType2: 18
+  pkHeight: 0.6
+  pkWeight: 8.5
+  pkAbility1: Blaze
+  pkAbility2: '-'
+  pkEvoStage: First
+  pkEvoQty: 3
+  pkEvoName1: Charmander
+  pkEvoName2: Charmeleon
+  pkEvoName3: Charizard
+  pkEvoMethod: 1
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 1
+  pkMaxVitality: 3
+  pkMinSpecial: 2
+  pkMaxSpecial: 5
+  pkMinInsight: 2
+  pkMaxInsight: 4
+  pkBaseHP: 3
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Charmander
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 20ea0ac91148d334bb7220bd466dfe0f, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 6a85edb63ba95fa42bd2d825c9755aa8, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3ffcd02cad762984a97ab38f37b4709e, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 2e62b50783bb7e64dace18442cefdc20, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 9f30d9d8ed1cc6445a5e5d73ea474c49, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 4f09c4db73a6799429e9dac57e9dc238, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6023dcdce65b8c1458499f0c36f9e8f5, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: c253aad7223590748bf0bb01b6a792ff, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e41f6b66c24c8894aa34c774ddf8c3e6, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 9c491cd6c4318cf4a8802dd712a69bab, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ceb1f93f89737a74c8ba671f409808a3, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: bd1f8d12b3a059b4a8137cc8f466be65, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: d8f98cc9012fc7448bd82d17cb523f40, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: f4571d72e63e674458f0f3ead5bbc839, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 46c85dbafaa7a8e459a8a154739bb76f, type: 2}
+    moveRank: 4

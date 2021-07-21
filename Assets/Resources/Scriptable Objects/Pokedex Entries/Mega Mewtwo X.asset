@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Mega Mewtwo X
+  m_EditorClassIdentifier: 
+  id: 150
+  namePoke: Mega Mewtwo X
+  species: Genetic
+  type1: 13
+  type2: 1
+  height: 2.3
+  weight: 127
+  ability1: Steadfast
+  ability2: '-'
+  evoStage: Mega Evolution
+  evoQty: 2
+  evoName1: Mewtwo
+  evoName2: Mega Mewtwo X
+  evoName3: None
+  evoMethod: 15
+  minStrength: 10
+  maxStrength: 10
+  minDexterity: 8
+  maxDexterity: 8
+  minVitality: 6
+  maxVitality: 6
+  minSpecial: 9
+  maxSpecial: 9
+  minInsight: 6
+  maxInsight: 6
+  baseHP: 7
+  rank: 5
+  origin: Mega X
+  variants: 3
+  varNames:
+  - Mewtwo
+  - Mega Mewtwo X
+  - Mega Mewtwo Y
+  moves:
+  - moveData: {fileID: 11400000, guid: 37dd58ad68e55444ab077c5e6692acb0, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 0a75204d7b69b7c49abec9a88cb23274, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: cd21557d34f92f445a44c123257b0009, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 834277cc18bbd684ca02ce3d4092ae73, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 41eb9ed7b8333f34b8ffb40ed654e21a, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: e1493b16215c91f4d826ffbdcbd9562d, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: cffe314c3af2a9544a7e2eeb15a6095c, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 435aabe344b10ca438e4249d764fd064, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: b2c6316a6c3c35d4e9ccd082f4e2ed95, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 05043df5191415d45befb1306ae7f2c4, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 64de0afee0b2f704cb38cbaa4d4ac785, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: e98fe90fb08cbe34e9c23b4ef03d5046, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 8bdffe5b8f3c89e4fa88049761b5c712, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 64d1aa77f9a5e5847884fe3583aa1de5, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 405fecd0ec137e240adb2961b27ccbac, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 20bf3c44d6cdf264a92ee8b260a84f6e, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: dc0b468041649724b9bcd0007a04027e, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: fdb17e29d73f20344bc1d82520fad42f, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 395153e1b0446b740b5874b2b18a981e, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: a7cd886f2f76bbe48a6e89e0ed0382d0, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 4a65ae7e1be98d6498d86dc4e2187553, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 85a94e5a9f79e0944bbfe6cd5381e53f, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: d301af88ff5f1cf4dba2af0671cbd55c, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: bffffb81d94a0a941a6a1c0554face7f, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 5963a4b0b78d1894fa86d12ba4a04793, type: 2}
+    moveRank: 5

@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Venusaur
+  m_EditorClassIdentifier: 
+  pkID: 3
+  pkNumber: 3
+  pkName: Venusaur
+  pkSpecies: Seed
+  pkType1: 11
+  pkType2: 3
+  pkHeight: 2
+  pkWeight: 100
+  pkAbility1: Overgrow
+  pkAbility2: '-'
+  pkEvoStage: Final
+  pkEvoQty: 3
+  pkEvoName1: Bulbasaur
+  pkEvoName2: Ivysaur
+  pkEvoName3: Venusaur
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 5
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 3
+  pkMaxVitality: 6
+  pkMinSpecial: 3
+  pkMaxSpecial: 7
+  pkMinInsight: 3
+  pkMaxInsight: 7
+  pkBaseHP: 5
+  pkRank: 3
+  pkOrigin: Original
+  pkVariantAmount: 2
+  pkVariantNames:
+  - Venusaur
+  - Mega Venusaur
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 6a85edb63ba95fa42bd2d825c9755aa8, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3bfcd484e8bb01242bb5304597246b59, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 705dba6e7f01be44c86e632821c38b2e, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 03376c7e74b07354698049ba5931768a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 1539b32332c77554e8495455dad9fb6a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6d35ef55d7f41614b9df91e981f03649, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 02691526886452345b9bde9ec554a7d4, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 90e7540be4428bc458152d9b761bf469, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 29464b8859174df4cb979e37bdd8329f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 48bdb4d194f7e04449bbb416e69487dd, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: bfb1841dc7605684dbc63c3cbc3d21e1, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 94fcd3a36e60ae14eaa83479c886fbbe, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 9b6dd3a8aeebf2e4bab9e71ddb0cf068, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 816c78222c613af48a67bc4cde861503, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e3e60eeec2779d146abfb4e1814f50f6, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 5395f840ebde6ff49bd3e4148a91c6e2, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 062a6d7a9f6c5e342abcfc40f9ef61b8, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: ea4fc083080f4d3489b99c65ee6f5229, type: 2}
+    moveRank: 4

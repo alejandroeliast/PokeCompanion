@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Crabominable
+  m_EditorClassIdentifier: 
+  pkID: 758
+  pkNumber: 740
+  pkName: Crabominable
+  pkSpecies: Woolly Crab
+  pkType1: 1
+  pkType2: 14
+  pkHeight: 1.7
+  pkWeight: 180
+  pkAbility1: Hyper Cutter
+  pkAbility2: Iron Fist
+  pkEvoStage: First
+  pkEvoQty: 1
+  pkEvoName1: None
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 4
+  pkMaxStrength: 9
+  pkMinDexterity: 1
+  pkMaxDexterity: 3
+  pkMinVitality: 3
+  pkMaxVitality: 6
+  pkMinSpecial: 2
+  pkMaxSpecial: 4
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 7
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Crabominable
+  pkMoves: []

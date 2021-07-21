@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Mr. Mime
+  m_EditorClassIdentifier: 
+  pkID: 140
+  pkNumber: 122
+  pkName: Mr. Mime
+  pkSpecies: Barrier
+  pkType1: 13
+  pkType2: 17
+  pkHeight: 1.3
+  pkWeight: 54.5
+  pkAbility1: Soundproof
+  pkAbility2: Filter
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Mime Jr.
+  pkEvoName2: Mr. Mime
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 1
+  pkMaxStrength: 3
+  pkMinDexterity: 3
+  pkMaxDexterity: 6
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 3
+  pkMaxSpecial: 7
+  pkMinInsight: 4
+  pkMaxInsight: 9
+  pkBaseHP: 3
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Mr. Mime
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 405fecd0ec137e240adb2961b27ccbac, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: cd21557d34f92f445a44c123257b0009, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: aa19b41f92ab2bd4d8744c0dfff5702a, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: cf414c6d9f3f51f4caaf509f6a37a469, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 4ca92eb393975a444ada374966c9045a, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: a563c010037429549b1547781651604f, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 64de0afee0b2f704cb38cbaa4d4ac785, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e98fe90fb08cbe34e9c23b4ef03d5046, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 1f69974be8f5c2741b98b89ed3bdb676, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 19bebde7d3b7d5c47b5fa02c0b7e2fc8, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e5c0c24fd84637845934917b8603e119, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b899eeaf7e8b0f643b283e12818008cc, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0a75204d7b69b7c49abec9a88cb23274, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: af8b1b2435c794b44ad546bc1b761574, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 17f58db7249b0bd4da511315d786dc7d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 82f76788651e3404f9b13035a3508ac9, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0c2741ddf4b24904894cb5569f4dd1c6, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 8820458deb059f34b91a25e458eb1bf9, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: dbb5c57b837e0ba4aab31ef952d82f22, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 0c7f688a8f7800b43b22e58bb2d71476, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 64d1aa77f9a5e5847884fe3583aa1de5, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: a393c22cb6509294ea0653bcb96b6839, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 8b7a85bc17480d6428ad056c753d5de8, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 41eb9ed7b8333f34b8ffb40ed654e21a, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: b1557acea6195eb4083897ebde916172, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 47fc7ea0cdb903246a1b4585e0bf906c, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 1f6ad188b11a75a4982f3519210c4d30, type: 2}
+    moveRank: 4

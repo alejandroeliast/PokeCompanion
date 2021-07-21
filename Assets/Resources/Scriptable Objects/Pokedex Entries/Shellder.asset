@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Shellder
+  m_EditorClassIdentifier: 
+  pkID: 106
+  pkNumber: 90
+  pkName: Shellder
+  pkSpecies: Bivalve
+  pkType1: 10
+  pkType2: 18
+  pkHeight: 0.3
+  pkWeight: 4
+  pkAbility1: Shell Armor
+  pkAbility2: Skill Link
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Shellder
+  pkEvoName2: Cloyster
+  pkEvoName3: None
+  pkEvoMethod: 8
+  pkMinStrength: 2
+  pkMaxStrength: 5
+  pkMinDexterity: 1
+  pkMaxDexterity: 3
+  pkMinVitality: 4
+  pkMaxVitality: 8
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 1
+  pkMaxInsight: 2
+  pkBaseHP: 3
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Shellder
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: c54b1d3699417e949b44d642065e3133, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: f53c3da49d967c34299d9db48f146a70, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 5d8689e0bbda3e74a812e07c5ce276cd, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 94ffa35fbfe6cd74bb185fdcba03c624, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 773e610c14a276c4da438758ca47814d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 33da7a454607ec84a915fb5e6d7e1cd9, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 36e838fe3cf9be3439f7d64f66ac0935, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b1ba6288b1e20b741b355b4b598ff6e3, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: fc66091d82f07c34a8af1f6d7241c030, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 70560ce0e9cfab64ebd8c316c764fdf9, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: f6587c7409883a242b641c6db3a1fcc9, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6b6578af842e865479f8b03bff3ccf3e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a567a4649ed41ac499d0c04db94a467f, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 2688213d04130c54aa7781b7c0bf61a4, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: d3b8f31389d11d9449b8f7eaa97c42e6, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 2878940fbe10ad34292665e873e2b868, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: fa00c418465a000409b99112eff9bbbf, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 585eee227c5f38546bfe21671fc87905, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: c4ca14624e5cffb48b317997319ea343, type: 2}
+    moveRank: 4

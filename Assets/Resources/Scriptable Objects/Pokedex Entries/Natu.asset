@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Natu
+  m_EditorClassIdentifier: 
+  pkID: 195
+  pkNumber: 177
+  pkName: Natu
+  pkSpecies: Little Bird
+  pkType1: 13
+  pkType2: 2
+  pkHeight: 0.2
+  pkWeight: 2
+  pkAbility1: Synchronize
+  pkAbility2: Early Bird
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Natu
+  pkEvoName2: Xatu
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 1
+  pkMaxVitality: 3
+  pkMinSpecial: 2
+  pkMaxSpecial: 5
+  pkMinInsight: 1
+  pkMaxInsight: 3
+  pkBaseHP: 3
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Natu
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: fbc3af7ec8d9c8a44a20e7670bf0df9f, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 33da7a454607ec84a915fb5e6d7e1cd9, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 5741bfc90435c3d4d906e470a942bb71, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 4443dc5d5c5f5e44e84b02f7c02feb79, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 6f16de714754fb04193beb6794e1e216, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b2c6316a6c3c35d4e9ccd082f4e2ed95, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 395153e1b0446b740b5874b2b18a981e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b1557acea6195eb4083897ebde916172, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b8849468f2066d04abdde962659ac9b1, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 60a7ee061a7a5aa4a9a014837aa26ac7, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 779e697fabe51b348822a79cda57b996, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: cffe314c3af2a9544a7e2eeb15a6095c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: a5377609f80a3334bb17a642f70e3ff2, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 64de0afee0b2f704cb38cbaa4d4ac785, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e98fe90fb08cbe34e9c23b4ef03d5046, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 64d1aa77f9a5e5847884fe3583aa1de5, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e686bf5002ef2a041874f43a3e498a16, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 4abfe0b695c724344b7e101cabfc31e0, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: a810e2479d8eee8498107c840882686c, type: 2}
+    moveRank: 4

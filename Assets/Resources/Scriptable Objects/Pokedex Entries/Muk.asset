@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Muk
+  m_EditorClassIdentifier: 
+  pkID: 104
+  pkNumber: 89
+  pkName: Muk
+  pkSpecies: Sludge
+  pkType1: 3
+  pkType2: 18
+  pkHeight: 1.2
+  pkWeight: 60
+  pkAbility1: Stench
+  pkAbility2: Sticky Hold
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Grimer
+  pkEvoName2: Muk
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 7
+  pkMinDexterity: 1
+  pkMaxDexterity: 3
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 2
+  pkMaxSpecial: 4
+  pkMinInsight: 3
+  pkMaxInsight: 7
+  pkBaseHP: 7
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 2
+  pkVariantNames:
+  - Muk
+  - Muk Alola
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: a623d679affd08c46b16a82d2f9bd23e, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 18eefa294452240499c483a76cd5037f, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 84269899583a55848916403959f53cb7, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 9dd784726b8f4a245bb90a65248f024b, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 834277cc18bbd684ca02ce3d4092ae73, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 08e627264b4704b4da23a1950534258e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: fb4ad7f2ffef8fc488efa1f4efeb4d3e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 5861dc646ad44b14c9c93f06abde738d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: c9cecbb4320791e4f996e7c2095b0c72, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: f2c1a9aebe1edb6459d2e0542a2322d9, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 336c0e1ed4f55084791243e6775f036e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 7460e2f2d06b7cc4997f80de844a385a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ca692e0db5260d349a64f1898b75adb7, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 5b13ba4946660fb4eacbe5011316613f, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: c61a2943868aaaa46b2df982303ac90e, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: bbc17ccf8ca075948a2009bb940acf3c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 7e7fd712d5bb89041bf427736a8a6efe, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 4a65ae7e1be98d6498d86dc4e2187553, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 0412847b9b71f1542a3ee0f4f8dd1660, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 0f4848adab446884aa439e098b920736, type: 2}
+    moveRank: 4

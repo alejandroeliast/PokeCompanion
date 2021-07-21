@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Mantine
+  m_EditorClassIdentifier: 
+  pkID: 244
+  pkNumber: 226
+  pkName: Mantine
+  pkSpecies: Kite
+  pkType1: 10
+  pkType2: 2
+  pkHeight: 2.1
+  pkWeight: 220
+  pkAbility1: Swift Swim
+  pkAbility2: Water Absorb
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Mantyke
+  pkEvoName2: Mantine
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 1
+  pkMaxStrength: 3
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 3
+  pkMaxSpecial: 6
+  pkMinInsight: 5
+  pkMaxInsight: 10
+  pkBaseHP: 6
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Mantine
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 2c3e7e234dc9c0343b5f62d6ed82991e, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 0c2741ddf4b24904894cb5569f4dd1c6, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 82816cc0d1ab3a14db97ee8245de428d, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 5d8689e0bbda3e74a812e07c5ce276cd, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 0b188c8a40d412b46bb6ec657b42610b, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: aa58b7144c9917741b196b0f0c0da787, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 227f069f7ae201a46bf4356f2a161110, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b1557acea6195eb4083897ebde916172, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 5b1fdbe6eb4349d43a756031960b8bc4, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: cf414c6d9f3f51f4caaf509f6a37a469, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d5b1eca039b41ea4c958e3a07f66e508, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6d35ef55d7f41614b9df91e981f03649, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 7384ea309dce0a04a99d63f251802e64, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: d56ae5509e06df842834196c58f42119, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: fa00c418465a000409b99112eff9bbbf, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 9721d3641ebfeeb41803d3b44a428fca, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 2878940fbe10ad34292665e873e2b868, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 4abfe0b695c724344b7e101cabfc31e0, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 85c883beb2672f8418e8a0f3f82d5764, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: a10122757e3696949b8eb954cd6c6aef, type: 2}
+    moveRank: 4

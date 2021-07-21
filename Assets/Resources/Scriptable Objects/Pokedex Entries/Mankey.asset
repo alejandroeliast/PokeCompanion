@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Mankey
+  m_EditorClassIdentifier: 
+  pkID: 67
+  pkNumber: 56
+  pkName: Mankey
+  pkSpecies: Pig Monkey
+  pkType1: 1
+  pkType2: 18
+  pkHeight: 0.5
+  pkWeight: 28
+  pkAbility1: Vital Spirit
+  pkAbility2: Anger Point
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Mankey
+  pkEvoName2: Primeape
+  pkEvoName3: None
+  pkEvoMethod: 2
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 1
+  pkMaxVitality: 3
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 1
+  pkMaxInsight: 3
+  pkBaseHP: 3
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Mankey
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: c340eb70dda2de4409d33e8569285805, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 20ea0ac91148d334bb7220bd466dfe0f, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: c7365bb3d03e2d84e92f6a6a20f8621b, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 33da7a454607ec84a915fb5e6d7e1cd9, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 7b3c226f2cebdea41b6ee0f3e6d17918, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: b0c076efb992b3e419e17e8c0759cd3c, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 5a2d470e4ecbea14fa5546ff48903705, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b5a87d6f6fbc1db44bc65eccd87789e4, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 413040ad798408d4baa96d11b61b4449, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 7460e2f2d06b7cc4997f80de844a385a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 1323313e417b5df479227dd27902707b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 492485de95594db4eb2a5d13aeafc622, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e2f958e4e0e8b7f4ba9d9c8e61b90b81, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 90b9a8eabc1b7c74aa4d87fca91c0e37, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 42ec298b3410fa64d8d4b239f66c427b, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 5395f840ebde6ff49bd3e4148a91c6e2, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 78963af5a66168746b739e22206859d1, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 6c125aa8911dd62428bcbac4994ec213, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 19bebde7d3b7d5c47b5fa02c0b7e2fc8, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 0b8fbb8916b69e94da21b6073144b032, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 98c2b7f342412504ea2e93733aab2b6e, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: ef21b5cd938c060488865a0f703d5747, type: 2}
+    moveRank: 3

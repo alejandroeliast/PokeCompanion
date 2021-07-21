@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Butterfree
+  m_EditorClassIdentifier: 
+  pkID: 12
+  pkNumber: 12
+  pkName: Butterfree
+  pkSpecies: Butterfly
+  pkType1: 6
+  pkType2: 2
+  pkHeight: 1.1
+  pkWeight: 32
+  pkAbility1: Compoundeyes
+  pkAbility2: '-'
+  pkEvoStage: Final
+  pkEvoQty: 3
+  pkEvoName1: Caterpie
+  pkEvoName2: Metapod
+  pkEvoName3: Butterfree
+  pkEvoMethod: 15
+  pkMinStrength: 1
+  pkMaxStrength: 3
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 2
+  pkMaxVitality: 4
+  pkMinSpecial: 3
+  pkMaxSpecial: 7
+  pkMinInsight: 3
+  pkMaxInsight: 6
+  pkBaseHP: 5
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Butterfree
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: cd21557d34f92f445a44c123257b0009, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 47e5ce46eab53b94887272800b8d7b32, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: b42e9aa93cf641547acd48f719217be0, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 1539b32332c77554e8495455dad9fb6a, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 03376c7e74b07354698049ba5931768a, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 5d8689e0bbda3e74a812e07c5ce276cd, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 688910edba2cd3a48aae5e3f80df0f8c, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0c2741ddf4b24904894cb5569f4dd1c6, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a80f9619cf37200458afd7dfdef45e7c, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0667e8b6220320b448f27578722312da, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: c5e2372fa332c604ca7999afe84b876a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 49e83567a686da14eb55c628d072952d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 41eb9ed7b8333f34b8ffb40ed654e21a, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 1fabd1cb3be704047aa43172d3c362e5, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: d56ae5509e06df842834196c58f42119, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: c59ca419fda3c86429c5b9e372c06b11, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e9c410c21f35ef64988d2977c94ffdfb, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: aa58b7144c9917741b196b0f0c0da787, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 2740374f2ade341449ff04081104d706, type: 2}
+    moveRank: 4

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Mew
+  m_EditorClassIdentifier: 
+  pkID: 169
+  pkNumber: 151
+  pkName: Mew
+  pkSpecies: New Species
+  pkType1: 13
+  pkType2: 18
+  pkHeight: 0.4
+  pkWeight: 4
+  pkAbility1: Synchronize
+  pkAbility2: '-'
+  pkEvoStage: Unknown
+  pkEvoQty: 1
+  pkEvoName1: Mew
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 6
+  pkMaxStrength: 6
+  pkMinDexterity: 6
+  pkMaxDexterity: 6
+  pkMinVitality: 6
+  pkMaxVitality: 6
+  pkMinSpecial: 6
+  pkMaxSpecial: 6
+  pkMinInsight: 6
+  pkMaxInsight: 6
+  pkBaseHP: 6
+  pkRank: 5
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Mew
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: a623d679affd08c46b16a82d2f9bd23e, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 82f76788651e3404f9b13035a3508ac9, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 1f4ff3d715bc5b2448307b468e18e78c, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: ff5a20b2c1aa52b4c82d3309055cf2ac, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 7f10f96723cac3d449f14f0f9a62f3e2, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 64d1aa77f9a5e5847884fe3583aa1de5, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 405fecd0ec137e240adb2961b27ccbac, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 0bc1cb0c6a735604f8af2cfa6d975259, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: dc0b468041649724b9bcd0007a04027e, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 395153e1b0446b740b5874b2b18a981e, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 8b7a85bc17480d6428ad056c753d5de8, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 1f6ad188b11a75a4982f3519210c4d30, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 20bf3c44d6cdf264a92ee8b260a84f6e, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 0}
+    moveRank: 5

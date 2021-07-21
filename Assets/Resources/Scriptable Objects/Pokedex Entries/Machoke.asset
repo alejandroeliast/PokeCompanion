@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Machoke
+  m_EditorClassIdentifier: 
+  pkID: 78
+  pkNumber: 67
+  pkName: Machoke
+  pkSpecies: Superpower
+  pkType1: 1
+  pkType2: 18
+  pkHeight: 1.5
+  pkWeight: 70.5
+  pkAbility1: Guts
+  pkAbility2: No Guard
+  pkEvoStage: Second
+  pkEvoQty: 3
+  pkEvoName1: Machop
+  pkEvoName2: Machoke
+  pkEvoName3: Machamp
+  pkEvoMethod: 12
+  pkMinStrength: 3
+  pkMaxStrength: 7
+  pkMinDexterity: 1
+  pkMaxDexterity: 3
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 2
+  pkMaxSpecial: 4
+  pkMinInsight: 2
+  pkMaxInsight: 4
+  pkBaseHP: 6
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Machoke
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: c7365bb3d03e2d84e92f6a6a20f8621b, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 33da7a454607ec84a915fb5e6d7e1cd9, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 7b3c226f2cebdea41b6ee0f3e6d17918, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: b5a87d6f6fbc1db44bc65eccd87789e4, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 2cafb772a4d284a47ac4a727f4287e0b, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: e41cac789202dae43a475da574c3234e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e210c010bb5d3c944b5c6dbaf31ee2d5, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 413040ad798408d4baa96d11b61b4449, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 79cffd3a4eed17e4eacdd229831348f3, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 99625432ee3ce1641b7503b30cba6293, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0b8fbb8916b69e94da21b6073144b032, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: f910bef4d56dbe9428b9d986c3d50602, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a720701353ae31148bccbb2d6d06f77b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 483579e12a3b6a94fba461c06c7bf34f, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e2f958e4e0e8b7f4ba9d9c8e61b90b81, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 4f09c4db73a6799429e9dac57e9dc238, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: ec13a98f93513e94f861063175ea2432, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 19bebde7d3b7d5c47b5fa02c0b7e2fc8, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 0022a761108af42448a7285818a6b72f, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 2c826b6b727f9e5479ce16143c16363f, type: 2}
+    moveRank: 4

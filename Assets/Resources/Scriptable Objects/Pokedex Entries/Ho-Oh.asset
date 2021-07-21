@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Ho-Oh
+  m_EditorClassIdentifier: 
+  pkID: 268
+  pkNumber: 250
+  pkName: Ho-Oh
+  pkSpecies: Rainbow
+  pkType1: 9
+  pkType2: 2
+  pkHeight: 3.8
+  pkWeight: 199
+  pkAbility1: Pressure
+  pkAbility2: Regenerator
+  pkEvoStage: Unknown
+  pkEvoQty: 1
+  pkEvoName1: Ho-Oh
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 4
+  pkMaxStrength: 8
+  pkMinDexterity: 3
+  pkMaxDexterity: 6
+  pkMinVitality: 3
+  pkMaxVitality: 6
+  pkMinSpecial: 3
+  pkMaxSpecial: 7
+  pkMinInsight: 5
+  pkMaxInsight: 10
+  pkBaseHP: 7
+  pkRank: 5
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Ho-Oh
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 47e5ce46eab53b94887272800b8d7b32, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: c0d2a65ed5af3494cb6cf48a8de786da, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: a63ee1ca9e0a2384081ac517ccf91f72, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 7f141cb75e261924f91cb94cfe0d9aa1, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: ec9725def7f40fc47a155354ccd28da5, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 7ee0b3437afc2c349aed7a622451ea32, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 42ec298b3410fa64d8d4b239f66c427b, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 0bc1cb0c6a735604f8af2cfa6d975259, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 41eb9ed7b8333f34b8ffb40ed654e21a, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 8bdffe5b8f3c89e4fa88049761b5c712, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: cffe314c3af2a9544a7e2eeb15a6095c, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: eb133de4495530247944f80028a6c1d5, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: fb8e7c4a96bf5374b8b937c9a3900dda, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 43a4e2e737e7081479e1fdabf113f8be, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 688910edba2cd3a48aae5e3f80df0f8c, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 01e6e2c4c2601c649b824ff736ad86b6, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: e3e60eeec2779d146abfb4e1814f50f6, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 07d300d841fa0e84aad7ee0d6b997f95, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 3b9079bac60fcc44d8d34e73c5705fd7, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 9dc540053c8066c4bb406152442ba139, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 943c98a083c0e2749a1cd1e5167e31d1, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 9c1fb3b1e91c82e458d9ca4fa3a438fb, type: 2}
+    moveRank: 5

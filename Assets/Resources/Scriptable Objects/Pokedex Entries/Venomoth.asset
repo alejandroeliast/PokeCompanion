@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Venomoth
+  m_EditorClassIdentifier: 
+  pkID: 56
+  pkNumber: 49
+  pkName: Venomoth
+  pkSpecies: Poison Moth
+  pkType1: 6
+  pkType2: 3
+  pkHeight: 1.5
+  pkWeight: 12.5
+  pkAbility1: Shield Dust
+  pkAbility2: Tinted Lens
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Venonat
+  pkEvoName2: Venomoth
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 5
+  pkMinDexterity: 3
+  pkMaxDexterity: 6
+  pkMinVitality: 2
+  pkMaxVitality: 4
+  pkMinSpecial: 3
+  pkMaxSpecial: 6
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 5
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Venomoth
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 2cafb772a4d284a47ac4a727f4287e0b, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 834277cc18bbd684ca02ce3d4092ae73, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: cd21557d34f92f445a44c123257b0009, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 5d8689e0bbda3e74a812e07c5ce276cd, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: a80f9619cf37200458afd7dfdef45e7c, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: c59ca419fda3c86429c5b9e372c06b11, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 18ac5c3652432d247b8cf597d65e3406, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 03376c7e74b07354698049ba5931768a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 25af051100f9a444987085ca45a0bdbc, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b42e9aa93cf641547acd48f719217be0, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0c2741ddf4b24904894cb5569f4dd1c6, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 1539b32332c77554e8495455dad9fb6a, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: aa58b7144c9917741b196b0f0c0da787, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 30fe3456bf3fe094a89406d82f3adefa, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 2740374f2ade341449ff04081104d706, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 64d1aa77f9a5e5847884fe3583aa1de5, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 0f4848adab446884aa439e098b920736, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: b7113277b54a0794babbb6ebd359cab6, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 9dc540053c8066c4bb406152442ba139, type: 2}
+    moveRank: 4

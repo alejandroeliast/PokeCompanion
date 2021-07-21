@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Entei
+  m_EditorClassIdentifier: 
+  pkID: 262
+  pkNumber: 244
+  pkName: Entei
+  pkSpecies: Volcano
+  pkType1: 9
+  pkType2: 18
+  pkHeight: 2.1
+  pkWeight: 198
+  pkAbility1: Pressure
+  pkAbility2: Inner Focus
+  pkEvoStage: Unknown
+  pkEvoQty: 1
+  pkEvoName1: Entei
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 4
+  pkMaxStrength: 8
+  pkMinDexterity: 3
+  pkMaxDexterity: 7
+  pkMinVitality: 3
+  pkMaxVitality: 6
+  pkMinSpecial: 3
+  pkMaxSpecial: 6
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 8
+  pkRank: 5
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Entei
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 20dc567a6affb014b8337354aca0efdc, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 33da7a454607ec84a915fb5e6d7e1cd9, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 3ffcd02cad762984a97ab38f37b4709e, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 3bbb183c43d79ec409b5db525494df64, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 9c491cd6c4318cf4a8802dd712a69bab, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 6439c74176289344baf6c548310eb393, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: ceb1f93f89737a74c8ba671f409808a3, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 492485de95594db4eb2a5d13aeafc622, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 6023dcdce65b8c1458499f0c36f9e8f5, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 2e7bf1797d8ce59488dd9efd57041108, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: a63ee1ca9e0a2384081ac517ccf91f72, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: ec9725def7f40fc47a155354ccd28da5, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: fb8e7c4a96bf5374b8b937c9a3900dda, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 690b5fc8c2405404fbcb1bb0e43ace11, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: e7e320988fe65b5478dccd115eb61032, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 8820458deb059f34b91a25e458eb1bf9, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 0e9bea30f271d7e48bf451044f4d4ce3, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 122ef8bccd839ba439f4b0a57d9cfa0e, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: b899eeaf7e8b0f643b283e12818008cc, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 062a6d7a9f6c5e342abcfc40f9ef61b8, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 7ee0b3437afc2c349aed7a622451ea32, type: 2}
+    moveRank: 5

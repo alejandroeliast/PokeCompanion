@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Teddiursa
+  m_EditorClassIdentifier: 
+  pkID: 234
+  pkNumber: 216
+  pkName: Teddiursa
+  pkSpecies: Little Bear
+  pkType1: 0
+  pkType2: 18
+  pkHeight: 0.6
+  pkWeight: 8.8
+  pkAbility1: Pickup
+  pkAbility2: Quick Feet
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Teddiursa
+  pkEvoName2: Ursaring
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 1
+  pkMaxDexterity: 3
+  pkMinVitality: 2
+  pkMaxVitality: 4
+  pkMinSpecial: 2
+  pkMaxSpecial: 4
+  pkMinInsight: 2
+  pkMaxInsight: 4
+  pkBaseHP: 5
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Teddiursa
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 917f1549983cc054f9bc60a5f504fafc, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 20ea0ac91148d334bb7220bd466dfe0f, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 895593bc103b21e48835a95fb691263f, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 415a05bab71fdd94d94dbdcc37038b06, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: c340eb70dda2de4409d33e8569285805, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 336c0e1ed4f55084791243e6775f036e, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: b0c076efb992b3e419e17e8c0759cd3c, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 76039cfdcba18084f979b66575a1e3c3, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 90e7540be4428bc458152d9b761bf469, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 3dfec7a5d2fd8534fb9d3ae6a2f13966, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e41f6b66c24c8894aa34c774ddf8c3e6, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 51a57a5f158b76b47b360697729bf929, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6ea62291b868ef84aa1eda2ee83d5b42, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: d872f28887ce94f4e9c0052e4f28d0ec, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 90b9a8eabc1b7c74aa4d87fca91c0e37, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: c8d6a1464da58be448ee8a36d04c1329, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 591891e3c095ab14498a863e1ba53fce, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 3c36c763e90ef8844a15435683ebf87d, type: 2}
+    moveRank: 4

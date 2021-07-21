@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Celebi
+  m_EditorClassIdentifier: 
+  pkID: 269
+  pkNumber: 251
+  pkName: Celebi
+  pkSpecies: Time Travel
+  pkType1: 13
+  pkType2: 11
+  pkHeight: 0.6
+  pkWeight: 5
+  pkAbility1: Natural Cure
+  pkAbility2: '-'
+  pkEvoStage: Unknown
+  pkEvoQty: 1
+  pkEvoName1: Celebi
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 3
+  pkMaxDexterity: 6
+  pkMinVitality: 3
+  pkMaxVitality: 6
+  pkMinSpecial: 3
+  pkMaxSpecial: 6
+  pkMinInsight: 3
+  pkMaxInsight: 6
+  pkBaseHP: 6
+  pkRank: 5
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Celebi
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 3bfcd484e8bb01242bb5304597246b59, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: cd21557d34f92f445a44c123257b0009, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 8bdffe5b8f3c89e4fa88049761b5c712, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 06503952d288f65498627706d6a499b3, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 41eb9ed7b8333f34b8ffb40ed654e21a, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 4ca92eb393975a444ada374966c9045a, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 0bc1cb0c6a735604f8af2cfa6d975259, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 8b7a85bc17480d6428ad056c753d5de8, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: eb133de4495530247944f80028a6c1d5, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 3d2df4cd927a6064e906d8e1da474783, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: cffe314c3af2a9544a7e2eeb15a6095c, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: da852b7855a6d7b4b976cae618a4ed04, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 1c98a1f4d6e33ae49a149f83325037eb, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 100c35a8e6481024ea0240ecc687028d, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: e7e320988fe65b5478dccd115eb61032, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 019a775e12757904b9f26f69a7a91479, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 20584d2575eebb44f830c7b9534201bb, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 94fcd3a36e60ae14eaa83479c886fbbe, type: 2}
+    moveRank: 5

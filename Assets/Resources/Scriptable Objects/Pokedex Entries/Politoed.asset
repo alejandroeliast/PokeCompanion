@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Politoed
+  m_EditorClassIdentifier: 
+  pkID: 204
+  pkNumber: 186
+  pkName: Politoed
+  pkSpecies: Frog
+  pkType1: 10
+  pkType2: 18
+  pkHeight: 1.1
+  pkWeight: 33.9
+  pkAbility1: Water Absorb
+  pkAbility2: Damp
+  pkEvoStage: Final
+  pkEvoQty: 3
+  pkEvoName1: Poliwag
+  pkEvoName2: Poliwhirl
+  pkEvoName3: Politoed
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 5
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 3
+  pkMaxSpecial: 6
+  pkMinInsight: 3
+  pkMaxInsight: 7
+  pkBaseHP: 6
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Politoed
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 82816cc0d1ab3a14db97ee8245de428d, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3d6cce0b34ecef245b3dddaa15f363be, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: e5c0c24fd84637845934917b8603e119, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 100c35a8e6481024ea0240ecc687028d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 492485de95594db4eb2a5d13aeafc622, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 9721d3641ebfeeb41803d3b44a428fca, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 024fd576ef2e17f4cb5da3d366b7e684, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 496a038034af4464fb44ec14b592b7a2, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 73685a6d6fe9c6a45b785bda3db35444, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: eb80562393aeb4749aa03b1d310701e3, type: 2}
+    moveRank: 4

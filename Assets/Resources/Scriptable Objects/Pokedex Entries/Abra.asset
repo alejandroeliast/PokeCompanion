@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Abra
+  m_EditorClassIdentifier: 
+  pkID: 74
+  pkNumber: 63
+  pkName: Abra
+  pkSpecies: Psi
+  pkType1: 13
+  pkType2: 18
+  pkHeight: 0.9
+  pkWeight: 19.5
+  pkAbility1: Synchronize
+  pkAbility2: Inner Focus
+  pkEvoStage: First
+  pkEvoQty: 3
+  pkEvoName1: Abra
+  pkEvoName2: Kadabra
+  pkEvoName3: Alakazam
+  pkEvoMethod: 1
+  pkMinStrength: 1
+  pkMaxStrength: 2
+  pkMinDexterity: 3
+  pkMaxDexterity: 7
+  pkMinVitality: 1
+  pkMaxVitality: 2
+  pkMinSpecial: 4
+  pkMaxSpecial: 8
+  pkMinInsight: 2
+  pkMaxInsight: 4
+  pkBaseHP: 3
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Abra
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 4443dc5d5c5f5e44e84b02f7c02feb79, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: b899eeaf7e8b0f643b283e12818008cc, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: aa58b7144c9917741b196b0f0c0da787, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 7f10f96723cac3d449f14f0f9a62f3e2, type: 2}
+    moveRank: 3

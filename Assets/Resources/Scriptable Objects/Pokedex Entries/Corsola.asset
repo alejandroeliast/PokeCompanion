@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Corsola
+  m_EditorClassIdentifier: 
+  pkID: 240
+  pkNumber: 222
+  pkName: Corsola
+  pkSpecies: Coral
+  pkType1: 10
+  pkType2: 5
+  pkHeight: 0.6
+  pkWeight: 5
+  pkAbility1: Hustle
+  pkAbility2: Natural Cure
+  pkEvoStage: Final
+  pkEvoQty: 1
+  pkEvoName1: Corsola
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 1
+  pkMaxDexterity: 3
+  pkMinVitality: 3
+  pkMaxVitality: 7
+  pkMinSpecial: 2
+  pkMaxSpecial: 5
+  pkMinInsight: 3
+  pkMaxInsight: 7
+  pkBaseHP: 5
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Corsola
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 84269899583a55848916403959f53cb7, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 2c3e7e234dc9c0343b5f62d6ed82991e, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 8bdffe5b8f3c89e4fa88049761b5c712, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: eb80562393aeb4749aa03b1d310701e3, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 82816cc0d1ab3a14db97ee8245de428d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0bc1cb0c6a735604f8af2cfa6d975259, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6f16de714754fb04193beb6794e1e216, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d178cd90df995014bbc9860cdbc8db47, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6b6578af842e865479f8b03bff3ccf3e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a567a4649ed41ac499d0c04db94a467f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 585eee227c5f38546bfe21671fc87905, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: af12b969ca81b9d4387bbbffbac59690, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 10ebfc86b7f07f24e84ef64c6f60911a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: fa00c418465a000409b99112eff9bbbf, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 85c883beb2672f8418e8a0f3f82d5764, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e061db0e6a7c6ca4797ce3e01d97e523, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 404250e085458b74888e2f8eafc78604, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 9d195155b20f02b4b980890ae61b1e01, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 7460e2f2d06b7cc4997f80de844a385a, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: f6587c7409883a242b641c6db3a1fcc9, type: 2}
+    moveRank: 4

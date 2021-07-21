@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Horsea
+  m_EditorClassIdentifier: 
+  pkID: 134
+  pkNumber: 116
+  pkName: Horsea
+  pkSpecies: Dragon
+  pkType1: 10
+  pkType2: 18
+  pkHeight: 0.4
+  pkWeight: 8
+  pkAbility1: Swift Swim
+  pkAbility2: Sniper
+  pkEvoStage: First
+  pkEvoQty: 3
+  pkEvoName1: Horsea
+  pkEvoName2: Seadra
+  pkEvoName3: Kingdra
+  pkEvoMethod: 2
+  pkMinStrength: 1
+  pkMaxStrength: 3
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 3
+  pkMaxVitality: 6
+  pkMinSpecial: 3
+  pkMaxSpecial: 6
+  pkMinInsight: 1
+  pkMaxInsight: 2
+  pkBaseHP: 3
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Horsea
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: c54b1d3699417e949b44d642065e3133, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 2e62b50783bb7e64dace18442cefdc20, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 33da7a454607ec84a915fb5e6d7e1cd9, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 2c3e7e234dc9c0343b5f62d6ed82991e, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 7b3c226f2cebdea41b6ee0f3e6d17918, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 82816cc0d1ab3a14db97ee8245de428d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 4abfe0b695c724344b7e101cabfc31e0, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6b6578af842e865479f8b03bff3ccf3e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 2878940fbe10ad34292665e873e2b868, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: f4571d72e63e674458f0f3ead5bbc839, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: aa3f559ef0e2596478ec7b4f5fe9590e, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 70560ce0e9cfab64ebd8c316c764fdf9, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: aa58b7144c9917741b196b0f0c0da787, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: cd22da00198bbef429589a58bd1d32ac, type: 2}
+    moveRank: 4

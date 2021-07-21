@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Delibird
+  m_EditorClassIdentifier: 
+  pkID: 243
+  pkNumber: 225
+  pkName: Delibird
+  pkSpecies: Delivery
+  pkType1: 14
+  pkType2: 2
+  pkHeight: 0.9
+  pkWeight: 16
+  pkAbility1: Hustle
+  pkAbility2: Vital Spirit
+  pkEvoStage: Final
+  pkEvoQty: 1
+  pkEvoName1: Delibird
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 3
+  pkMaxDexterity: 6
+  pkMinVitality: 1
+  pkMaxVitality: 3
+  pkMinSpecial: 2
+  pkMaxSpecial: 5
+  pkMinInsight: 1
+  pkMaxInsight: 3
+  pkBaseHP: 3
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Delibird
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: dabe10f0792618641b293aeaa9a33634, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 47fc7ea0cdb903246a1b4585e0bf906c, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 73685a6d6fe9c6a45b785bda3db35444, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 0979d35266821a64da78c34cad2afd9c, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a47c9657c1080c044a4162ee3f4ed220, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: aca303e9eed43ee4487e1689d90c0849, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: cb4f59de7cfb1604b91a2fe769e1cdff, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: cffe314c3af2a9544a7e2eeb15a6095c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 065766f167c504c40ae83c779d3071ba, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: b1ba6288b1e20b741b355b4b598ff6e3, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 43a4e2e737e7081479e1fdabf113f8be, type: 2}
+    moveRank: 4

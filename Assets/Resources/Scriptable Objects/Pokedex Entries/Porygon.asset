@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Porygon
+  m_EditorClassIdentifier: 
+  pkID: 155
+  pkNumber: 137
+  pkName: Porygon
+  pkSpecies: Virtual
+  pkType1: 0
+  pkType2: 18
+  pkHeight: 0.8
+  pkWeight: 36.5
+  pkAbility1: Trace
+  pkAbility2: Download
+  pkEvoStage: First
+  pkEvoQty: 3
+  pkEvoName1: Porygon
+  pkEvoName2: Porygon2
+  pkEvoName3: Porygon-Z
+  pkEvoMethod: 13
+  pkMinStrength: 2
+  pkMaxStrength: 5
+  pkMinDexterity: 1
+  pkMaxDexterity: 3
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 3
+  pkMaxSpecial: 7
+  pkMinInsight: 3
+  pkMaxInsight: 6
+  pkBaseHP: 5
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Porygon
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 205c06aa688b03343a5c49e7fbde487d, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: d31cf8806cfdcc9428ae79b610c2c0a8, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 169d6244a3903e340bcada46d6b7fdd5, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 0c2741ddf4b24904894cb5569f4dd1c6, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 8bdffe5b8f3c89e4fa88049761b5c712, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 77b7605bb1498244bac4d86a1bbe2285, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: aa58b7144c9917741b196b0f0c0da787, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: dbb5c57b837e0ba4aab31ef952d82f22, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 98dfdd60158fd524c89854877f5f0a17, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a65e82d41b2918c4f82bb42f49bf3d9d, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: db29782718449694b93265ef781934a1, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 9e73be0078beb6440a61ad11a84d7384, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: af474387e9efc2c458a5451eb334c39f, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 1fabd1cb3be704047aa43172d3c362e5, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 92ceefae7c70d044eb3ce752aaf7375d, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: e686bf5002ef2a041874f43a3e498a16, type: 2}
+    moveRank: 4

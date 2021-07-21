@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Lapras
+  m_EditorClassIdentifier: 
+  pkID: 149
+  pkNumber: 131
+  pkName: Lapras
+  pkSpecies: Transport
+  pkType1: 10
+  pkType2: 14
+  pkHeight: 2.5
+  pkWeight: 220
+  pkAbility1: Shell Armor
+  pkAbility2: Water Absorb
+  pkEvoStage: Final
+  pkEvoQty: 1
+  pkEvoName1: Lapras
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 2
+  pkMaxDexterity: 4
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 3
+  pkMaxSpecial: 6
+  pkMinInsight: 3
+  pkMaxInsight: 6
+  pkBaseHP: 9
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Lapras
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: a9ffea4fd89c1b442be812ef73afc6e8, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 6a85edb63ba95fa42bd2d825c9755aa8, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: c54b1d3699417e949b44d642065e3133, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: fdb17e29d73f20344bc1d82520fad42f, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: b1557acea6195eb4083897ebde916172, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b1ba6288b1e20b741b355b4b598ff6e3, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: d5b1eca039b41ea4c958e3a07f66e508, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 9685227198b57c0468c72689c5ec3a89, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0272d8b4b90630a499f2a3f7f69c1bb7, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6b6578af842e865479f8b03bff3ccf3e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 2688213d04130c54aa7781b7c0bf61a4, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 100c35a8e6481024ea0240ecc687028d, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 41eb9ed7b8333f34b8ffb40ed654e21a, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 2878940fbe10ad34292665e873e2b868, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: b7b5d2f22f78fc042910bdbbc6784ecc, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: f4571d72e63e674458f0f3ead5bbc839, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: cb4f59de7cfb1604b91a2fe769e1cdff, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 5395f840ebde6ff49bd3e4148a91c6e2, type: 2}
+    moveRank: 4

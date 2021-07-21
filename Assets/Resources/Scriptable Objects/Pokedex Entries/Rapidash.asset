@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Rapidash
+  m_EditorClassIdentifier: 
+  pkID: 92
+  pkNumber: 78
+  pkName: Rapidash
+  pkSpecies: Fire Horse
+  pkType1: 9
+  pkType2: 18
+  pkHeight: 1.7
+  pkWeight: 95
+  pkAbility1: Run Away
+  pkAbility2: Flash Fire
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Ponyta
+  pkEvoName2: Rapidash
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 7
+  pkMinDexterity: 3
+  pkMaxDexterity: 7
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 2
+  pkMaxSpecial: 5
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 4
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Rapidash
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 3ffcd02cad762984a97ab38f37b4709e, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 6a85edb63ba95fa42bd2d825c9755aa8, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 698b6929e48271d42bf90ae90787caad, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: d637a18ecf6045144a0877b1d4d8c3dc, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: c1ad3a1ba87db5c4cbfd467ef44bb822, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 6d35ef55d7f41614b9df91e981f03649, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 980db6b5f7d8d104a8304c462bdaf936, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6439c74176289344baf6c548310eb393, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: df102d524c8fad944969f47027413fbb, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 9c491cd6c4318cf4a8802dd712a69bab, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: f6a3208b9e594564db2a2a56435b18d1, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: bd1f8d12b3a059b4a8137cc8f466be65, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e6203bec0965ea84d8782e66e1b44d07, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: ec9725def7f40fc47a155354ccd28da5, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 9721d3641ebfeeb41803d3b44a428fca, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 8a11355ff96ec9d44ad3768380edf787, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 94e806270bec01142ad82bcd864469a9, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: b7113277b54a0794babbb6ebd359cab6, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 2e9009005d74fba4ab2a30c7acb0f23f, type: 2}
+    moveRank: 4

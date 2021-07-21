@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Wooper
+  m_EditorClassIdentifier: 
+  pkID: 212
+  pkNumber: 194
+  pkName: Wooper
+  pkSpecies: Water Fish
+  pkType1: 10
+  pkType2: 4
+  pkHeight: 0.4
+  pkWeight: 8.5
+  pkAbility1: Water Absorb
+  pkAbility2: Damp
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Wooper
+  pkEvoName2: Quagsire
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 1
+  pkMaxDexterity: 2
+  pkMinVitality: 2
+  pkMaxVitality: 4
+  pkMinSpecial: 1
+  pkMaxSpecial: 2
+  pkMinInsight: 1
+  pkMaxInsight: 2
+  pkBaseHP: 5
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Wooper
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: c54b1d3699417e949b44d642065e3133, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: d637a18ecf6045144a0877b1d4d8c3dc, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: a10122757e3696949b8eb954cd6c6aef, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 496a038034af4464fb44ec14b592b7a2, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: a280b9fc1e0566541b137c3311f67ffc, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: c9cecbb4320791e4f996e7c2095b0c72, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: dc0b468041649724b9bcd0007a04027e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 3c36c763e90ef8844a15435683ebf87d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: fdb17e29d73f20344bc1d82520fad42f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b684e929e39c6424c8017a0d92e3050e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0272d8b4b90630a499f2a3f7f69c1bb7, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: a810e2479d8eee8498107c840882686c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 4e767ec14f830b24ea602595f2bc628d, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 062a6d7a9f6c5e342abcfc40f9ef61b8, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 0bc1cb0c6a735604f8af2cfa6d975259, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 1eef5eb889f1c45479e669438ab30a21, type: 2}
+    moveRank: 4

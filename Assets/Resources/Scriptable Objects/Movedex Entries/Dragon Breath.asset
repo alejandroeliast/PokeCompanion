@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71e1a6fa9cdf5c443b91caf772d9f4da, type: 3}
+  m_Name: Dragon Breath
+  m_EditorClassIdentifier: 
+  moveID: 74
+  moveName: Dragon Breath
+  moveType: 15
+  movePower: 2
+  moveCategory: 1
+  moveRange: 1
+  moveAccuracy1: 1
+  moveAccuracy2: 11
+  moveDamage: 3
+  moveEff1: 6
+  moveMod1: 16
+  moveEff2: 47
+  moveMod2: 8
+  moveEff3: 63
+  moveMod3: 30
+  moveEff4: 63
+  moveMod4: 30
+  moveEff5: 63
+  moveMod5: 30
+  moveEff6: 63
+  moveMod6: 30

@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Miltank
+  m_EditorClassIdentifier: 
+  pkID: 259
+  pkNumber: 241
+  pkName: Miltank
+  pkSpecies: Milk Cow
+  pkType1: 0
+  pkType2: 18
+  pkHeight: 1.2
+  pkWeight: 75.5
+  pkAbility1: Scrappy
+  pkAbility2: Thick Fat
+  pkEvoStage: Final
+  pkEvoQty: 1
+  pkEvoName1: Miltank
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 3
+  pkMaxDexterity: 7
+  pkMinVitality: 4
+  pkMaxVitality: 8
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 7
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Miltank
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 6a85edb63ba95fa42bd2d825c9755aa8, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 591891e3c095ab14498a863e1ba53fce, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 6439c74176289344baf6c548310eb393, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 3997453928711b24eac15147f2301a48, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: f1922214776ef6041b7e7337c0702351, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a086dccb2d7e07f47ad0eb3f8ea9649b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 9685227198b57c0468c72689c5ec3a89, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 30fe3456bf3fe094a89406d82f3adefa, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 49e83567a686da14eb55c628d072952d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: db4f318a50393c545b6bb947df168cd7, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 06503952d288f65498627706d6a499b3, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: a720701353ae31148bccbb2d6d06f77b, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: bbc17ccf8ca075948a2009bb940acf3c, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 680de47a7aec6454c8110b6a35e96f95, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 7164829d6a1163640a1cc25e9f79b8f2, type: 2}
+    moveRank: 4

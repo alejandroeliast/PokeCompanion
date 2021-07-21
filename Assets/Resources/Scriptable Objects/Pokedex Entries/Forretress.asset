@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Forretress
+  m_EditorClassIdentifier: 
+  pkID: 223
+  pkNumber: 205
+  pkName: Forretress
+  pkSpecies: Bagworm
+  pkType1: 6
+  pkType2: 8
+  pkHeight: 1.2
+  pkWeight: 125.8
+  pkAbility1: Sturdy
+  pkAbility2: '-'
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Pineco
+  pkEvoName2: Forretress
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 1
+  pkMaxDexterity: 3
+  pkMinVitality: 5
+  pkMaxVitality: 10
+  pkMinSpecial: 2
+  pkMaxSpecial: 4
+  pkMinInsight: 2
+  pkMaxInsight: 4
+  pkBaseHP: 5
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Forretress
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: f53c3da49d967c34299d9db48f146a70, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 781ed9ea057daac4fbc5c1915e0b4bdf, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 4a65ae7e1be98d6498d86dc4e2187553, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 56423e53a607fc344b2cac02f8c2b8cb, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: af474387e9efc2c458a5451eb334c39f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6d35ef55d7f41614b9df91e981f03649, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: c4ca14624e5cffb48b317997319ea343, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: f1922214776ef6041b7e7337c0702351, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: eb133de4495530247944f80028a6c1d5, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0979d35266821a64da78c34cad2afd9c, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a3cb0f347d7674341a0c6bcabedf4530, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: f5add791c4323e144a5dde68c512001d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ee27206e37f50c14095a362f43473c69, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a567a4649ed41ac499d0c04db94a467f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 77b7605bb1498244bac4d86a1bbe2285, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e528c05d0a8e78a4ebd778f1d6084f53, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 807d4c74c5671f04d952c891d079930c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: db4f318a50393c545b6bb947df168cd7, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 48bdb4d194f7e04449bbb416e69487dd, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 8faf3c25b9b36dd4f82cf229eee53c35, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: ae16911c0178f9f4eb009c7040ff53b0, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: af12b969ca81b9d4387bbbffbac59690, type: 2}
+    moveRank: 4

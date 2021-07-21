@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Meowth Alola
+  m_EditorClassIdentifier: 
+  pkID: 62
+  pkNumber: 52
+  pkName: Meowth Alola
+  pkSpecies: Scratch Cat
+  pkType1: 16
+  pkType2: 18
+  pkHeight: 0.4
+  pkWeight: 4
+  pkAbility1: Pickup
+  pkAbility2: Technician
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Meowth Alola
+  pkEvoName2: Persian Alola
+  pkEvoName3: None
+  pkEvoMethod: 1
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 4
+  pkMaxDexterity: 8
+  pkMinVitality: 1
+  pkMaxVitality: 3
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 1
+  pkMaxInsight: 3
+  pkBaseHP: 3
+  pkRank: 1
+  pkOrigin: Alolan
+  pkVariantAmount: 2
+  pkVariantNames:
+  - Meowth
+  - Meowth Alola
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 20ea0ac91148d334bb7220bd466dfe0f, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 6a85edb63ba95fa42bd2d825c9755aa8, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 20dc567a6affb014b8337354aca0efdc, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 47fc7ea0cdb903246a1b4585e0bf906c, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: b0c076efb992b3e419e17e8c0759cd3c, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 7460e2f2d06b7cc4997f80de844a385a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 76039cfdcba18084f979b66575a1e3c3, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 9cf278a21fb3cc144b5221b409aa6e9b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 075a0fc9f147db142b4c1991f06c8bde, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e41f6b66c24c8894aa34c774ddf8c3e6, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 3fa998c57b353be4fbb39480ec8d0605, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 1f6ad188b11a75a4982f3519210c4d30, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 49e83567a686da14eb55c628d072952d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 5802b78130a7ab34783284bc9004ee0f, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 1c5888dd3464a3140991bdcabace0e74, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 1323313e417b5df479227dd27902707b, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 51a57a5f158b76b47b360697729bf929, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 4433ddfdcfa5bce4ba6f64d4a5fb1393, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: cb39f8044f096e94e8443933fdc15075, type: 2}
+    moveRank: 4

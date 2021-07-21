@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Rhydon
+  m_EditorClassIdentifier: 
+  pkID: 130
+  pkNumber: 112
+  pkName: Rhydon
+  pkSpecies: Drill
+  pkType1: 4
+  pkType2: 5
+  pkHeight: 1.9
+  pkWeight: 120
+  pkAbility1: Rock Head
+  pkAbility2: Lightningrod
+  pkEvoStage: Second
+  pkEvoQty: 3
+  pkEvoName1: Rhyhorn
+  pkEvoName2: Rhydon
+  pkEvoName3: Rhyperior
+  pkEvoMethod: 13
+  pkMinStrength: 4
+  pkMaxStrength: 9
+  pkMinDexterity: 1
+  pkMaxDexterity: 3
+  pkMinVitality: 4
+  pkMaxVitality: 9
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 1
+  pkMaxInsight: 3
+  pkBaseHP: 8
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Rhydon
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 9eb0ebd227614604b86173b5005fa0d7, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: d637a18ecf6045144a0877b1d4d8c3dc, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 6439c74176289344baf6c548310eb393, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: f6a3208b9e594564db2a2a56435b18d1, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: cb25aa1d81629564eb8add717be753e7, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 4f09c4db73a6799429e9dac57e9dc238, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 585eee227c5f38546bfe21671fc87905, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ea96f3c35a0d84049b55e54132ab45f1, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: af5f97c08d6b6e2499e21af9fc074a1f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6d35ef55d7f41614b9df91e981f03649, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 2e9009005d74fba4ab2a30c7acb0f23f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e497865b0027f6240ab7a2e63ca8cf36, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 8397ea42c11b50f47b27b5b31d909247, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 4e767ec14f830b24ea602595f2bc628d, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 94e806270bec01142ad82bcd864469a9, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e6203bec0965ea84d8782e66e1b44d07, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 55bb98b76c903af4d841a3b4c70bad08, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: cf814d3f2d92cf04d93040c97b2d3185, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 7f7f1157c8fb77e4d85a5f7f8857b2f4, type: 2}
+    moveRank: 4

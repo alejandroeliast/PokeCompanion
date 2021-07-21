@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Espeon
+  m_EditorClassIdentifier: 
+  pkID: 214
+  pkNumber: 196
+  pkName: Espeon
+  pkSpecies: Sun
+  pkType1: 13
+  pkType2: 18
+  pkHeight: 0.9
+  pkWeight: 26.5
+  pkAbility1: Synchronize
+  pkAbility2: '-'
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Eevee
+  pkEvoName2: Espeon
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 3
+  pkMaxDexterity: 7
+  pkMinVitality: 2
+  pkMaxVitality: 4
+  pkMinSpecial: 4
+  pkMaxSpecial: 9
+  pkMinInsight: 3
+  pkMaxInsight: 6
+  pkBaseHP: 4
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Espeon
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: d637a18ecf6045144a0877b1d4d8c3dc, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 680de47a7aec6454c8110b6a35e96f95, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 286cda9e847db1b438176b3192c73694, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: cd21557d34f92f445a44c123257b0009, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 698b6929e48271d42bf90ae90787caad, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: e1493b16215c91f4d826ffbdcbd9562d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0c2741ddf4b24904894cb5569f4dd1c6, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: cffe314c3af2a9544a7e2eeb15a6095c, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 435aabe344b10ca438e4249d764fd064, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: b7113277b54a0794babbb6ebd359cab6, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 64d1aa77f9a5e5847884fe3583aa1de5, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 9265be4186d791b499e1acf51082cd17, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 64de0afee0b2f704cb38cbaa4d4ac785, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: a5377609f80a3334bb17a642f70e3ff2, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 06503952d288f65498627706d6a499b3, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 779e697fabe51b348822a79cda57b996, type: 2}
+    moveRank: 4

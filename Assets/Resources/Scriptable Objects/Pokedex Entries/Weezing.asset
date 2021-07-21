@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Weezing
+  m_EditorClassIdentifier: 
+  pkID: 128
+  pkNumber: 110
+  pkName: Weezing
+  pkSpecies: Poison Gas
+  pkType1: 3
+  pkType2: 18
+  pkHeight: 1.2
+  pkWeight: 9.5
+  pkAbility1: Levitate
+  pkAbility2: Neutralizing Gas
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Koffing
+  pkEvoName2: Weezing
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 2
+  pkMaxDexterity: 4
+  pkMinVitality: 4
+  pkMaxVitality: 9
+  pkMinSpecial: 3
+  pkMaxSpecial: 6
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 5
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Weezing
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 18eefa294452240499c483a76cd5037f, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 0a87d3b3fae4f9f4c83c24820d6e77c8, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 2e62b50783bb7e64dace18442cefdc20, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: cee8efddafbce0e49944653f02171c08, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 1323313e417b5df479227dd27902707b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: fb4ad7f2ffef8fc488efa1f4efeb4d3e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 4a65ae7e1be98d6498d86dc4e2187553, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a810e2479d8eee8498107c840882686c, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 90002f3c330376640a0db3694ea461be, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: f2c1a9aebe1edb6459d2e0542a2322d9, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e528c05d0a8e78a4ebd778f1d6084f53, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 0dc6055d89718964e93a1086fb47dbc9, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: bbc17ccf8ca075948a2009bb940acf3c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 7e7fd712d5bb89041bf427736a8a6efe, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 56423e53a607fc344b2cac02f8c2b8cb, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: e686bf5002ef2a041874f43a3e498a16, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 0c2741ddf4b24904894cb5569f4dd1c6, type: 2}
+    moveRank: 4

@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Heracross
+  m_EditorClassIdentifier: 
+  pkID: 232
+  pkNumber: 214
+  pkName: Heracross
+  pkSpecies: Singlehorn
+  pkType1: 6
+  pkType2: 1
+  pkHeight: 1.5
+  pkWeight: 54
+  pkAbility1: Guts
+  pkAbility2: Swarm
+  pkEvoStage: Final
+  pkEvoQty: 1
+  pkEvoName1: Heracross
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 4
+  pkMaxStrength: 8
+  pkMinDexterity: 3
+  pkMaxDexterity: 6
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 3
+  pkMaxInsight: 6
+  pkBaseHP: 5
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 2
+  pkVariantNames:
+  - Heracross
+  - Mega Heracross
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: af12b969ca81b9d4387bbbffbac59690, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 9eb0ebd227614604b86173b5005fa0d7, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 33da7a454607ec84a915fb5e6d7e1cd9, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 5802b78130a7ab34783284bc9004ee0f, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: f6a3208b9e594564db2a2a56435b18d1, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 555bd4f0043a5324a8807c9a758c3816, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: f9d5648b157b8f34f8307fb24fb64c12, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0b188c8a40d412b46bb6ec657b42610b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: af5f97c08d6b6e2499e21af9fc074a1f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e141e6efd8dd5ee4ba011be0625efb1a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e601d6e3d8f443541b24a268a66f5651, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6d35ef55d7f41614b9df91e981f03649, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: df1a91e151faace4d8c11967bad0db22, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 78963af5a66168746b739e22206859d1, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 1c5888dd3464a3140991bdcabace0e74, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e30c2c73e0d26d243bca6925106b8f5c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e6203bec0965ea84d8782e66e1b44d07, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 585eee227c5f38546bfe21671fc87905, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: be554023cfd1e274ba3a8fb176354e98, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: a567a4649ed41ac499d0c04db94a467f, type: 2}
+    moveRank: 4

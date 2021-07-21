@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Slugma
+  m_EditorClassIdentifier: 
+  pkID: 236
+  pkNumber: 218
+  pkName: Slugma
+  pkSpecies: Lava
+  pkType1: 9
+  pkType2: 18
+  pkHeight: 0.7
+  pkWeight: 35
+  pkAbility1: Flame Body
+  pkAbility2: Magma Armor
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Slugma
+  pkEvoName2: Magcargo
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 1
+  pkMaxStrength: 3
+  pkMinDexterity: 1
+  pkMaxDexterity: 2
+  pkMinVitality: 1
+  pkMaxVitality: 3
+  pkMinSpecial: 3
+  pkMaxSpecial: 6
+  pkMinInsight: 1
+  pkMaxInsight: 3
+  pkBaseHP: 3
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Slugma
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 0a87d3b3fae4f9f4c83c24820d6e77c8, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3c36c763e90ef8844a15435683ebf87d, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3ffcd02cad762984a97ab38f37b4709e, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 656f62c82951b2a46beb27e3c08bf34b, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 84269899583a55848916403959f53cb7, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 13ee2848d8825b34abebaeba5a79ac05, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: cee8efddafbce0e49944653f02171c08, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 8bdffe5b8f3c89e4fa88049761b5c712, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: c253aad7223590748bf0bb01b6a792ff, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0bc1cb0c6a735604f8af2cfa6d975259, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: dc0b468041649724b9bcd0007a04027e, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ceb1f93f89737a74c8ba671f409808a3, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 9685227198b57c0468c72689c5ec3a89, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 2e7bf1797d8ce59488dd9efd57041108, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 80aa3f7939bd3ed43bf835539585f356, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e061db0e6a7c6ca4797ce3e01d97e523, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 5b13ba4946660fb4eacbe5011316613f, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 2e62b50783bb7e64dace18442cefdc20, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 97c397666da9e6c428ea493ef51f0be7, type: 2}
+    moveRank: 4

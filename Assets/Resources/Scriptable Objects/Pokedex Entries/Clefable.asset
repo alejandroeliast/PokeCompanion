@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Clefable
+  m_EditorClassIdentifier: 
+  pkID: 41
+  pkNumber: 36
+  pkName: Clefable
+  pkSpecies: Fairy
+  pkType1: 17
+  pkType2: 18
+  pkHeight: 1.3
+  pkWeight: 40
+  pkAbility1: Cute Charm
+  pkAbility2: Magic Guard
+  pkEvoStage: Final
+  pkEvoQty: 3
+  pkEvoName1: Cleffa
+  pkEvoName2: Clefairy
+  pkEvoName3: Clefable
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 5
+  pkMinDexterity: 2
+  pkMaxDexterity: 4
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 3
+  pkMaxSpecial: 7
+  pkMinInsight: 3
+  pkMaxInsight: 6
+  pkBaseHP: 7
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Clefable
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: ed27cae4c4ece9942ab83fe93de78bd7, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: a9ffea4fd89c1b442be812ef73afc6e8, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 9edbe364f64966143a79bfcc345822af, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 5861dc646ad44b14c9c93f06abde738d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e5c0c24fd84637845934917b8603e119, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: bffffb81d94a0a941a6a1c0554face7f, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 7f10f96723cac3d449f14f0f9a62f3e2, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 44556dc182000ed47abd01f28c8050fd, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: a5377609f80a3334bb17a642f70e3ff2, type: 2}
+    moveRank: 4

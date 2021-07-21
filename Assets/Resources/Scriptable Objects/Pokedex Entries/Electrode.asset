@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Electrode
+  m_EditorClassIdentifier: 
+  pkID: 117
+  pkNumber: 101
+  pkName: Electrode
+  pkSpecies: Ball
+  pkType1: 12
+  pkType2: 18
+  pkHeight: 1.2
+  pkWeight: 66.6
+  pkAbility1: Soundproof
+  pkAbility2: Static
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Voltorb
+  pkEvoName2: Electrode
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 5
+  pkMaxDexterity: 10
+  pkMinVitality: 2
+  pkMaxVitality: 5
+  pkMinSpecial: 3
+  pkMaxSpecial: 6
+  pkMinInsight: 3
+  pkMaxInsight: 6
+  pkBaseHP: 4
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Electrode
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 0ce65b1c57b5d97498119d399004b47f, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 3f30766d03b2da044a5e6b0a0f5a06bd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: e42485a80fb2ebd47aa584cab16345a3, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 23182ddc0fb18aa4ea0a553470bcaf0c, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 46c11514cfde0214f8c3fe441d7359c2, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: cff788650528c094388bc78f66e8a58b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a086dccb2d7e07f47ad0eb3f8ea9649b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 7460e2f2d06b7cc4997f80de844a385a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 1e11d83c01f554a42b81de14091b0115, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 17f58db7249b0bd4da511315d786dc7d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 43a7b887dcd8a494e94b3ccc913d6aaa, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 4a65ae7e1be98d6498d86dc4e2187553, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e1493b16215c91f4d826ffbdcbd9562d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 98dfdd60158fd524c89854877f5f0a17, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 77b7605bb1498244bac4d86a1bbe2285, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: db4f318a50393c545b6bb947df168cd7, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e528c05d0a8e78a4ebd778f1d6084f53, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 85c883beb2672f8418e8a0f3f82d5764, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 92ceefae7c70d044eb3ce752aaf7375d, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 61d099b15cd88884995d4e23aace86f5, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: af12b969ca81b9d4387bbbffbac59690, type: 2}
+    moveRank: 4

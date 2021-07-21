@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Chansey
+  m_EditorClassIdentifier: 
+  pkID: 131
+  pkNumber: 113
+  pkName: Chansey
+  pkSpecies: Egg
+  pkType1: 0
+  pkType2: 18
+  pkHeight: 1.1
+  pkWeight: 34.6
+  pkAbility1: Natural Cure
+  pkAbility2: Serene Grace
+  pkEvoStage: Second
+  pkEvoQty: 3
+  pkEvoName1: Happiny
+  pkEvoName2: Chansey
+  pkEvoName3: Blissey
+  pkEvoMethod: 7
+  pkMinStrength: 1
+  pkMaxStrength: 2
+  pkMinDexterity: 2
+  pkMaxDexterity: 4
+  pkMinVitality: 1
+  pkMaxVitality: 2
+  pkMinSpecial: 1
+  pkMaxSpecial: 3
+  pkMinInsight: 4
+  pkMaxInsight: 8
+  pkBaseHP: 18
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Chansey
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: a623d679affd08c46b16a82d2f9bd23e, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 591891e3c095ab14498a863e1ba53fce, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: eb80562393aeb4749aa03b1d310701e3, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 6a85edb63ba95fa42bd2d825c9755aa8, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 16c28d6579a64314db96652474dcd5be, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: e5c0c24fd84637845934917b8603e119, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 44556dc182000ed47abd01f28c8050fd, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: bcb4d237db689b14aa85489e51f4b0a6, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 5861dc646ad44b14c9c93f06abde738d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6d35ef55d7f41614b9df91e981f03649, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a9ffea4fd89c1b442be812ef73afc6e8, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 336c0e1ed4f55084791243e6775f036e, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 48bdb4d194f7e04449bbb416e69487dd, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 2c5cae30ce2979843b7dbf48e2db031a, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 17f58db7249b0bd4da511315d786dc7d, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: da852b7855a6d7b4b976cae618a4ed04, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 06503952d288f65498627706d6a499b3, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 413040ad798408d4baa96d11b61b4449, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: dabe10f0792618641b293aeaa9a33634, type: 2}
+    moveRank: 4

@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Murkrow
+  m_EditorClassIdentifier: 
+  pkID: 216
+  pkNumber: 198
+  pkName: Murkrow
+  pkSpecies: Darkness
+  pkType1: 16
+  pkType2: 2
+  pkHeight: 0.5
+  pkWeight: 2.1
+  pkAbility1: Insomnia
+  pkAbility2: Super Luck
+  pkEvoStage: First
+  pkEvoQty: 2
+  pkEvoName1: Murkrow
+  pkEvoName2: Honchkrow
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 3
+  pkMaxDexterity: 7
+  pkMinVitality: 1
+  pkMaxVitality: 3
+  pkMinSpecial: 3
+  pkMaxSpecial: 6
+  pkMinInsight: 1
+  pkMaxInsight: 3
+  pkBaseHP: 4
+  pkRank: 1
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Murkrow
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: fbc3af7ec8d9c8a44a20e7670bf0df9f, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 560f6b10b32022a42a03d157a01f99cb, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 5a2d470e4ecbea14fa5546ff48903705, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: a810e2479d8eee8498107c840882686c, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 5b1fdbe6eb4349d43a756031960b8bc4, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 5741bfc90435c3d4d906e470a942bb71, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 1323313e417b5df479227dd27902707b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 9cf278a21fb3cc144b5221b409aa6e9b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 76039cfdcba18084f979b66575a1e3c3, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: aeae733992b14c040b6e6214a49d9957, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 92ceefae7c70d044eb3ce752aaf7375d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 0667e8b6220320b448f27578722312da, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 61d099b15cd88884995d4e23aace86f5, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 6bb7e71a210d91d49b2b217418e44c68, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 0b23d81f0dd656c438e3aae6fbe6caa5, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: aca303e9eed43ee4487e1689d90c0849, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 227f069f7ae201a46bf4356f2a161110, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 100c35a8e6481024ea0240ecc687028d, type: 2}
+    moveRank: 4

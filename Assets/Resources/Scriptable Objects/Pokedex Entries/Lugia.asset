@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Lugia
+  m_EditorClassIdentifier: 
+  pkID: 267
+  pkNumber: 249
+  pkName: Lugia
+  pkSpecies: Diving
+  pkType1: 13
+  pkType2: 2
+  pkHeight: 5.2
+  pkWeight: 216
+  pkAbility1: Pressure
+  pkAbility2: Multiscale
+  pkEvoStage: Unknown
+  pkEvoQty: 1
+  pkEvoName1: Lugia
+  pkEvoName2: None
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 3
+  pkMaxDexterity: 7
+  pkMinVitality: 4
+  pkMaxVitality: 8
+  pkMinSpecial: 3
+  pkMaxSpecial: 6
+  pkMinInsight: 5
+  pkMaxInsight: 10
+  pkBaseHP: 7
+  pkRank: 5
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Lugia
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 47e5ce46eab53b94887272800b8d7b32, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 55bb98b76c903af4d841a3b4c70bad08, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: a63ee1ca9e0a2384081ac517ccf91f72, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 0272d8b4b90630a499f2a3f7f69c1bb7, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 2878940fbe10ad34292665e873e2b868, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 2db99011a20afbb42b6c690a75a07bf7, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 42ec298b3410fa64d8d4b239f66c427b, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 0bc1cb0c6a735604f8af2cfa6d975259, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 41eb9ed7b8333f34b8ffb40ed654e21a, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 8bdffe5b8f3c89e4fa88049761b5c712, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: cffe314c3af2a9544a7e2eeb15a6095c, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: eb133de4495530247944f80028a6c1d5, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: fb8e7c4a96bf5374b8b937c9a3900dda, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 43a4e2e737e7081479e1fdabf113f8be, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 688910edba2cd3a48aae5e3f80df0f8c, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 01e6e2c4c2601c649b824ff736ad86b6, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 19df87e44fe6177408d155a02c1325d7, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 4abfe0b695c724344b7e101cabfc31e0, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 3b9079bac60fcc44d8d34e73c5705fd7, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 9dc540053c8066c4bb406152442ba139, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 943c98a083c0e2749a1cd1e5167e31d1, type: 2}
+    moveRank: 5
+  - moveData: {fileID: 11400000, guid: 8acb48fa1f38d9449ab2242bdb74601d, type: 2}
+    moveRank: 5

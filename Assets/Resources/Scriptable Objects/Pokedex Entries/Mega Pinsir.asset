@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Mega Pinsir
+  m_EditorClassIdentifier: 
+  id: 127
+  namePoke: Mega Pinsir
+  species: Stagbeetle
+  type1: 6
+  type2: 2
+  height: 1.7
+  weight: 59
+  ability1: Aerialate
+  ability2: '-'
+  evoStage: Mega Evolution
+  evoQty: 2
+  evoName1: Pinsir
+  evoName2: Mega Pinsir
+  evoName3: None
+  evoMethod: 15
+  minStrength: 5
+  maxStrength: 10
+  minDexterity: 3
+  maxDexterity: 7
+  minVitality: 4
+  maxVitality: 8
+  minSpecial: 2
+  maxSpecial: 4
+  minInsight: 3
+  maxInsight: 6
+  baseHP: 4
+  rank: 3
+  origin: Mega
+  variants: 2
+  varNames:
+  - Pinsir
+  - Mega Pinsir
+  moves:
+  - moveData: {fileID: 11400000, guid: dcde694b91b5f6f4eb271bcf52a8b730, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 7b3c226f2cebdea41b6ee0f3e6d17918, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 5aac1ec6f9d3c1644b28d298c86ed976, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 413040ad798408d4baa96d11b61b4449, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 84269899583a55848916403959f53cb7, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 79cffd3a4eed17e4eacdd229831348f3, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e601d6e3d8f443541b24a268a66f5651, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 99625432ee3ce1641b7503b30cba6293, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 90002f3c330376640a0db3694ea461be, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: f910bef4d56dbe9428b9d986c3d50602, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 15509373b0aefb2499d2f1ff7adc51a1, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ccc7c415240f12742ba697779f358996, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 90b9a8eabc1b7c74aa4d87fca91c0e37, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 07ee6958ba9870741a0f482f2e394545, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e2aee787a43bac34b92f08c28b0ac066, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 15dd8627f7f19754cb9504bb0df35c69, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: a567a4649ed41ac499d0c04db94a467f, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 8faf3c25b9b36dd4f82cf229eee53c35, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 76039cfdcba18084f979b66575a1e3c3, type: 2}
+    moveRank: 4

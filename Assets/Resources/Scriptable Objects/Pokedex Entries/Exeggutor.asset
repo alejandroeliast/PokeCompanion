@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Exeggutor
+  m_EditorClassIdentifier: 
+  pkID: 119
+  pkNumber: 103
+  pkName: Exeggutor
+  pkSpecies: Coconut
+  pkType1: 11
+  pkType2: 13
+  pkHeight: 2
+  pkWeight: 120
+  pkAbility1: Chlorophyll
+  pkAbility2: Harvest
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Exeggcute
+  pkEvoName2: Exeggutor
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 2
+  pkMaxDexterity: 4
+  pkMinVitality: 3
+  pkMaxVitality: 6
+  pkMinSpecial: 4
+  pkMaxSpecial: 8
+  pkMinInsight: 2
+  pkMaxInsight: 4
+  pkBaseHP: 6
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 2
+  pkVariantNames:
+  - Exeggutor
+  - Exeggutor Alola
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: d27995a3f0362ff40ae5562379863fe5, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: cd21557d34f92f445a44c123257b0009, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 3d6cce0b34ecef245b3dddaa15f363be, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 56f996ccbdd69f4428afa05151f35707, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6439c74176289344baf6c548310eb393, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 8a229cb8de8acee47bcf6bcce154872a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 2c5cae30ce2979843b7dbf48e2db031a, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 458237e4b82330a44ad462eb7302d023, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 1c98a1f4d6e33ae49a149f83325037eb, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: e9c410c21f35ef64988d2977c94ffdfb, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: ace2f41621733394e9aa47e5feac433b, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 062a6d7a9f6c5e342abcfc40f9ef61b8, type: 2}
+    moveRank: 4

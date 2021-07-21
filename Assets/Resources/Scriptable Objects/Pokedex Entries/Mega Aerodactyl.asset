@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Mega Aerodactyl
+  m_EditorClassIdentifier: 
+  id: 142
+  namePoke: Mega Aerodactyl
+  species: Fossil
+  type1: 5
+  type2: 2
+  height: 2.1
+  weight: 180
+  ability1: Tough Claws
+  ability2: '-'
+  evoStage: Mega Evolution
+  evoQty: 2
+  evoName1: Aerodactyl
+  evoName2: Mega Aerodactyl
+  evoName3: None
+  evoMethod: 15
+  minStrength: 4
+  maxStrength: 8
+  minDexterity: 4
+  maxDexterity: 9
+  minVitality: 2
+  maxVitality: 5
+  minSpecial: 2
+  maxSpecial: 4
+  minInsight: 3
+  maxInsight: 6
+  baseHP: 5
+  rank: 4
+  origin: Mega
+  variants: 2
+  varNames:
+  - Aerodactyl
+  - Mega Aerodactyl
+  moves:
+  - moveData: {fileID: 11400000, guid: 5b1fdbe6eb4349d43a756031960b8bc4, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 5d8689e0bbda3e74a812e07c5ce276cd, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 20dc567a6affb014b8337354aca0efdc, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 4f09c4db73a6799429e9dac57e9dc238, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 6d35ef55d7f41614b9df91e981f03649, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: de4a75d0d2a8d9f4ab676dbe9600292f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e64eb43f8b26a414eb00fd616f5e57cc, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 6023dcdce65b8c1458499f0c36f9e8f5, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 3bbb183c43d79ec409b5db525494df64, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ac6fa672bb8961344b3fc0cf242ad18d, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 20a8a7f701ae9174d9c32c5aa2d1ae31, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 9a41cd9e751919340a3ac49e710b2b71, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 272c3985765a54a419ff5b0f417353ba, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: ae4e92c528be1de4eb80e9387eb22e69, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 80aa3f7939bd3ed43bf835539585f356, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: d6caa2ccb8f29114f9860901f779ff51, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: f5455353adeee404aa5b9d85c33311ea, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 227f069f7ae201a46bf4356f2a161110, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: ed691e5b2f8ceeb42a51630b062eee6e, type: 2}
+    moveRank: 4

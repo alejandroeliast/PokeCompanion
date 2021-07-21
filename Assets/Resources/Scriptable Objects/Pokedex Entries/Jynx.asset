@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Jynx
+  m_EditorClassIdentifier: 
+  pkID: 142
+  pkNumber: 124
+  pkName: Jynx
+  pkSpecies: Humanshape
+  pkType1: 14
+  pkType2: 13
+  pkHeight: 1.4
+  pkWeight: 40.6
+  pkAbility1: Oblivious
+  pkAbility2: Forewarn
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Smoochum
+  pkEvoName2: Jynx
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 2
+  pkMaxStrength: 4
+  pkMinDexterity: 3
+  pkMaxDexterity: 7
+  pkMinVitality: 1
+  pkMaxVitality: 3
+  pkMinSpecial: 4
+  pkMaxSpecial: 8
+  pkMinInsight: 3
+  pkMaxInsight: 7
+  pkBaseHP: 5
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Jynx
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: a623d679affd08c46b16a82d2f9bd23e, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 415a05bab71fdd94d94dbdcc37038b06, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 27bebb1b2cffed7409c7ee9ec1739329, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 06f6f5ed8aef3274180d9dfcfe0097dd, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: e0541b5d7b0aab946b622be25155b641, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 9685227198b57c0468c72689c5ec3a89, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: e5c0c24fd84637845934917b8603e119, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 1eef5eb889f1c45479e669438ab30a21, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 93196dd9d89334145a53cb53ad4e494f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: aeae733992b14c040b6e6214a49d9957, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 895593bc103b21e48835a95fb691263f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: a720701353ae31148bccbb2d6d06f77b, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 51d5f5309d46caf46b3c96f873955d66, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 100c35a8e6481024ea0240ecc687028d, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: fac41e1b4f8e90442ba9edfd7e18bd03, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: d301af88ff5f1cf4dba2af0671cbd55c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 47fc7ea0cdb903246a1b4585e0bf906c, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 1f6ad188b11a75a4982f3519210c4d30, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 065766f167c504c40ae83c779d3071ba, type: 2}
+    moveRank: 4

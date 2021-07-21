@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Cloyster
+  m_EditorClassIdentifier: 
+  pkID: 107
+  pkNumber: 91
+  pkName: Cloyster
+  pkSpecies: Bivalve
+  pkType1: 10
+  pkType2: 14
+  pkHeight: 1.5
+  pkWeight: 132.5
+  pkAbility1: Shell Armor
+  pkAbility2: Skill Link
+  pkEvoStage: Final
+  pkEvoQty: 2
+  pkEvoName1: Shellder
+  pkEvoName2: Cloyster
+  pkEvoName3: None
+  pkEvoMethod: 15
+  pkMinStrength: 3
+  pkMaxStrength: 6
+  pkMinDexterity: 2
+  pkMaxDexterity: 5
+  pkMinVitality: 5
+  pkMaxVitality: 10
+  pkMinSpecial: 3
+  pkMaxSpecial: 6
+  pkMinInsight: 1
+  pkMaxInsight: 3
+  pkBaseHP: 3
+  pkRank: 2
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Cloyster
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: 773e610c14a276c4da438758ca47814d, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: f53c3da49d967c34299d9db48f146a70, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 5d8689e0bbda3e74a812e07c5ce276cd, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: d178cd90df995014bbc9860cdbc8db47, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 70560ce0e9cfab64ebd8c316c764fdf9, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 56423e53a607fc344b2cac02f8c2b8cb, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 2878940fbe10ad34292665e873e2b868, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: d3b8f31389d11d9449b8f7eaa97c42e6, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 0979d35266821a64da78c34cad2afd9c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: 606dd87cec85f6346b90979b50e0897c, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: fa00c418465a000409b99112eff9bbbf, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 585eee227c5f38546bfe21671fc87905, type: 2}
+    moveRank: 4
+  - moveData: {fileID: 11400000, guid: 4a65ae7e1be98d6498d86dc4e2187553, type: 2}
+    moveRank: 4

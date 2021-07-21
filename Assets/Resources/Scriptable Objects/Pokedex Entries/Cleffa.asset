@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c6e019fb99fb784fa7e27e7bc569d8d, type: 3}
+  m_Name: Cleffa
+  m_EditorClassIdentifier: 
+  pkID: 191
+  pkNumber: 173
+  pkName: Cleffa
+  pkSpecies: Star Shape
+  pkType1: 17
+  pkType2: 18
+  pkHeight: 0.3
+  pkWeight: 3
+  pkAbility1: Cute Charm
+  pkAbility2: Magic Guard
+  pkEvoStage: First
+  pkEvoQty: 3
+  pkEvoName1: Cleffa
+  pkEvoName2: Clefairy
+  pkEvoName3: Clefable
+  pkEvoMethod: 15
+  pkMinStrength: 1
+  pkMaxStrength: 2
+  pkMinDexterity: 1
+  pkMaxDexterity: 2
+  pkMinVitality: 1
+  pkMaxVitality: 2
+  pkMinSpecial: 2
+  pkMaxSpecial: 4
+  pkMinInsight: 2
+  pkMaxInsight: 5
+  pkBaseHP: 4
+  pkRank: 0
+  pkOrigin: Original
+  pkVariantAmount: 1
+  pkVariantNames:
+  - Cleffa
+  pkMoves:
+  - moveData: {fileID: 11400000, guid: a623d679affd08c46b16a82d2f9bd23e, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: 51a57a5f158b76b47b360697729bf929, type: 2}
+    moveRank: 0
+  - moveData: {fileID: 11400000, guid: af8b1b2435c794b44ad546bc1b761574, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: 70b14320f9dd7654c84d1341fa5a22d8, type: 2}
+    moveRank: 1
+  - moveData: {fileID: 11400000, guid: a9ffea4fd89c1b442be812ef73afc6e8, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 1f69974be8f5c2741b98b89ed3bdb676, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 763f32aa935039e4f922c6bbbd887adb, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 895593bc103b21e48835a95fb691263f, type: 2}
+    moveRank: 2
+  - moveData: {fileID: 11400000, guid: 4ca92eb393975a444ada374966c9045a, type: 2}
+    moveRank: 3
+  - moveData: {fileID: 11400000, guid: cad01a87ffeac374bacb397a059271ea, type: 2}
+    moveRank: 4
