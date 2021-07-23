@@ -5,19 +5,18 @@ namespace Pokedex
 {
     public class PokedexEntryUpdater : MonoBehaviour
     {
-        [HideInInspector] public PokedexEntry entry;        
+        [HideInInspector] public PokedexEntry entry;
 
-        [SerializeField] private DDexMarkUpdater _entryMarks;
-        [SerializeField] private List<DDexStats> entryStats = new List<DDexStats>();
-        [SerializeField] private List<DDexEvolution> entryEvos = new List<DDexEvolution>();
-        [SerializeField] private DDexWeakness entryWeakness;
-        [SerializeField] private DDexMoveSpawner entryMoveSpawner;
+        [SerializeField] private List<PokedexStats> entryStats = new List<PokedexStats>();
+        [SerializeField] private List<PokedexEvolutions> entryEvolutions = new List<PokedexEvolutions>();
+        [SerializeField] private PokedexEvolutionSplits entryEvolutionSplit;
+        [SerializeField] private PokedexMoveSpawner entryMoveSpawner;
 
         private List<IItemUpdater> _itemUpdaters = new List<IItemUpdater>();
 
         private void Awake()
         {
-            foreach (var item in GetComponents<IItemUpdater>())
+            foreach (var item in GetComponentsInChildren<IItemUpdater>())
             {
                 _itemUpdaters.Add(item);
             }
@@ -40,33 +39,28 @@ namespace Pokedex
                 item.UpdateItem(entry);
             }
 
-            // Marks
-            if (_entryMarks != null) _entryMarks.UpdateMark(entry);
-
             // Stats
-            entryStats[0].UpdateStat(entry.pkMinStrength, entry.pkMaxStrength);
-            entryStats[1].UpdateStat(entry.pkMinDexterity, entry.pkMaxDexterity);
-            entryStats[2].UpdateStat(entry.pkMinVitality, entry.pkMaxVitality);
-            entryStats[3].UpdateStat(entry.pkMinSpecial, entry.pkMaxSpecial);
-            entryStats[4].UpdateStat(entry.pkMinInsight, entry.pkMaxInsight);
+            foreach (PokedexStats item in entryStats)
+            {
+                item.UpdateItem(entry);
+            }
 
             // Evo Line
             for (int i = 0; i < 3; i++)
             {
-                entryEvos[i].HideEvoSlot();
+                entryEvolutions[i].HideEvoSlot();
             }
             for (int i = 0; i < entry.pkEvoQty; i++)
             {
                 if (i == 0)
-                    entryEvos[i].UpdateEvoSlot(entry.pkEvoName1);
+                    entryEvolutions[i].UpdateEvoSlot(entry.pkEvoName1);
                 else if (i == 1)
-                    entryEvos[i].UpdateEvoSlot(entry.pkEvoName2);
+                    entryEvolutions[i].UpdateEvoSlot(entry.pkEvoName2);
                 else if (i == 2)
-                    entryEvos[i].UpdateEvoSlot(entry.pkEvoName3);
+                    entryEvolutions[i].UpdateEvoSlot(entry.pkEvoName3);
             }
 
-            // Weakness
-            entryWeakness.UpdateWeakness(entry.pkType1, entry.pkType2);
+            entryEvolutionSplit.HideSplit();
 
             // Moves
             entryMoveSpawner.ClearMoves();

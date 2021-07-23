@@ -162,7 +162,7 @@ GameObject:
   - component: {fileID: 731978666971545760}
   - component: {fileID: 8784124218474379554}
   m_Layer: 5
-  m_Name: Dex Move
+  m_Name: Move
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -384,7 +384,7 @@ MonoBehaviour:
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 512
   m_textAlignment: 65535
-  m_characterSpacing: -25
+  m_characterSpacing: -10
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
