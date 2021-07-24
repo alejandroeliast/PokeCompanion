@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 1920
     height: 1007
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Game
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 542}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -400,9 +400,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: a8490000
-      m_LastClickedID: 18856
-      m_ExpandedIDs: 4afbffff00400000a0430000f4480000344e0000085000002a5200007a5d0000
+      m_SelectedIDs: c69d1f00
+      m_LastClickedID: 0
+      m_ExpandedIDs: fa02fdff3e79feff98f6feff4afbffff00400000ac4000007a45000010490000344e0000085000008a5000002a520000225c0000785e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -463,9 +463,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1135.6951, y: 486.31937, z: -32.1702}
+    m_Target: {x: 172.5611, y: 1021.40045, z: -138.39804}
     speed: 2
-    m_Value: {x: 1135.6951, y: 486.31937, z: -32.1702}
+    m_Value: {x: 172.5611, y: 1021.40045, z: -138.39804}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -516,9 +516,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 458.9853
+    m_Target: 103.09923
     speed: 2
-    m_Value: 458.9853
+    m_Value: 103.09923
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -582,22 +582,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs/Pokedex/Entry
+    - Assets/Art/Dashboard/Pokedex/Folders
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Prefabs/Pokedex/Entry
+  - Assets/Art/Dashboard/Pokedex/Folders
   m_LastFoldersGridSize: 16
   m_LastProjectPath: D:\GitHub\PokeCompanion
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 393}
-    m_SelectedIDs: 3e8c0000
-    m_LastClickedID: 35902
-    m_ExpandedIDs: 00000000ee8b0000f08b0000f28b0000f48b0000f68b0000f88b0000fa8b0000fc8b0000fe8b0000008c00002e8c0000408c000000ca9a3b
+    scrollPos: {x: 0, y: 133}
+    m_SelectedIDs: 1e8c0000
+    m_LastClickedID: 35870
+    m_ExpandedIDs: 00000000ee8b0000f08b0000f28b0000f48b0000f68b0000f88b0000fa8b0000fc8b0000fe8b0000008c00001e8c00002e8c0000308c0000368c0000408c0000588c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -652,22 +652,22 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c6230000385000004a5d00005c5d00002c3c0b0030600000
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c6230000385000004a5d00005c5d00002c3c0b003060000026960000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: PokedexCustomFolder
+      m_OriginalName: PokedexCustomFolder
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 654754
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_CreateAssetUtility:

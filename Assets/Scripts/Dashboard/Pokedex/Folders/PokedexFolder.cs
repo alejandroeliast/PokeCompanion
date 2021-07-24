@@ -5,12 +5,12 @@ namespace Pokedex
 {
     public class PokedexFolder : MonoBehaviour
     {
-        public bool IsActive { get; private set; }
-        public PokedexIndex Index { get; private set; }
+        public bool IsActive { get; protected set; }
+        public PokedexIndex Index { get; protected set; }
 
-        private int _id;
-        private Event _event;        
-        private PokedexFolderStyle _style;
+        protected int _id;
+        protected Event _event;
+        protected PokedexFolderStyle _style;
 
         public static event Action<int> OnSelected;
         public static event Action<int> OnShiftSelected;
@@ -18,7 +18,7 @@ namespace Pokedex
 
         protected virtual void Start()
         {
-            Index = Resources.Load<PokedexIndex>($"Scriptable Objects/Pokedex Index/{"Pokedex " + transform.name}");
+            
             _style = GetComponent<PokedexFolderStyle>();
         }
 

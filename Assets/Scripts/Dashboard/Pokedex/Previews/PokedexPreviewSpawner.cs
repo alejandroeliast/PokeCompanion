@@ -31,10 +31,10 @@ namespace Pokedex
             }
         }
 
-        public void FilterPreviews(PokedexIndex region)
+        public void FilterPreviews(PokedexIndex index)
         {
             ClearPreviews();
-            SpawnPreviews(region);
+            SpawnPreviews(index);
         }
 
         public void ResetPreviews()

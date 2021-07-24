@@ -8,6 +8,7 @@ namespace Pokedex
     {
         protected override void Start()
         {
+            Index = Resources.Load<PokedexIndex>($"Scriptable Objects/Pokedex Index/{"Pokedex " + transform.name}");
             base.Start();
         }
     }

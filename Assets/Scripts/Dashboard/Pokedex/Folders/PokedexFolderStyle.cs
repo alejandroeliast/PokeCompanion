@@ -8,23 +8,28 @@ namespace Pokedex
 {
     public class PokedexFolderStyle : MonoBehaviour
     {
-        [SerializeField] private List<Color> _colors = new List<Color>();
+        [SerializeField] private List<Color> folderColors = new List<Color>();
+        [SerializeField] private Image folderIcon;
 
         private void UpdateVisual(int b, int t)
         {
             var button = GetComponentInChildren<Button>();
 
             var colors = button.colors;
-            colors.normalColor = _colors[b];
-            colors.highlightedColor = _colors[b];
-            colors.pressedColor = _colors[b];
-            colors.selectedColor = _colors[b];
-            colors.disabledColor = _colors[b];
+            colors.normalColor = folderColors[b];
+            colors.highlightedColor = folderColors[b];
+            colors.pressedColor = folderColors[b];
+            colors.selectedColor = folderColors[b];
+            colors.disabledColor = folderColors[b];
             button.colors = colors;
 
             var text = GetComponentInChildren<TextMeshProUGUI>();
 
-            text.color = _colors[t];
+            if (text != null)
+                text.color = folderColors[t];
+
+            if (folderIcon != null)
+                folderIcon.color = folderColors[t];
         }
 
         public void SetActive()
